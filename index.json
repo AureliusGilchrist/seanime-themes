@@ -1,0 +1,3750 @@
+{
+  "version": "1",
+  "generatedAt": "2026-05-03T02:56:18.950Z",
+  "themes": [
+    {
+      "id": "20th-century-boys",
+      "name": "20th Century Boys",
+      "description": "Rock saves the world. Kenji Endo, the Book of Prophecy, a childhood promise against the Friend's cult, and T-Rex echoing through history's darkest conspiracy.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060504",
+        "primary": "#c8880a",
+        "secondary": "#a26c06",
+        "accent": "#1a3050"
+      },
+      "themeRef": "themes/20th-century-boys/theme.json",
+      "backgroundImageUrl": "/themes/20th-century-boys.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "91-days",
+      "name": "91 Days",
+      "description": "During Prohibition, Angelo Lagusa witnesses his family's murder by the Vanetti mafia. Seven years later, he returns under a false identity to exact revenge — infiltrating the mob that destroyed his life.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050200",
+        "primary": "#765526",
+        "secondary": "#505050",
+        "accent": "#e0c888"
+      },
+      "themeRef": "themes/91-days/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "a-silent-voice",
+      "name": "A Silent Voice",
+      "description": "Shoya Ishida bullied deaf classmate Shoko Nishimiya in elementary school. Years later, plagued by guilt and isolation, he seeks her out to make amends — and discovers the true cost of connection.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#235aac",
+        "secondary": "#8888aa",
+        "accent": "#a8d8f0"
+      },
+      "themeRef": "themes/a-silent-voice/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "accel-world",
+      "name": "Accel World",
+      "description": "Bullied middle schooler Haruyuki is recruited by the beautiful student council vice president Kuroyukihime into Brain Burst — a secret game that accelerates time. His avatar Black Lotus hides surprising power.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030008",
+        "primary": "#6423de",
+        "secondary": "#cc2020",
+        "accent": "#d8b8f8"
+      },
+      "themeRef": "themes/accel-world/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "akame-ga-kill",
+      "name": "Akame ga Kill!",
+      "description": "Country boy Tatsumi arrives in the capital seeking fortune and is recruited by Night Raid, a group of elite assassins using legendary weapons called Teigu to fight against the empire's ruthless corruption.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020000",
+        "primary": "#b90a0a",
+        "secondary": "#910505",
+        "accent": "#e8e830"
+      },
+      "themeRef": "themes/akame-ga-kill/theme.json",
+      "backgroundImageUrl": "/themes/akame-ga-kill.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "amagi-brilliant-park",
+      "name": "Amagi Brilliant Park",
+      "description": "High school narcissist Seiya is coerced at gunpoint into managing a failing amusement park inhabited by magical beings from a fantasy realm. With 100 days to draw 250,000 visitors, he brings ruthless efficiency to the rescue.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#d25500",
+        "secondary": "#5050a0",
+        "accent": "#f8d070"
+      },
+      "themeRef": "themes/amagi-brilliant-park/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ancient-magus-bride",
+      "name": "The Ancient Magus' Bride",
+      "description": "Chise Hatori, an unwanted girl sold at auction, is purchased by the mysterious mage Elias Ainsworth who declares her his apprentice — and bride. In a world of magic and faeries, she learns the value of her own life.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#208e3a",
+        "secondary": "#886868",
+        "accent": "#c8e8d0"
+      },
+      "themeRef": "themes/ancient-magus-bride/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "angel-beats",
+      "name": "Angel Beats!",
+      "description": "Welcome to the afterlife. A school beyond death where the SSS battlefront fights against obliteration, Girls Dead Monster plays on, and every soul finds its song.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030508",
+        "primary": "#78b4ff",
+        "secondary": "#5f96dc",
+        "accent": "#a0d0ff"
+      },
+      "themeRef": "themes/angel-beats/theme.json",
+      "backgroundImageUrl": "/themes/angel-beats.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "anohana",
+      "name": "AnoHana",
+      "description": "Five years after the accidental death of Meiko 'Menma' Honma, her ghost appears to her childhood friend Jintan — the only one who can see her. She has one unfinished wish, and fulfilling it might finally let her rest.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010405",
+        "primary": "#448abe",
+        "secondary": "#286ca0",
+        "accent": "#f0e080"
+      },
+      "themeRef": "themes/anohana/theme.json",
+      "backgroundImageUrl": "/themes/anohana.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "another",
+      "name": "Another",
+      "description": "Transfer student Kouichi Sakakibara arrives in class 3-3 to find a dark secret — the class is haunted by the curse of a dead student, and a girl named Mei Misaki seems invisible to everyone. The calamity is coming.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040004",
+        "primary": "#703070",
+        "secondary": "#880000",
+        "accent": "#e0d0e0"
+      },
+      "themeRef": "themes/another/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ao-haru-ride",
+      "name": "Ao Haru Ride",
+      "description": "Futaba Yoshioka lost her first love Kou when he suddenly moved away. Years later he returns — changed and distant. She reaches out to reclaim their connection, only to find a more complicated truth.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#1268c3",
+        "secondary": "#7878aa",
+        "accent": "#b8d8f8"
+      },
+      "themeRef": "themes/ao-haru-ride/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ao-no-exorcist",
+      "name": "Ao no Exorcist",
+      "description": "Rin Okumura discovers he is the son of Satan himself — and after his guardian's death, vows to become an exorcist and defeat his own father. Training at True Cross Academy, he must hide his demonic flames.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000105",
+        "primary": "#2341a8",
+        "secondary": "#122a8a",
+        "accent": "#e05020"
+      },
+      "themeRef": "themes/ao-no-exorcist/theme.json",
+      "backgroundImageUrl": "/themes/ao-no-exorcist.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "aria",
+      "name": "Aria the Animation",
+      "description": "In a utopian future terraformed Mars called Aqua, Akari trains as an undine — a gondolier guide — in the Venice-like city of Neo-Venezia. The series is a quiet meditation on wonder, gratitude, and the beauty of everyday life.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000209",
+        "primary": "#126cd7",
+        "secondary": "#c8a040",
+        "accent": "#a8d8f8"
+      },
+      "themeRef": "themes/aria/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "arifureta",
+      "name": "Arifureta: From Commonplace to World's Strongest",
+      "description": "Average student Hajime Nagumo is betrayed and left for dead at the bottom of a deadly dungeon. Consumed by the abyss, he emerges remade — cold, merciless, and overwhelmingly powerful, determined to find a way home.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020304",
+        "primary": "#6274b0",
+        "secondary": "#445496",
+        "accent": "#f0e8d8"
+      },
+      "themeRef": "themes/arifureta/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "arslan-senki",
+      "name": "The Heroic Legend of Arslan",
+      "description": "Young Prince Arslan of Pars watches his kingdom fall to the treacherous Lusitanian army — now a fugitive prince with a small band of loyal retainers, he must rise to reclaim his throne and create a truly just kingdom.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050200",
+        "primary": "#b46014",
+        "secondary": "#914405",
+        "accent": "#c8a828"
+      },
+      "themeRef": "themes/arslan-senki/theme.json",
+      "backgroundImageUrl": "/themes/arslan-senki.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ashita-no-joe",
+      "name": "Ashita no Joe",
+      "description": "Joe Yabuki is a delinquent from the slums whose raw talent for boxing catches trainer Danpei's eye. His meteoric rise through the boxing world burns with fierce passion — and foreshadows a tragic end.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050100",
+        "primary": "#a24116",
+        "secondary": "#505050",
+        "accent": "#e8c890"
+      },
+      "themeRef": "themes/ashita-no-joe/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "azumanga-daioh",
+      "name": "Azumanga Daioh",
+      "description": "A group of quirky high school girls — including child prodigy Chiyo, spacey Osaka, and catloving Sakaki — navigate daily school life with relentless absurdist humor that pioneered the modern slice-of-life genre.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010400",
+        "primary": "#50af16",
+        "secondary": "#e04040",
+        "accent": "#f0f0a0"
+      },
+      "themeRef": "themes/azumanga-daioh/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "baccano",
+      "name": "Baccano!",
+      "description": "Prohibition-era New York, 1930s — immortals, alchemists, thieves, and railroad gangsters collide across timelines in a blood-soaked, darkly comedic mystery told out of sequence.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060400",
+        "primary": "#a55a0f",
+        "secondary": "#604408",
+        "accent": "#c0c0c0"
+      },
+      "themeRef": "themes/baccano/theme.json",
+      "backgroundImageUrl": "/themes/baccano.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "baki",
+      "name": "Baki the Grappler",
+      "description": "Baki Hanma trains obsessively to defeat his father Yujiro — the strongest creature on earth. He fights legendary martial artists across styles and genres in the most extreme combat tournament imaginable.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060000",
+        "primary": "#a81919",
+        "secondary": "#505050",
+        "accent": "#f0a0a0"
+      },
+      "themeRef": "themes/baki/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "banana-fish",
+      "name": "Banana Fish",
+      "description": "Ash Lynx is a beautiful, deadly street gang leader in New York caught up in a conspiracy around a mysterious drug called Banana Fish. His meeting with Japanese photographer Eiji changes everything.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050200",
+        "primary": "#845219",
+        "secondary": "#506080",
+        "accent": "#e8d0a0"
+      },
+      "themeRef": "themes/banana-fish/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "barakamon",
+      "name": "Barakamon",
+      "description": "Calligrapher Seishuu Handa, criticized for being too textbook-perfect, punches a curator and is exiled to the Goto Islands. The island's warm villagers — especially a mischievous girl named Naru — teach him what real art means.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#349419",
+        "secondary": "#c08040",
+        "accent": "#c8f0b8"
+      },
+      "themeRef": "themes/barakamon/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "battle-angel-alita",
+      "name": "Battle Angel Alita",
+      "description": "Born from the Scrapyard, forged in Motorball. A cybernetic interface of Panzer Kunst precision, berserker fury, and the dream of Zalem.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080604",
+        "primary": "#c8a050",
+        "secondary": "#9b782d",
+        "accent": "#5a4614"
+      },
+      "themeRef": "themes/battle-angel-alita/theme.json",
+      "backgroundImageUrl": "/themes/battle-angel-alita.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "beelzebub",
+      "name": "Beelzebub",
+      "description": "Delinquent Tatsumi Oga finds a baby floating down a river — who turns out to be the infant son of the Great Demon Lord, making Oga his chosen human parent. Now he must raise the future King of Demons while navigating high school brawls.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010208",
+        "primary": "#1258d7",
+        "secondary": "#003cb2",
+        "accent": "#f0d020"
+      },
+      "themeRef": "themes/beelzebub/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "berserk-of-gluttony",
+      "name": "Berserk of Gluttony",
+      "description": "Devour to grow stronger. A dark interface channeling Fate Graphite's insatiable Gluttony skill, soul absorption, and the hunger that consumes all.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060308",
+        "primary": "#a028c8",
+        "secondary": "#871eaf",
+        "accent": "#6e1694"
+      },
+      "themeRef": "themes/berserk-of-gluttony/theme.json",
+      "backgroundImageUrl": "/themes/berserk-of-gluttony.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "black-butler",
+      "name": "Black Butler",
+      "description": "In Victorian England, twelve-year-old Ciel Phantomhive runs the family empire with his infallible butler Sebastian — who is not human, bound to Ciel by a Faustian contract sealed with a demon's mark.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010000",
+        "primary": "#4b4491",
+        "secondary": "#342d76",
+        "accent": "#e0c060"
+      },
+      "themeRef": "themes/black-butler/theme.json",
+      "backgroundImageUrl": "/themes/black-butler.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "black-lagoon",
+      "name": "Black Lagoon",
+      "description": "Salary man Rokuro Okajima is kidnapped by the Lagoon Company — a trio of mercs in a torpedo boat — and ends up joining them as they run guns, drugs, and worse through the criminal port city of Roanapur.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050000",
+        "primary": "#870f0f",
+        "secondary": "#521000",
+        "accent": "#d0c050"
+      },
+      "themeRef": "themes/black-lagoon/theme.json",
+      "backgroundImageUrl": "/themes/black-lagoon.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "blade-of-the-immortal",
+      "name": "Blade of the Immortal",
+      "description": "A blood-soaked path of vengeance. Manji's cursed immortality, Rin's quest for revenge, and the Itto-ryu's ruthless ambition stain this interface in crimson.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080304",
+        "primary": "#8c1414",
+        "secondary": "#5f0a0a",
+        "accent": "#d23030"
+      },
+      "themeRef": "themes/blade-of-the-immortal/theme.json",
+      "backgroundImageUrl": "/themes/blade-of-the-immortal.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "blame",
+      "name": "BLAME!",
+      "description": "Wander the infinite Megastructure. A cold, industrial interface forged from steel corridors, GBE precision, and the endless search for the Net Terminal Gene.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040506",
+        "primary": "#78828c",
+        "secondary": "#5f6973",
+        "accent": "#48505a"
+      },
+      "themeRef": "themes/blame/theme.json",
+      "backgroundImageUrl": "/themes/blame.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "blue-box",
+      "name": "Blue Box",
+      "description": "Taiki Inomaki, a badminton player, falls for upperclassman and basketball star Chinatsu Kano. When they unexpectedly become housemates, their awkward coexistence slowly blossoms into an earnest romantic story.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000308",
+        "primary": "#0860d4",
+        "secondary": "#0042af",
+        "accent": "#f0a030"
+      },
+      "themeRef": "themes/blue-box/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "blue-lock",
+      "name": "Blue Lock",
+      "description": "Devour it all. A striker's interface forged in Blue Lock's ego-driven facility — spatial awareness, chemical reactions, and the hunger to become the world's best.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020408",
+        "primary": "#0064ff",
+        "secondary": "#0050d2",
+        "accent": "#3388ff"
+      },
+      "themeRef": "themes/blue-lock/theme.json",
+      "backgroundImageUrl": "/themes/blue-lock.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "blue-period",
+      "name": "Blue Period",
+      "description": "Yatora Yaguchi is an excellent student with an empty life — until a single blue painting cracks him open and ignites a consuming passion for art. His desperate pursuit of Tokyo University of the Arts is a visceral portrait of obsession and creative suffering.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#2050d0",
+        "secondary": "#1030a0",
+        "accent": "#d8c8a8"
+      },
+      "themeRef": "themes/blue-period/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "bocchi-the-rock",
+      "name": "Bocchi the Rock!",
+      "description": "From hikikomori to guitar hero. Kessoku Band's hot-pink energy bursts across every stage, with Bocchi's heart-pounding solos and STARRY's spotlight lighting the way.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0305",
+        "primary": "#e8448a",
+        "secondary": "#c02d6e",
+        "accent": "#b8a0d0"
+      },
+      "themeRef": "themes/bocchi-the-rock/theme.json",
+      "backgroundImageUrl": "/themes/bocchi-the-rock.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "candy-candy",
+      "name": "Candy Candy",
+      "description": "The irrepressibly cheerful orphan Candice White Ardlay grows up in a children's home, falling in love, suffering heartbreak, and spreading joy wherever she goes — in this legendary shojo classic that defined a generation.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060002",
+        "primary": "#e1428c",
+        "secondary": "#c31c6c",
+        "accent": "#f8e040"
+      },
+      "themeRef": "themes/candy-candy/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "captain-tsubasa",
+      "name": "Captain Tsubasa",
+      "description": "Tsubasa Ozora's dream is to win the World Cup for Japan. With the ball as his best friend, he overcomes rivals across Japan and the world through tireless effort and breathtaking technique.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#1650cd",
+        "secondary": "#cc2020",
+        "accent": "#f0f0f0"
+      },
+      "themeRef": "themes/captain-tsubasa/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "cardcaptor-sakura",
+      "name": "Cardcaptor Sakura",
+      "description": "Release! Magical card-sealing aesthetics with Clow Cards wonder, star wand radiance, and Sakura's cheerful invincible heart.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040208",
+        "primary": "#e8449a",
+        "secondary": "#c82d7d",
+        "accent": "#f8c800"
+      },
+      "themeRef": "themes/cardcaptor-sakura/theme.json",
+      "backgroundImageUrl": "/themes/cardcaptor-sakura.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "castle-in-the-sky",
+      "name": "Castle in the Sky",
+      "description": "A boy and girl with a mysterious crystal flee sky pirates and military forces to find the legendary floating fortress of Laputa — Miyazaki's soaring adventure of wonder.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010608",
+        "primary": "#148ee1",
+        "secondary": "#0c72bc",
+        "accent": "#c8a430"
+      },
+      "themeRef": "themes/castle-in-the-sky/theme.json",
+      "backgroundImageUrl": "/themes/castle-in-the-sky.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "cells-at-work",
+      "name": "Cells at Work!",
+      "description": "Inside the human body, trillions of cells work tirelessly. A cheerful Red Blood Cell delivers oxygen while a fierce White Blood Cell battles bacteria — together they keep the body alive.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060000",
+        "primary": "#da1c1c",
+        "secondary": "#ffffff",
+        "accent": "#3060c0"
+      },
+      "themeRef": "themes/cells-at-work/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "charlotte",
+      "name": "Charlotte",
+      "description": "Some teenagers develop supernatural abilities during puberty. Yuu Otosaka abuses his for personal gain until he's caught and recruited into the student council that polices ability users — and learns of a darker truth.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#2a5cd7",
+        "secondary": "#c84888",
+        "accent": "#a8c8f8"
+      },
+      "themeRef": "themes/charlotte/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "chihayafuru",
+      "name": "Chihayafuru",
+      "description": "Chihaya Ayase discovers karuta — competitive card-matching based on classical poetry — and falls in love with the game. She forms a high school team to reach the national championship and reunite with her childhood friend.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#1269c8",
+        "secondary": "#cc4488",
+        "accent": "#b8d8f8"
+      },
+      "themeRef": "themes/chihayafuru/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "chobits",
+      "name": "Chobits",
+      "description": "Country boy Hideki finds an abandoned Persocom android in the trash — a mysterious girl-like unit with no memory named Chi. As he tries to restore her, he falls for her and uncovers a secret that changes everything.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060002",
+        "primary": "#c83ea2",
+        "secondary": "#8080c0",
+        "accent": "#f8d0f0"
+      },
+      "themeRef": "themes/chobits/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "city-hunter",
+      "name": "City Hunter",
+      "description": "Ryo Saeba is the City Hunter — Tokyo's best sweeper who'll handle any dangerous job, except his only weakness is beautiful women. Get Ryo Saeba on your side with a chalk message on the board at Shinjuku Station.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060400",
+        "primary": "#d46000",
+        "secondary": "#883a00",
+        "accent": "#c8c8c8"
+      },
+      "themeRef": "themes/city-hunter/theme.json",
+      "backgroundImageUrl": "/themes/city-hunter.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "clannad",
+      "name": "Clannad",
+      "description": "The place where wishes come true. A warm family-hearted interface woven with Dango spirit, Illusionary World light orbs, and the gentle cherry blossoms of Hikarizaka.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030408",
+        "primary": "#829be1",
+        "secondary": "#6982c8",
+        "accent": "#b4c8ff"
+      },
+      "themeRef": "themes/clannad/theme.json",
+      "backgroundImageUrl": "/themes/clannad.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "classroom-of-the-elite",
+      "name": "Classroom of the Elite",
+      "description": "Tokyo Metropolitan Advanced Nurturing High School rewards ability with points. In Class D — the lowest — Kiyotaka Ayanokoji hides extraordinary intellect, manipulating events from the shadows.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#2a3e94",
+        "secondary": "#1e3060",
+        "accent": "#c8a000"
+      },
+      "themeRef": "themes/classroom-of-the-elite/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "claymore",
+      "name": "Claymore",
+      "description": "Silver-eyed warriors forged to hunt Yoma. An interface tempered like a Claymore blade — cold steel, relentless precision, and awakened power.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040506",
+        "primary": "#b4bec8",
+        "secondary": "#828c9b",
+        "accent": "#464e5a"
+      },
+      "themeRef": "themes/claymore/theme.json",
+      "backgroundImageUrl": "/themes/claymore.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "cross-game",
+      "name": "Cross Game",
+      "description": "Ko Kitamura grows up next door to the Tsukishima sisters — the bubbly Wakaba and the cool Aoba. After tragedy strikes, Ko and Aoba are drawn together through baseball and the promise left behind.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#1e8a26",
+        "secondary": "#c04020",
+        "accent": "#c8f0b8"
+      },
+      "themeRef": "themes/cross-game/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "d-gray-man",
+      "name": "D.Gray-man",
+      "description": "In a Victorian-era world ravaged by Akuma, the Black Order's exorcists wield Innocence to combat the forces of the Millennium Earl — Allen Walker's cursed eye sees the souls of the fallen.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030204",
+        "primary": "#554b94",
+        "secondary": "#3e3678",
+        "accent": "#e0b030"
+      },
+      "themeRef": "themes/d-gray-man/theme.json",
+      "backgroundImageUrl": "/themes/d-gray-man.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "dandadan",
+      "name": "Dandadan",
+      "description": "Aliens are real but ghosts aren't! Okarun and Momo crash headfirst into a supernatural world that defies all logic.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050208",
+        "primary": "#8844cc",
+        "secondary": "#6630a8",
+        "accent": "#f0d000"
+      },
+      "themeRef": "themes/dandadan/theme.json",
+      "backgroundImageUrl": "/themes/dandadan.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "danmachi",
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "description": "Bell Cranel is a rookie adventurer in the city of Orario, aspiring to grow stronger after being saved by the beautiful swordswoman Ais Wallenstein — guided by the goddess Hestia, he navigates the monster-filled dungeon beneath the city.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030204",
+        "primary": "#b48223",
+        "secondary": "#926408",
+        "accent": "#5090e0"
+      },
+      "themeRef": "themes/danmachi/theme.json",
+      "backgroundImageUrl": "/themes/danmachi.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "darker-than-black",
+      "name": "Darker than BLACK",
+      "description": "Since the Heavens Gate appeared in South America, stars in the night sky are replaced by false points of light — and Contractors, people who gained special powers at a cost, battle in the shadows for intelligence agencies.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000002",
+        "primary": "#1834b4",
+        "secondary": "#0e2494",
+        "accent": "#80c0ff"
+      },
+      "themeRef": "themes/darker-than-black/theme.json",
+      "backgroundImageUrl": "/themes/darker-than-black.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "date-a-live",
+      "name": "Date A Live",
+      "description": "Spirits cause massive spacequakes when they appear. Shido Itsuka can seal their powers — not by fighting them, but by making them fall in love with him. The only way to save the world is to go on dates.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030008",
+        "primary": "#701ee1",
+        "secondary": "#cc2020",
+        "accent": "#d8b8f8"
+      },
+      "themeRef": "themes/date-a-live/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "death-march",
+      "name": "Death March to the Parallel World Rhapsody",
+      "description": "Overworked programmer Suzuki Ichirou falls asleep and wakes up in a game world, inadvertently maxing out his stats with a meteor shower spell. Now exploring this new world as a tourist with godlike power, enjoying all the simple pleasures of life.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060300",
+        "primary": "#d26008",
+        "secondary": "#a84200",
+        "accent": "#50c890"
+      },
+      "themeRef": "themes/death-march/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "devil-is-a-part-timer",
+      "name": "The Devil Is a Part-Timer!",
+      "description": "Demon Lord Satan flees to modern Tokyo with no magic, forced to work at MgRonald's to survive. His hero-turned-coworker Emi tracks him there — as he discovers that conquering the fast-food world may be harder than Ente Isla.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030008",
+        "primary": "#6c19da",
+        "secondary": "#cc3030",
+        "accent": "#d8b8f8"
+      },
+      "themeRef": "themes/devil-is-a-part-timer/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "dirty-pair",
+      "name": "Dirty Pair",
+      "description": "The Lovely Angels — Kei and Yuri — are top agents of WWWA who always solve cases with a 100% success rate, but somehow level a city each time. Officially: the Dirty Pair.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060206",
+        "primary": "#de19a0",
+        "secondary": "#960e84",
+        "accent": "#f0d020"
+      },
+      "themeRef": "themes/dirty-pair/theme.json",
+      "backgroundImageUrl": "/themes/dirty-pair.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "dorohedoro",
+      "name": "Dorohedoro",
+      "description": "Sorcerers and Hole dwellers in a gritty dance of smoke and chaos. Caiman hunts for his identity one head at a time.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040607",
+        "primary": "#1a6060",
+        "secondary": "#104040",
+        "accent": "#2a9090"
+      },
+      "themeRef": "themes/dorohedoro/theme.json",
+      "backgroundImageUrl": "/themes/dorohedoro.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "dr-slump",
+      "name": "Dr. Slump",
+      "description": "Norimaki Senbei creates the world's most powerful robot — Arale-chan — and somehow she's an innocent little girl who punches the Earth in half. Penguin Village will never be the same.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060202",
+        "primary": "#e11e1e",
+        "secondary": "#940c0c",
+        "accent": "#f0c000"
+      },
+      "themeRef": "themes/dr-slump/theme.json",
+      "backgroundImageUrl": "/themes/dr-slump.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "dr-stone",
+      "name": "Dr. Stone",
+      "description": "10 billion percent! After 3700 years of stone, Senku's Kingdom of Science will rebuild civilization using the power of human knowledge.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0c06",
+        "primary": "#a8cc00",
+        "secondary": "#86a400",
+        "accent": "#0080ff"
+      },
+      "themeRef": "themes/dr-stone/theme.json",
+      "backgroundImageUrl": "/themes/dr-stone.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "dragon-ball-gt",
+      "name": "Dragon Ball GT",
+      "description": "When Black Star Dragon Balls scatter across the universe, Goku is turned into a child and must retrieve them before the Earth is destroyed — an unofficial but memorable final journey.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060300",
+        "primary": "#d65a00",
+        "secondary": "#8a3800",
+        "accent": "#d8c020"
+      },
+      "themeRef": "themes/dragon-ball-gt/theme.json",
+      "backgroundImageUrl": "/themes/dragon-ball-gt.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "durarara",
+      "name": "Durarara!!",
+      "description": "Ordinary high schooler Mikado Ryugamine moves to Ikebukuro and encounters a headless motorcycle rider, color-coded gangs, and an information broker who pulls the strings from the shadows.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040400",
+        "primary": "#c3a200",
+        "secondary": "#7b6600",
+        "accent": "#e05050"
+      },
+      "themeRef": "themes/durarara/theme.json",
+      "backgroundImageUrl": "/themes/durarara.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ef-tale-of-memories",
+      "name": "ef: A Tale of Memories",
+      "description": "Two intertwining love stories unfold in a coastal town — one about a girl who can only retain thirteen hours of memory, the other about a girl who abandoned her dreams for someone who never noticed.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#3458cd",
+        "secondary": "#c04868",
+        "accent": "#b0c8f0"
+      },
+      "themeRef": "themes/ef-tale-of-memories/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "elfen-lied",
+      "name": "Elfen Lied",
+      "description": "Lilium echoes through shattered silence. Diclonius vectors carve the dark, horns crowned in tragedy, as Lucy and Nyu drift between innocence and annihilation.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0306",
+        "primary": "#c83250",
+        "secondary": "#aa2841",
+        "accent": "#eba0af"
+      },
+      "themeRef": "themes/elfen-lied/theme.json",
+      "backgroundImageUrl": "/themes/elfen-lied.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "escaflowne",
+      "name": "The Vision of Escaflowne",
+      "description": "A girl, a destiny, a world of dragons and guymelefs. Gaean interface forged in fate threads, tarot visions, and Ispano craftsmanship.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080604",
+        "primary": "#b48c3c",
+        "secondary": "#826423",
+        "accent": "#6a5019"
+      },
+      "themeRef": "themes/escaflowne/theme.json",
+      "backgroundImageUrl": "/themes/escaflowne.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "eureka-seven",
+      "name": "Eureka Seven",
+      "description": "Teenage Renton Thurston joins the renegade group Gekkostate on the surfing robot LFO Nirvash to fight against the military, inspired by the mysterious pilot Eureka.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000508",
+        "primary": "#0591c8",
+        "secondary": "#0373a5",
+        "accent": "#e0c830"
+      },
+      "themeRef": "themes/eureka-seven/theme.json",
+      "backgroundImageUrl": "/themes/eureka-seven.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "eyeshield-21",
+      "name": "Eyeshield 21",
+      "description": "Shy Sena Kobayakawa's incredible running speed catches the eye of Hiruma, who forces him to become the Devil Bats' secret weapon. A reluctant hero grows into a legend on the American football field.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060200",
+        "primary": "#d75805",
+        "secondary": "#1a3a8a",
+        "accent": "#ffd060"
+      },
+      "themeRef": "themes/eyeshield-21/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "fate-grand-order",
+      "name": "Fate/Grand Order",
+      "description": "Answer the call of Chaldea. Royal command seals, Noble Phantasm radiance, and the Grand Order to preserve humanity's future across Singularities and Lostbelts.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040308",
+        "primary": "#6438c8",
+        "secondary": "#4e2aaa",
+        "accent": "#b496e8"
+      },
+      "themeRef": "themes/fate-grand-order/theme.json",
+      "backgroundImageUrl": "/themes/fate-grand-order.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "fate-stay-night",
+      "name": "Fate/stay night",
+      "description": "Shirou Emiya is thrust into the fifth Holy Grail War — a secret battle where seven Masters summon heroic Servants to fight for the omnipotent wish-granting relic known as the Holy Grail.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020000",
+        "primary": "#911c1c",
+        "secondary": "#700e0e",
+        "accent": "#d4a840"
+      },
+      "themeRef": "themes/fate-stay-night/theme.json",
+      "backgroundImageUrl": "/themes/fate-stay-night.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "fate-zero",
+      "name": "Fate/Zero",
+      "description": "Ten years before the fifth Holy Grail War, the fourth war commences in Fuyuki City — a brutal conflict narrated with moral ambiguity, compelling Servants, and the tragic figure of Kiritsugu Emiya.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000002",
+        "primary": "#2a41a2",
+        "secondary": "#182a84",
+        "accent": "#d4b030"
+      },
+      "themeRef": "themes/fate-zero/theme.json",
+      "backgroundImageUrl": "/themes/fate-zero.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "fire-force",
+      "name": "Fire Force",
+      "description": "Devil's Footprints alight. Shinra Kusakabe walks into the inferno to save humanity from the Infernals and uncover the truth of Adolla.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#070302",
+        "primary": "#dd2200",
+        "secondary": "#bb1800",
+        "accent": "#ff8800"
+      },
+      "themeRef": "themes/fire-force/theme.json",
+      "backgroundImageUrl": "/themes/fire-force.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "fist-of-the-north-star",
+      "name": "Fist of the North Star",
+      "description": "In a nuclear wasteland, Kenshiro wanders seeking Yuria — his fists strike the 708 pressure points of Hokuto Shinken, making enemies explode from the inside. You are already dead.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080300",
+        "primary": "#d41208",
+        "secondary": "#880604",
+        "accent": "#c88040"
+      },
+      "themeRef": "themes/fist-of-the-north-star/theme.json",
+      "backgroundImageUrl": "/themes/fist-of-the-north-star.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "flcl",
+      "name": "FLCL",
+      "description": "Nothing amazing happens here. Screaming guitars, head-sprouting robots, Vespa-riding chaos, and the raw energy of The Pillows.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0408",
+        "primary": "#ff69b4",
+        "secondary": "#d25096",
+        "accent": "#aa3c78"
+      },
+      "themeRef": "themes/flcl/theme.json",
+      "backgroundImageUrl": "/themes/flcl.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "free",
+      "name": "Free! Iwatobi Swim Club",
+      "description": "Haruka Nanase lives for the water. Reunited with childhood friends, Iwatobi High Swim Club competes with dreams, bonds, and the pure joy of cutting through clear water.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#0070a8",
+        "secondary": "#004a80",
+        "accent": "#40c8e0"
+      },
+      "themeRef": "themes/free/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "fruits-basket",
+      "name": "Fruits Basket",
+      "description": "Orphaned Tohru Honda moves into the Soma family estate and discovers their secret — members of the zodiac are cursed to transform when hugged by the opposite sex. A healing story of love and broken curses.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060103",
+        "primary": "#c25278",
+        "secondary": "#7c225c",
+        "accent": "#80c880"
+      },
+      "themeRef": "themes/fruits-basket/theme.json",
+      "backgroundImageUrl": "/themes/fruits-basket.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "future-boy-conan",
+      "name": "Future Boy Conan",
+      "description": "In a post-apocalyptic world reclaimed by the sea, a boy of incredible strength fights for Lana and a peaceful future — Miyazaki's first masterpiece of hope and adventure.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020e0f",
+        "primary": "#0a9baa",
+        "secondary": "#067d8c",
+        "accent": "#e8a030"
+      },
+      "themeRef": "themes/future-boy-conan/theme.json",
+      "backgroundImageUrl": "/themes/future-boy-conan.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "galaxy-express-999",
+      "name": "Galaxy Express 999",
+      "description": "Board the steam locomotive that crosses the stars — Tetsuro's journey for a mechanical body becomes a philosophical voyage across the galaxy with the mysterious Maetel.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060408",
+        "primary": "#daac0a",
+        "secondary": "#8c6c04",
+        "accent": "#7848b0"
+      },
+      "themeRef": "themes/galaxy-express-999/theme.json",
+      "backgroundImageUrl": "/themes/galaxy-express-999.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "gantz",
+      "name": "Gantz",
+      "description": "You are dead. GANTZ has other plans. Don black combat suits and hunt alien targets before the clock hits zero.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020202",
+        "primary": "#333333",
+        "secondary": "#222222",
+        "accent": "#00cc44"
+      },
+      "themeRef": "themes/gantz/theme.json",
+      "backgroundImageUrl": "/themes/gantz.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "goblin-slayer",
+      "name": "Goblin Slayer",
+      "description": "A seasoned adventurer slays goblins — and only goblins — with ruthless efficiency. No quest too small, no goblin left alive. This is not glory, this is purpose.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010301",
+        "primary": "#266026",
+        "secondary": "#484800",
+        "accent": "#808080"
+      },
+      "themeRef": "themes/goblin-slayer/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "golden-time",
+      "name": "Golden Time",
+      "description": "Law student Banri Tada suffers from amnesia after an accident, and in college he meets the vivacious Kouko Kaga — their college romance unfolds as Banri struggles between his past self and the new life he is building.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060400",
+        "primary": "#c09119",
+        "secondary": "#9e7305",
+        "accent": "#d06880"
+      },
+      "themeRef": "themes/golden-time/theme.json",
+      "backgroundImageUrl": "/themes/golden-time.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "goodnight-punpun",
+      "name": "Goodnight Punpun",
+      "description": "Oyasumi Punpun. A bird-boy grows up in silence and sorrow — existential dread, first love, and the god who never answers.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050607",
+        "primary": "#4a5870",
+        "secondary": "#364358",
+        "accent": "#7a6040"
+      },
+      "themeRef": "themes/goodnight-punpun/theme.json",
+      "backgroundImageUrl": "/themes/goodnight-punpun.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "grand-blue",
+      "name": "Grand Blue Dreaming",
+      "description": "Iori Kitahara moves to his uncle's dive shop to start college life. His dream of a romantic campus lifestyle dissolves immediately as the Peek-a-Boo diving club drags him into nonstop drinking, nudity, and chaos.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000209",
+        "primary": "#126ed7",
+        "secondary": "#2080a0",
+        "accent": "#a8dcf8"
+      },
+      "themeRef": "themes/grand-blue/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "grave-of-the-fireflies",
+      "name": "Grave of the Fireflies",
+      "description": "Seita and Setsuko's journey through wartime Japan. Firefly lanterns, Sakuma drops, and the enduring light of memory in the darkest times.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080604",
+        "primary": "#b47828",
+        "secondary": "#966220",
+        "accent": "#d4a050"
+      },
+      "themeRef": "themes/grave-of-the-fireflies/theme.json",
+      "backgroundImageUrl": "/themes/grave-of-the-fireflies.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "great-teacher-onizuka",
+      "name": "Great Teacher Onizuka",
+      "description": "22 years old. Former bike gang leader turned greatest teacher. Eikichi Onizuka takes on Holy Forest Academy's Class 3-4 with fists, heart, and a motorcycle.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0700",
+        "primary": "#ffa500",
+        "secondary": "#dc8c00",
+        "accent": "#ff8c00"
+      },
+      "themeRef": "themes/great-teacher-onizuka/theme.json",
+      "backgroundImageUrl": "/themes/great-teacher-onizuka.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "greatest-demon-lord",
+      "name": "The Greatest Demon Lord is Reborn as a Typical Nobody",
+      "description": "Varvatos, the greatest Demon Lord in history, chooses to reincarnate as an ordinary person to experience friendship and connection. But his godlike power still leaks out, making a normal school life completely impossible.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030004",
+        "primary": "#6832cd",
+        "secondary": "#4a18aa",
+        "accent": "#d0a820"
+      },
+      "themeRef": "themes/greatest-demon-lord/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "grimgar",
+      "name": "Grimgar of Fantasy and Ash",
+      "description": "A group of strangers wake in the fantasy world of Grimgar with no memories. With no special powers or easy answers, they form a weak party and struggle to survive, learning the true cost of taking a life.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000206",
+        "primary": "#305cac",
+        "secondary": "#885858",
+        "accent": "#c8d8f0"
+      },
+      "themeRef": "themes/grimgar/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "gundam",
+      "name": "Mobile Suit Gundam",
+      "description": "The One Year War rages between Earth Federation and Zeon — aboard White Base, young Amuro Ray pilots the RX-78-2 and discovers that war is not about heroes, only people.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020409",
+        "primary": "#1254d0",
+        "secondary": "#0c42ac",
+        "accent": "#cc3020"
+      },
+      "themeRef": "themes/gundam/theme.json",
+      "backgroundImageUrl": "/themes/gundam.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "haibane-renmei",
+      "name": "Haibane Renmei",
+      "description": "Rakka is born from a cocoon as a haibane — a being with small grey wings and a halo, living in a walled town with no memory of a past life. A quiet, spiritual story about guilt, forgiveness, and the day of flight.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050401",
+        "primary": "#87765c",
+        "secondary": "#8888aa",
+        "accent": "#e8e0c8"
+      },
+      "themeRef": "themes/haibane-renmei/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "hajime-no-ippo",
+      "name": "Hajime no Ippo",
+      "description": "Makunouchi Ippo builds his strength from a bullied fisherman's son to Japan's featherweight champion. Every punch is fueled by dedication, heart, and the desire to know what it means to be strong.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060000",
+        "primary": "#d22814",
+        "secondary": "#880808",
+        "accent": "#708090"
+      },
+      "themeRef": "themes/hajime-no-ippo/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "hanasaku-iroha",
+      "name": "Hanasaku Iroha",
+      "description": "City girl Ohana is sent to live with her estranged grandmother who runs a rural hot spring inn. Thrown into inn work, she discovers her own spirit through hard labor, unexpected friendships, and blooming love.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#349437",
+        "secondary": "#c08040",
+        "accent": "#c8f0c8"
+      },
+      "themeRef": "themes/hanasaku-iroha/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "haruhi-suzumiya",
+      "name": "The Melancholy of Haruhi Suzumiya",
+      "description": "The SOS Brigade awaits. A radiant yellow interface channeling god-like powers, closed spaces, and the endless eccentricity of Haruhi's world.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0800",
+        "primary": "#ffc800",
+        "secondary": "#d7aa00",
+        "accent": "#aa8700"
+      },
+      "themeRef": "themes/haruhi-suzumiya/theme.json",
+      "backgroundImageUrl": "/themes/haruhi-suzumiya.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "hellsing",
+      "name": "Hellsing",
+      "description": "The bird of Hermes is my name. Crimson-soaked interface channeling Alucard, the Hellsing Organization, and the eternal war against the undead.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0204",
+        "primary": "#b41414",
+        "secondary": "#960e0e",
+        "accent": "#e07878"
+      },
+      "themeRef": "themes/hellsing/theme.json",
+      "backgroundImageUrl": "/themes/hellsing.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "hibike-euphonium",
+      "name": "Sound! Euphonium",
+      "description": "First-year student Kumiko Oumae reluctantly joins her high school concert band after an awkward middle school incident, but as the demanding conductor pushes the ensemble toward nationals, she rediscovers her passion for music.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030005",
+        "primary": "#7644d7",
+        "secondary": "#5826b2",
+        "accent": "#d4a020"
+      },
+      "themeRef": "themes/hibike-euphonium/theme.json",
+      "backgroundImageUrl": "/themes/hibike-euphonium.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "hidamari-sketch",
+      "name": "Hidamari Sketch",
+      "description": "Yuno enrolls in an art high school and moves into the Hidamari Apartments, where she and her neighbors — Miyako, Hiro, and Sae — share cozy daily life while growing as artists.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060300",
+        "primary": "#d27a05",
+        "secondary": "#6868a8",
+        "accent": "#f8e0a0"
+      },
+      "themeRef": "themes/hidamari-sketch/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "high-school-dxd",
+      "name": "High School DxD",
+      "description": "Pervy high schooler Issei Hyoudou is killed on his first date — then revived as a devil by the beautiful Rias Gremory. Now serving in her household as a piece in the supernatural chess match between angels, devils, and fallen angels.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050000",
+        "primary": "#cd0f0f",
+        "secondary": "#a20000",
+        "accent": "#d0a020"
+      },
+      "themeRef": "themes/high-school-dxd/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "higurashi",
+      "name": "Higurashi: When They Cry",
+      "description": "Oyashiro-sama is watching. Crimson-drenched interface woven with Hinamizawa's endless summer, cursed loops, and the club's desperate struggle against fate.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080304",
+        "primary": "#8c1414",
+        "secondary": "#730f0f",
+        "accent": "#d42020"
+      },
+      "themeRef": "themes/higurashi/theme.json",
+      "backgroundImageUrl": "/themes/higurashi.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "hinamatsuri",
+      "name": "Hinamatsuri",
+      "description": "Yakuza member Nitta finds a girl named Hina with psychic powers literally falling into his home. He grudgingly raises her as her adoptive father while navigating the chaos of her powers and her school life.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020008",
+        "primary": "#5c26da",
+        "secondary": "#c84040",
+        "accent": "#d8b8f8"
+      },
+      "themeRef": "themes/hinamatsuri/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "holyland",
+      "name": "Holyland",
+      "description": "Find your Holyland. A gritty street-fighting interface channeling Yuu Kamishiro's midnight brawls, boxing stance precision, and the relentless pursuit of purpose in the neon-lit back alleys.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030508",
+        "primary": "#5078b4",
+        "secondary": "#3c5f9b",
+        "accent": "#2a4a80"
+      },
+      "themeRef": "themes/holyland/theme.json",
+      "backgroundImageUrl": "/themes/holyland.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "homunculus",
+      "name": "Homunculus",
+      "description": "Peer through the trepanation hole. A fractured interface of sand sculptures, distorted psyches, and Nakoshi's unraveling perception of the homunculi within.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080604",
+        "primary": "#a08c64",
+        "secondary": "#876e42",
+        "accent": "#6c5e40"
+      },
+      "themeRef": "themes/homunculus/theme.json",
+      "backgroundImageUrl": "/themes/homunculus.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "honey-and-clover",
+      "name": "Honey and Clover",
+      "description": "Five art-school students navigate the messy tangle of love, friendship, and creative ambition. Unrequited feelings and uncertain futures weave through their college years in this tender, bittersweet story.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060300",
+        "primary": "#d27a08",
+        "secondary": "#887060",
+        "accent": "#f8e0a8"
+      },
+      "themeRef": "themes/honey-and-clover/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "horimiya",
+      "name": "Horimiya",
+      "description": "Popular student Kyouko Hori and quiet loner Izumi Miyamura each hide secret sides of themselves — when they accidentally discover each other's true faces outside school, an unexpected friendship blossoms into romance.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060300",
+        "primary": "#d77023",
+        "secondary": "#b25008",
+        "accent": "#6080c8"
+      },
+      "themeRef": "themes/horimiya/theme.json",
+      "backgroundImageUrl": "/themes/horimiya.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "hyouka",
+      "name": "Hyouka",
+      "description": "The energy-conserving Houtarou Oreki joins the Classics Club to save his sister the trouble. Alongside the curious Chitanda Eru, every mundane mystery becomes a window into the human heart.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#070401",
+        "primary": "#b47048",
+        "secondary": "#6a3418",
+        "accent": "#c8a060"
+      },
+      "themeRef": "themes/hyouka/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "i-want-to-eat-your-pancreas",
+      "name": "I Want to Eat Your Pancreas",
+      "description": "A lonely, bookish boy accidentally discovers his popular classmate Sakura's diary — revealing she is secretly dying of a pancreatic disease. He becomes her only confidant, and the two form an unexpected bond.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#d24e0c",
+        "secondary": "#888888",
+        "accent": "#f8d0a8"
+      },
+      "themeRef": "themes/i-want-to-eat-your-pancreas/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "infinite-stratos",
+      "name": "Infinite Stratos",
+      "description": "IS battle suits can only be piloted by women — except Ichika Orimura, the first and only male pilot. He enrolls in the IS Academy as the sole boy in an all-female school, surrounded by representatives from every nation.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#1255d0",
+        "secondary": "#cc4040",
+        "accent": "#a8c8f8"
+      },
+      "themeRef": "themes/infinite-stratos/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "initial-d",
+      "name": "Initial D",
+      "description": "Eurobeat never stops! Mountain pass mastery, drift techniques, and the legend of the Fujiwara Tofu Shop delivery driver.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030508",
+        "primary": "#003388",
+        "secondary": "#002266",
+        "accent": "#f0f0e8"
+      },
+      "themeRef": "themes/initial-d/theme.json",
+      "backgroundImageUrl": "/themes/initial-d.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "junji-ito",
+      "name": "Junji Ito",
+      "description": "Enter the spiral. Tomie whispers, Uzumaki coils tighten, Souichi grins, and the Enigma of Amigara Fault calls your name.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060306",
+        "primary": "#501e50",
+        "secondary": "#401440",
+        "accent": "#8b2060"
+      },
+      "themeRef": "themes/junji-ito/theme.json",
+      "backgroundImageUrl": "/themes/junji-ito.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "k-on",
+      "name": "K-On!",
+      "description": "Four girls with zero musical experience stumble into forming the Light Music Club. Tea, cake, and guitar solos carry them from school concerts to the Budokan — in their dreams and hearts.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#090204",
+        "primary": "#ee58ac",
+        "secondary": "#d03c8e",
+        "accent": "#f0d020"
+      },
+      "themeRef": "themes/k-on/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kaguya-sama",
+      "name": "Kaguya-sama: Love is War",
+      "description": "Student council president Miyuki Shirogane and vice-president Kaguya Shinomiya are both deeply in love with each other — but too proud to confess, they scheme endlessly to make the other confess first in this battle of wits and hearts.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060000",
+        "primary": "#c61c1c",
+        "secondary": "#9e0a0a",
+        "accent": "#f0f0f0"
+      },
+      "themeRef": "themes/kaguya-sama/theme.json",
+      "backgroundImageUrl": "/themes/kaguya-sama.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kaiju-8",
+      "name": "Kaiju No. 8",
+      "description": "Kafka Hibino dreams of joining the Defence Corps to eliminate kaiju — but after a small kaiju burrows into his mouth, he gains the ability to transform into a kaiju himself, becoming Japan's most wanted mystery.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#0852bc",
+        "secondary": "#003798",
+        "accent": "#f04820"
+      },
+      "themeRef": "themes/kaiju-8/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kamisama-kiss",
+      "name": "Kamisama Kiss",
+      "description": "Homeless high-schooler Nanami is accidentally made a land god by a stranger. She inherits his shrine and his reluctant fox familiar Tomoe — who is proud, powerful, and slowly, unavoidably falling for her.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060200",
+        "primary": "#d45808",
+        "secondary": "#5858a0",
+        "accent": "#f8d888"
+      },
+      "themeRef": "themes/kamisama-kiss/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kare-kano",
+      "name": "Kare Kano",
+      "description": "Two model students — the perfect-looking Yukino and the cool Arima — discover each other's true selves, then fall deeply in love. Hideaki Anno's intimate romance masterpiece.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060103",
+        "primary": "#ba5270",
+        "secondary": "#7a2242",
+        "accent": "#80a0d8"
+      },
+      "themeRef": "themes/kare-kano/theme.json",
+      "backgroundImageUrl": "/themes/kare-kano.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "katekyo-hitman-reborn",
+      "name": "Katekyo Hitman Reborn!",
+      "description": "Tsuna Sawada is told he's the heir to the Vongola mafia family by Reborn — a baby hitman tutor. Forced into battles with dying will flames, the No-Good Tsuna becomes a true boss.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060200",
+        "primary": "#d65000",
+        "secondary": "#883200",
+        "accent": "#80a8d8"
+      },
+      "themeRef": "themes/katekyo-hitman-reborn/theme.json",
+      "backgroundImageUrl": "/themes/katekyo-hitman-reborn.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kengan-ashura",
+      "name": "Kengan Ashura",
+      "description": "In a secret world where business disputes are settled by hired fighters, ordinary man Ohma Tokita joins the Kengan matches for reasons of his own — devastating opponents with a unique fighting style called Niko Style.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030008",
+        "primary": "#662ada",
+        "secondary": "#c03030",
+        "accent": "#d8b8f8"
+      },
+      "themeRef": "themes/kengan-ashura/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kenichi",
+      "name": "Kenichi: The Mightiest Disciple",
+      "description": "Kenichi Shirahama is a weak boy constantly bullied — until he trains under six eccentric world-class masters at Ryouzanpaku Dojo. Through brutal training and real battles, he becomes the mightiest disciple.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#c84e05",
+        "secondary": "#3a6020",
+        "accent": "#f0c868"
+      },
+      "themeRef": "themes/kenichi/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kids-on-the-slope",
+      "name": "Kids on the Slope",
+      "description": "Introverted classical pianist Kaoru moves to Kyushu in 1966 and befriends wild drummer Sentaro — through jazz, summer and hardship, an unlikely friendship and love story unfolds in postwar Japan.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050300",
+        "primary": "#8c622c",
+        "secondary": "#6e4812",
+        "accent": "#6080c0"
+      },
+      "themeRef": "themes/kids-on-the-slope/theme.json",
+      "backgroundImageUrl": "/themes/kids-on-the-slope.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kiki-delivery-service",
+      "name": "Kiki's Delivery Service",
+      "description": "Young witch Kiki sets off alone to prove herself, setting up a delivery service in a seaside city with only her black cat Jiji. A story of growing up and finding your own magic.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020106",
+        "primary": "#5019a5",
+        "secondary": "#3c1088",
+        "accent": "#e8a040"
+      },
+      "themeRef": "themes/kiki-delivery-service/theme.json",
+      "backgroundImageUrl": "/themes/kiki-delivery-service.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kill-la-kill",
+      "name": "Kill la Kill",
+      "description": "Ryuko Matoi transfers to Honnoji Academy seeking her father's killer, wielding a half-scissor blade and a sentient uniform called Senketsu — together they fight the tyrannical student council president Satsuki and uncover the truth of Life Fibers.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030000",
+        "primary": "#c30a0a",
+        "secondary": "#9b0505",
+        "accent": "#f0f0f0"
+      },
+      "themeRef": "themes/kill-la-kill/theme.json",
+      "backgroundImageUrl": "/themes/kill-la-kill.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kimi-ni-todoke",
+      "name": "Kimi ni Todoke",
+      "description": "Misunderstood Sawako Kuronuma, nicknamed Sadako for her resemblance to a horror film ghost, only wants real friends. When popular Shouta Kazehaya speaks to her, her world slowly begins to open.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060001",
+        "primary": "#cd3762",
+        "secondary": "#8888aa",
+        "accent": "#ffd8e8"
+      },
+      "themeRef": "themes/kimi-ni-todoke/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kingdom",
+      "name": "Kingdom",
+      "description": "Forge your path to Great General. Warring States command interface with Qin army discipline, battlefield strategy, and the dream of unification under heaven.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080304",
+        "primary": "#b42828",
+        "secondary": "#961e1e",
+        "accent": "#d4a050"
+      },
+      "themeRef": "themes/kingdom/theme.json",
+      "backgroundImageUrl": "/themes/kingdom.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kuroko-no-basuke",
+      "name": "Kuroko's Basketball",
+      "description": "The phantom sixth man of the Generation of Miracles, Tetsuya Kuroko uses his misdirection to help Seirin High defeat his former teammates and claim the top of Japanese high school basketball.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#00030e",
+        "primary": "#0078a5",
+        "secondary": "#004888",
+        "accent": "#e85020"
+      },
+      "themeRef": "themes/kuroko-no-basuke/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "kyoukai-no-kanata",
+      "name": "Beyond the Boundary",
+      "description": "Akihito Kanbara is immortal and half-youmu. He encounters Mirai, a Spirit World Warrior who can manipulate her blood as a sword. Their unlikely pairing pulls them both into a dark conspiracy that threatens everything.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030008",
+        "primary": "#702ae1",
+        "secondary": "#aa2020",
+        "accent": "#d8b8f8"
+      },
+      "themeRef": "themes/kyoukai-no-kanata/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "legend-of-galactic-heroes",
+      "name": "Legend of the Galactic Heroes",
+      "description": "An epic struggle between the Galactic Empire and the Free Planets Alliance, told through two military geniuses on opposing sides — Yang Wenli and Reinhard von Lohengramm.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050503",
+        "primary": "#da9800",
+        "secondary": "#8c6000",
+        "accent": "#4060c8"
+      },
+      "themeRef": "themes/legend-of-galactic-heroes/theme.json",
+      "backgroundImageUrl": "/themes/legend-of-galactic-heroes.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "little-witch-academia",
+      "name": "Little Witch Academia",
+      "description": "Atsuko Kagari enrolls in Luna Nova Magical Academy inspired by legendary witch Shiny Chariot. Despite having no innate magic talent, her boundless enthusiasm and the Shiny Rod carry her toward something extraordinary.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020008",
+        "primary": "#5c2ada",
+        "secondary": "#c84848",
+        "accent": "#d8c8f8"
+      },
+      "themeRef": "themes/little-witch-academia/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "log-horizon",
+      "name": "Log Horizon",
+      "description": "When 30,000 Japanese gamers are trapped inside the MMORPG Elder Tale after a major update, strategist Shiroe and his companions must build a civilization and find a way to understand their new reality.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010308",
+        "primary": "#284ba8",
+        "secondary": "#16328a",
+        "accent": "#80c840"
+      },
+      "themeRef": "themes/log-horizon/theme.json",
+      "backgroundImageUrl": "/themes/log-horizon.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "lovely-complex",
+      "name": "Lovely Complex",
+      "description": "Risa Koizumi is tall for a girl, Atsushi Otani is short for a boy — constantly mistaken for a comedy duo, their teasing rivalry slowly turns into something neither of them expected.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#070200",
+        "primary": "#da4c40",
+        "secondary": "#8a1e16",
+        "accent": "#6090e0"
+      },
+      "themeRef": "themes/lovely-complex/theme.json",
+      "backgroundImageUrl": "/themes/lovely-complex.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "lucky-star",
+      "name": "Lucky☆Star",
+      "description": "Konata Izumi and her friends navigate high school life with moe charm, otaku obsessions, and the eternal question of how to eat a chocolate cornet. Slice of life at its most endearingly absurd.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030010",
+        "primary": "#623ec0",
+        "secondary": "#ff69b4",
+        "accent": "#f0d020"
+      },
+      "themeRef": "themes/lucky-star/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "lupin-iii",
+      "name": "Lupin III",
+      "description": "Gentleman thief vibes. Globe-trotting heists with Jigen, Goemon, Fujiko, and Inspector Zenigata always one step behind.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0304",
+        "primary": "#dc323c",
+        "secondary": "#962832",
+        "accent": "#d4a843"
+      },
+      "themeRef": "themes/lupin-iii/theme.json",
+      "backgroundImageUrl": "/themes/lupin-iii.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "lycoris-recoil",
+      "name": "Lycoris Recoil",
+      "description": "Former DA agent Chisato Nishikigi and reserved marksman Takina Inoue run the LycoReco café by day — and protect the city as elite Lycoris operatives by night, in a thrilling action series wrapped in cherry-blossom warmth.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040101",
+        "primary": "#d23a64",
+        "secondary": "#aa1c41",
+        "accent": "#b0b8c8"
+      },
+      "themeRef": "themes/lycoris-recoil/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "macross",
+      "name": "Macross",
+      "description": "Giant alien war machines, transforming fighter jets, and idols whose songs reshape the battlefield — Macross is where love songs and dogfights collide across the stars.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060208",
+        "primary": "#dc1e82",
+        "secondary": "#960c69",
+        "accent": "#4ca0d8"
+      },
+      "themeRef": "themes/macross/theme.json",
+      "backgroundImageUrl": "/themes/macross.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "madoka-magica",
+      "name": "Puella Magi Madoka Magica",
+      "description": "Middle schooler Madoka Kaname is offered a single wish by the alien creature Kyubey — in exchange for becoming a magical girl. But the truth behind the wish is far darker than she imagined.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060001",
+        "primary": "#da567a",
+        "secondary": "#8a1c3c",
+        "accent": "#c060e8"
+      },
+      "themeRef": "themes/madoka-magica/theme.json",
+      "backgroundImageUrl": "/themes/madoka-magica.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "magi",
+      "name": "Magi: The Labyrinth of Magic",
+      "description": "In a world of dungeons containing ancient treasures, young Magi Aladdin and wanderer Alibaba set out to capture the dungeon Amon — and are drawn into a grand conflict over the fate of the world.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060300",
+        "primary": "#d78c00",
+        "secondary": "#826000",
+        "accent": "#8060d0"
+      },
+      "themeRef": "themes/magi/theme.json",
+      "backgroundImageUrl": "/themes/magi.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "mahouka",
+      "name": "The Irregular at Magic High School",
+      "description": "In a world where magic is technology, Tatsuya Shiba enrolls as a 'Weed' — a second-course student — despite secretly possessing tactical genius and nearly unlimited power that defies the system's ranking.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#1955c6",
+        "secondary": "#c0c0d0",
+        "accent": "#90c8f8"
+      },
+      "themeRef": "themes/mahouka/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "maid-sama",
+      "name": "Maid Sama!",
+      "description": "Misaki Ayuzawa is the strict student council president of a formerly all-boys school — hiding her secret part-time job at a maid café. When cool Usui Takumi discovers her secret, a charming rivalry blooms.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060001",
+        "primary": "#d02676",
+        "secondary": "#6868aa",
+        "accent": "#ffc0e0"
+      },
+      "themeRef": "themes/maid-sama/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "maison-ikkoku",
+      "name": "Maison Ikkoku",
+      "description": "Ronin student Godai falls for the young widow Kyoko, manager of the chaotic boarding house Maison Ikkoku — a slow-burn romance of missed moments and growing hearts.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060302",
+        "primary": "#a54e3e",
+        "secondary": "#6a2a1e",
+        "accent": "#c8a060"
+      },
+      "themeRef": "themes/maison-ikkoku/theme.json",
+      "backgroundImageUrl": "/themes/maison-ikkoku.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "major",
+      "name": "Major",
+      "description": "Goro Honda loses his father to baseball but inherits his passionate love for the sport. From childhood to the major leagues, Goro's relentless drive carries him through injury, loss, and an unbreakable will to pitch.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000206",
+        "primary": "#124ecd",
+        "secondary": "#c83020",
+        "accent": "#a0c8f8"
+      },
+      "themeRef": "themes/major/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "march-comes-in-like-a-lion",
+      "name": "March Comes in Like a Lion",
+      "description": "Rei Kiriyama is a seventeen-year-old professional shogi player living alone, carrying deep loneliness and childhood trauma. The warmth of the Kawamoto family begins to slowly crack his isolation.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#305cbe",
+        "secondary": "#885858",
+        "accent": "#a8c8f0"
+      },
+      "themeRef": "themes/march-comes-in-like-a-lion/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "mazinger-z",
+      "name": "Mazinger Z",
+      "description": "Pilot the first super robot — iron armor, rocket punches, and photon energy against the armies of Dr. Hell. You are the devil or god — it is your choice.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#090505",
+        "primary": "#da1c1c",
+        "secondary": "#8e0c0c",
+        "accent": "#b87818"
+      },
+      "themeRef": "themes/mazinger-z/theme.json",
+      "backgroundImageUrl": "/themes/mazinger-z.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "metallic-rouge",
+      "name": "Metallic Rouge",
+      "description": "On a terraformed Mars, Rouge Redstar hunts down rogue artificial humans called Neans who have inherited the godlike power of the Numina codes. A stylish neo-noir sci-fi thriller pulsing with chrome and crimson.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030304",
+        "primary": "#7388aa",
+        "secondary": "#5070a0",
+        "accent": "#d02030"
+      },
+      "themeRef": "themes/metallic-rouge/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "mirai-nikki",
+      "name": "Mirai Nikki",
+      "description": "The survival game begins. Wield your future diary, outwit the other holders, and claim the throne of Deus Ex Machina — if Yuno lets you.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0306",
+        "primary": "#ff3264",
+        "secondary": "#d12350",
+        "accent": "#ff6b8a"
+      },
+      "themeRef": "themes/mirai-nikki/theme.json",
+      "backgroundImageUrl": "/themes/mirai-nikki.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "miss-kobayashis-dragon-maid",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "description": "Software engineer Kobayashi wakes up to find a dragon at her door — Tohru, who she drunkenly invited to be her maid. A quirky found-family grows as more dragons arrive in suburban Japan.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#349428",
+        "secondary": "#e03030",
+        "accent": "#f0c020"
+      },
+      "themeRef": "themes/miss-kobayashis-dragon-maid/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "monogatari",
+      "name": "Monogatari Series",
+      "description": "Koyomi Araragi encounters apparitions — oddities bound to human emotion. Sharp wit, surreal architecture, and SHAFT's iconic visuals make each story arc a fever dream of words and weight.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060001",
+        "primary": "#e13769",
+        "secondary": "#1a0040",
+        "accent": "#f0e010"
+      },
+      "themeRef": "themes/monogatari/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "moribito",
+      "name": "Moribito: Guardian of the Spirit",
+      "description": "Balsa, a female spear-wielder with a vow to protect eight lives, becomes bodyguard to Prince Chagum — a boy who carries a water spirit's egg that the empire wants destroyed.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010600",
+        "primary": "#2c741e",
+        "secondary": "#1c5a12",
+        "accent": "#a08030"
+      },
+      "themeRef": "themes/moribito/theme.json",
+      "backgroundImageUrl": "/themes/moribito.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "mushishi",
+      "name": "Mushishi",
+      "description": "Ginko is a wandering Mushishi — an expert in Mushi, strange life forms that exist on the boundary between the living and nonliving. Each village he visits holds a quiet, haunting story about the natural world.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#308e4e",
+        "secondary": "#888888",
+        "accent": "#c8e8d0"
+      },
+      "themeRef": "themes/mushishi/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "mushoku-tensei",
+      "name": "Mushoku Tensei",
+      "description": "Jobless Reincarnation. Magic classes and deep worldbuilding. Earth brown & gold.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080500",
+        "primary": "#8c641c",
+        "secondary": "#c09040",
+        "accent": "#3a7560"
+      },
+      "themeRef": "themes/mushoku-tensei/theme.json",
+      "backgroundImageUrl": "/themes/mushoku-tensei.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "my-dress-up-darling",
+      "name": "My Dress-Up Darling",
+      "description": "Shy craftsman Wakana Gojou pours his soul into traditional Hina dolls — until radiant gyaru Marin Kitagawa asks him to bring her beloved anime characters to life through cosplay, launching an unlikely partnership.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000506",
+        "primary": "#08a2b6",
+        "secondary": "#007e94",
+        "accent": "#e8805a"
+      },
+      "themeRef": "themes/my-dress-up-darling/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "my-neighbor-totoro",
+      "name": "My Neighbor Totoro",
+      "description": "Two sisters move to the countryside and discover the gentle spirit of the forest — the great grey Totoro who only children can see. A tender Miyazaki masterpiece of childhood wonder.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010601",
+        "primary": "#268226",
+        "secondary": "#185018",
+        "accent": "#c8a050"
+      },
+      "themeRef": "themes/my-neighbor-totoro/theme.json",
+      "backgroundImageUrl": "/themes/my-neighbor-totoro.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "my-next-life-villainess",
+      "name": "My Next Life as a Villainess",
+      "description": "Catarina Claes is reincarnated as the villainess of an otome game she played — destined for a bad end. Armed with foreknowledge and zero self-awareness, she accidentally charms everyone around her while trying to escape doom.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060001",
+        "primary": "#c83c9b",
+        "secondary": "#6060a8",
+        "accent": "#f8d0f0"
+      },
+      "themeRef": "themes/my-next-life-villainess/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "nagatoro",
+      "name": "Don't Toy with Me, Miss Nagatoro",
+      "description": "Antisocial art-club loner Naoto gets teased relentlessly by the energetic, sadistic Nagatoro — yet she keeps coming back. Beneath her taunting is genuine affection that slowly draws him out of his shell.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#d44808",
+        "secondary": "#505050",
+        "accent": "#f8c888"
+      },
+      "themeRef": "themes/nagatoro/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "nagi-no-asukara",
+      "name": "Nagi-Asu: A Lull in the Sea",
+      "description": "Sea people Hikari and friends are forced to attend school on land when their underwater school closes. Torn between two worlds, they navigate first loves and an ancient conflict as winter threatens to swallow them all.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000209",
+        "primary": "#055fd7",
+        "secondary": "#c06820",
+        "accent": "#a0d8f8"
+      },
+      "themeRef": "themes/nagi-no-asukara/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "nana",
+      "name": "NANA",
+      "description": "Two Nanas, one destiny. Punk rock attitude meets bittersweet romance in the neon-lit streets of Tokyo, powered by BLAST and Trapnest.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0306",
+        "primary": "#b41e50",
+        "secondary": "#961441",
+        "accent": "#e096b9"
+      },
+      "themeRef": "themes/nana/theme.json",
+      "backgroundImageUrl": "/themes/nana.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "natsume-yujincho",
+      "name": "Natsume's Book of Friends",
+      "description": "Takashi Natsume inherited the Book of Friends from his grandmother Reiko — a ledger containing the names of spirits she subdued. He now works to return those names, guided by the curmudgeonly spirit Madara.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010500",
+        "primary": "#488734",
+        "secondary": "#306920",
+        "accent": "#c8b060"
+      },
+      "themeRef": "themes/natsume-yujincho/theme.json",
+      "backgroundImageUrl": "/themes/natsume-yujincho.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "nausicaa",
+      "name": "Nausicaä of the Valley of the Wind",
+      "description": "In a world consumed by the toxic Sea of Decay, Nausicaä rides the winds and seeks understanding between humanity and the giant insects — Miyazaki's ecological manifesto.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050604",
+        "primary": "#9b7816",
+        "secondary": "#64460e",
+        "accent": "#3a8060"
+      },
+      "themeRef": "themes/nausicaa/theme.json",
+      "backgroundImageUrl": "/themes/nausicaa.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "net-juu-no-susume",
+      "name": "Recovery of an MMO Junkie",
+      "description": "Unemployed 30-year-old Moriko Morioka becomes a NEET and escapes into an online RPG, where her male avatar forms an unlikely bond with a guild member — unbeknownst to her, a surprising real-world connection lies beneath.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000606",
+        "primary": "#1cb6af",
+        "secondary": "#08948e",
+        "accent": "#f080c0"
+      },
+      "themeRef": "themes/net-juu-no-susume/theme.json",
+      "backgroundImageUrl": "/themes/net-juu-no-susume.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "nichijou",
+      "name": "Nichijou",
+      "description": "Three high school girls live hilariously mundane lives alongside Nano, a robot who goes to their school, the young Professor who built her, and Sakamoto — a cat who can talk. Daily life has never been so dramatic or absurd.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040206",
+        "primary": "#9144c8",
+        "secondary": "#732aaa",
+        "accent": "#f0a020"
+      },
+      "themeRef": "themes/nichijou/theme.json",
+      "backgroundImageUrl": "/themes/nichijou.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "nisekoi",
+      "name": "Nisekoi: False Love",
+      "description": "Raku Ichijo made a childhood promise with a girl, holding half a pendant as proof. Years later, gang leader's daughter Chitoge enters his life — and they must fake dating to prevent a gang war.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#de5008",
+        "secondary": "#b81040",
+        "accent": "#f8e0a0"
+      },
+      "themeRef": "themes/nisekoi/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "no-game-no-life",
+      "name": "No Game No Life",
+      "description": "Blank never loses. A vibrant Disboard-inspired interface with game mechanics, Exceed strategies, and the Ten Pledges guiding every move.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0408",
+        "primary": "#ff64c8",
+        "secondary": "#dc4baa",
+        "accent": "#a03790"
+      },
+      "themeRef": "themes/no-game-no-life/theme.json",
+      "backgroundImageUrl": "/themes/no-game-no-life.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "non-non-biyori",
+      "name": "Non Non Biyori",
+      "description": "City girl Hotaru moves to a tiny rural village with only five students at the local branch school. The slow-paced days of countryside living unfold with the gentle warmth of nature and the innocence of childhood.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#2a9b23",
+        "secondary": "#c8a040",
+        "accent": "#c8f0c8"
+      },
+      "themeRef": "themes/non-non-biyori/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "noragami",
+      "name": "Noragami",
+      "description": "Yato is a minor deity with no shrine who dreams of fame and worshippers, working odd jobs for five-yen coins alongside his human Regalia Yukine and school girl Hiyori, who can slip between the human and spirit realms.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#2a6ccd",
+        "secondary": "#124ca8",
+        "accent": "#f0c030"
+      },
+      "themeRef": "themes/noragami/theme.json",
+      "backgroundImageUrl": "/themes/noragami.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "now-and-then-here-and-there",
+      "name": "Now and Then, Here and There",
+      "description": "A cheerful boy is swept into a post-apocalyptic hellscape of sand and war, where children are conscripted as soldiers. One of anime's most unrelenting depictions of human cruelty and the unyielding hope that endures through it.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060400",
+        "primary": "#8a6226",
+        "secondary": "#684612",
+        "accent": "#4060a0"
+      },
+      "themeRef": "themes/now-and-then-here-and-there/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "omniscient-reader",
+      "name": "Omniscient Reader's Viewpoint",
+      "description": "Kim Dokja is the only reader of an obscure web novel called Three Ways to Survive the Apocalypse — and when the world begins following the novel's plot exactly, his knowledge of the story becomes humanity's greatest weapon.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020104",
+        "primary": "#6c4acd",
+        "secondary": "#5032aa",
+        "accent": "#c09850"
+      },
+      "themeRef": "themes/omniscient-reader/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ore-monogatari",
+      "name": "My Love Story!!",
+      "description": "Gentle giant Takeo Gouda is intimidating but kind-hearted — always losing girls to his handsome best friend. When soft-spoken Rinko falls for Takeo himself, he can hardly believe he's actually loved.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060000",
+        "primary": "#cd305a",
+        "secondary": "#6868aa",
+        "accent": "#ffd0e0"
+      },
+      "themeRef": "themes/ore-monogatari/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "oregairu",
+      "name": "My Teen Romantic Comedy SNAFU",
+      "description": "Hachiman Hikigaya, a cynical loner, joins the Service Club with the radiant Yukino Yukinoshita and sunny Yui Yuigahama. Beneath witty banter lies a genuine search for authentic connections.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000408",
+        "primary": "#126c8a",
+        "secondary": "#8a2060",
+        "accent": "#a0b8c0"
+      },
+      "themeRef": "themes/oregairu/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "oshi-no-ko",
+      "name": "Oshi no Ko",
+      "description": "Doctor Gorou Amemiya is reincarnated as the son of his idol Ai Hoshino, entering the brutal world of entertainment and vowing to uncover the dark secrets of the industry that shattered his new family.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030004",
+        "primary": "#d016a2",
+        "secondary": "#a50080",
+        "accent": "#40d0e8"
+      },
+      "themeRef": "themes/oshi-no-ko/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ouran-host-club",
+      "name": "Ouran High School Host Club",
+      "description": "When scholarship student Haruhi breaks an expensive vase, she's forced to join the Host Club — a group of rich, eccentric boys who entertain female clients. A reverse harem comedy with real heart.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060500",
+        "primary": "#da9234",
+        "secondary": "#8c5810",
+        "accent": "#e0a0c8"
+      },
+      "themeRef": "themes/ouran-host-club/theme.json",
+      "backgroundImageUrl": "/themes/ouran-host-club.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "outlaw-star",
+      "name": "Outlaw Star",
+      "description": "Chart your own course through the Toward Stars universe. Grappler ship combat, Galactic Leyline mysteries, and the outlaw spirit of Gene Starwind's crew.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0408",
+        "primary": "#dc3232",
+        "secondary": "#962828",
+        "accent": "#ff6666"
+      },
+      "themeRef": "themes/outlaw-star/theme.json",
+      "backgroundImageUrl": "/themes/outlaw-star.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "overlord",
+      "name": "Overlord",
+      "description": "Momonga's unmatched supremacy. Dark overlord black & bone gold.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030200",
+        "primary": "#87620e",
+        "secondary": "#c09030",
+        "accent": "#505050"
+      },
+      "themeRef": "themes/overlord/theme.json",
+      "backgroundImageUrl": "/themes/overlord.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "owari-no-seraph",
+      "name": "Seraph of the End",
+      "description": "After a mysterious virus wipes out most of humanity, vampires emerge to enslave the survivors — orphan Yuichiro Hyakuya escapes and joins the Japanese Imperial Demon Army's Moon Demon Company to take revenge on the vampires.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020004",
+        "primary": "#5f26b9",
+        "secondary": "#441096",
+        "accent": "#d4a820"
+      },
+      "themeRef": "themes/owari-no-seraph/theme.json",
+      "backgroundImageUrl": "/themes/owari-no-seraph.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "pandora-hearts",
+      "name": "Pandora Hearts",
+      "description": "At his coming-of-age ceremony, noble Oz Bezarius is cast into the Abyss — a dark realm of Chains and Will — and contracts with Alice, the Blood-stained Black Rabbit, to escape into a world of dark secrets.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010004",
+        "primary": "#4c3aa0",
+        "secondary": "#342484",
+        "accent": "#cc8020"
+      },
+      "themeRef": "themes/pandora-hearts/theme.json",
+      "backgroundImageUrl": "/themes/pandora-hearts.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "parasyte",
+      "name": "Parasyte",
+      "description": "What is it to be human? Shinichi and Migi — one body, two minds — face alien parasites reshaping humanity from within.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060806",
+        "primary": "#2e9e4a",
+        "secondary": "#1e7838",
+        "accent": "#8090a0"
+      },
+      "themeRef": "themes/parasyte/theme.json",
+      "backgroundImageUrl": "/themes/parasyte.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "patlabor",
+      "name": "Patlabor",
+      "description": "In a near-future Tokyo, giant construction robots called Labors have become commonplace — and so has Labor crime. The Special Vehicles Section 2 polices them with their own police Labors.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010408",
+        "primary": "#1958a8",
+        "secondary": "#104488",
+        "accent": "#b8c840"
+      },
+      "themeRef": "themes/patlabor/theme.json",
+      "backgroundImageUrl": "/themes/patlabor.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "perfect-blue",
+      "name": "Perfect Blue",
+      "description": "Who are you? A fractured psychological thriller interface inspired by Mima Kirigoe's descent — shattered mirrors, stolen identities, and Satoshi Kon's masterpiece of paranoia.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020408",
+        "primary": "#1e5ac8",
+        "secondary": "#1648aa",
+        "accent": "#8cabed"
+      },
+      "themeRef": "themes/perfect-blue/theme.json",
+      "backgroundImageUrl": "/themes/perfect-blue.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ping-pong-animation",
+      "name": "Ping Pong the Animation",
+      "description": "Childhood friends Smile and Peco play table tennis together — one with innate talent he refuses to use, the other with passion that outpaces his skill. Their journeys intersect with rivals who reshape what winning means.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050505",
+        "primary": "#737373",
+        "secondary": "#cc4040",
+        "accent": "#e8e8e8"
+      },
+      "themeRef": "themes/ping-pong-animation/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "plastic-memories",
+      "name": "Plastic Memories",
+      "description": "In a future where androids called Giftias live among humans, Tsukasa works to retrieve them before their memories expire. Partnered with Giftia Isla, he learns that limited time only deepens love.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#235cc3",
+        "secondary": "#cc8888",
+        "accent": "#c8e0f8"
+      },
+      "themeRef": "themes/plastic-memories/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "pluto",
+      "name": "Pluto",
+      "description": "The world's greatest robots are being destroyed one by one. Steel-blue Europol investigation interface channeling Gesicht's pursuit of truth, the hatred that binds, and the fragile line between machine logic and human heart.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030508",
+        "primary": "#3c64a0",
+        "secondary": "#2d4e87",
+        "accent": "#8a6530"
+      },
+      "themeRef": "themes/pluto/theme.json",
+      "backgroundImageUrl": "/themes/pluto.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "porco-rosso",
+      "name": "Porco Rosso",
+      "description": "A WWI flying ace cursed with a pig's face roams the Adriatic as a freelance bounty hunter in the 1930s — world-weary, romantic, and absolutely unmatched in the sky.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060402",
+        "primary": "#824826",
+        "secondary": "#523618",
+        "accent": "#60a0d0"
+      },
+      "themeRef": "themes/porco-rosso/theme.json",
+      "backgroundImageUrl": "/themes/porco-rosso.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "prince-of-tennis",
+      "name": "The Prince of Tennis",
+      "description": "Prodigy Ryoma Echizen transfers to Seishun Academy and immediately dominates the tennis club. With fearless confidence and limitless talent, he faces opponents who push him toward his true potential.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#1e911e",
+        "secondary": "#3060c0",
+        "accent": "#f0e060"
+      },
+      "themeRef": "themes/prince-of-tennis/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "quintessential-quintuplets",
+      "name": "The Quintessential Quintuplets",
+      "description": "Genius student Fuutarou Uesugi is hired to tutor five identical quintuplet sisters — the Nakanos — who each resist studying in different ways, yet one of them is destined to become his bride.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060001",
+        "primary": "#c8488e",
+        "secondary": "#a52670",
+        "accent": "#f0c030"
+      },
+      "themeRef": "themes/quintessential-quintuplets/theme.json",
+      "backgroundImageUrl": "/themes/quintessential-quintuplets.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "rainbow-manga",
+      "name": "Rainbow: Nisha Rokubou no Shichinin",
+      "description": "Seven young delinquents are locked in a brutal reform school in postwar Japan. They survive through loyalty to each other and their cellmate Rokurouta, building a bond that carries them through unspeakable hardship.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050200",
+        "primary": "#764b1c",
+        "secondary": "#505050",
+        "accent": "#e8d0a0"
+      },
+      "themeRef": "themes/rainbow-manga/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "ranma-12",
+      "name": "Ranma ½",
+      "description": "I don't need your help! Anything-goes martial arts chaos, Jusenkyo curses, and a dojo full of fiancées in Nerima.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060406",
+        "primary": "#cc2208",
+        "secondary": "#aa1506",
+        "accent": "#0055cc"
+      },
+      "themeRef": "themes/ranma-12/theme.json",
+      "backgroundImageUrl": "/themes/ranma-12.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "re-creators",
+      "name": "Re:CREATORS",
+      "description": "Fictional characters from anime, manga, and games are pulled into the real world, and the creators who made them must confront their own creations as a rogue character called the Military Uniform Princess seeks to destroy reality itself.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030304",
+        "primary": "#6c6cb4",
+        "secondary": "#4e4e98",
+        "accent": "#e05820"
+      },
+      "themeRef": "themes/re-creators/theme.json",
+      "backgroundImageUrl": "/themes/re-creators.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "record-of-lodoss-war",
+      "name": "Record of Lodoss War",
+      "description": "The cursed island awaits. Forge your path through ancient ruins, dragon lairs, and dark elf ambushes across the war-torn realm of Lodoss.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080604",
+        "primary": "#a0823c",
+        "secondary": "#876e2d",
+        "accent": "#6e5820"
+      },
+      "themeRef": "themes/record-of-lodoss-war/theme.json",
+      "backgroundImageUrl": "/themes/record-of-lodoss-war.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "rent-a-girlfriend",
+      "name": "Rent-A-Girlfriend",
+      "description": "After being dumped, college student Kazuya Kinoshita discovers rental girlfriend services and hires Chizuru Mizuhara — a stunningly beautiful and professional companion with secrets of her own.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050400",
+        "primary": "#d2900a",
+        "secondary": "#af6e00",
+        "accent": "#f080b0"
+      },
+      "themeRef": "themes/rent-a-girlfriend/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "revolutionary-girl-utena",
+      "name": "Revolutionary Girl Utena",
+      "description": "Shine forever! Rose Brides, impossible duels, and the enigmatic prince who may never arrive at Ohtori Academy.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060308",
+        "primary": "#cc3366",
+        "secondary": "#aa2255",
+        "accent": "#f8f0e8"
+      },
+      "themeRef": "themes/revolutionary-girl-utena/theme.json",
+      "backgroundImageUrl": "/themes/revolutionary-girl-utena.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "run-with-the-wind",
+      "name": "Run with the Wind",
+      "description": "Kakeru, a former track star, is recruited by the oddly charismatic Haiji who needs ten residents of Chikusei-so to form an Hakone Ekiden relay team. Together, ten unlikely runners chase an impossible dream.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#1264d0",
+        "secondary": "#c85050",
+        "accent": "#a8d0f8"
+      },
+      "themeRef": "themes/run-with-the-wind/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "rurouni-kenshin",
+      "name": "Rurouni Kenshin",
+      "description": "Dedicate the reverse blade to peace. Meiji-era aesthetics with crimson robe precision, sakura serenity, and Battōsai's restrained power.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060403",
+        "primary": "#cc1100",
+        "secondary": "#a00d00",
+        "accent": "#ffaab0"
+      },
+      "themeRef": "themes/rurouni-kenshin/theme.json",
+      "backgroundImageUrl": "/themes/rurouni-kenshin.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "s-cry-ed",
+      "name": "s-CRY-ed",
+      "description": "In the Lost Ground — a region cut off from mainland Japan — people called Alter users manifest physical manifestations of their psyche. Kazuma and Ryuho clash in an explosive battle of wills.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060200",
+        "primary": "#cc4c00",
+        "secondary": "#863000",
+        "accent": "#2080d0"
+      },
+      "themeRef": "themes/s-cry-ed/theme.json",
+      "backgroundImageUrl": "/themes/s-cry-ed.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "saint-seiya",
+      "name": "Saint Seiya",
+      "description": "The Bronze Saints fight for the goddess Athena in divine armor forged from the stars — their Cosmo burns to absolute zero and then beyond, smashing the speed of light.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060504",
+        "primary": "#d78700",
+        "secondary": "#8c5200",
+        "accent": "#7090d8"
+      },
+      "themeRef": "themes/saint-seiya/theme.json",
+      "backgroundImageUrl": "/themes/saint-seiya.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "sakamoto-days",
+      "name": "Sakamoto Days",
+      "description": "Former number-one hitman Taro Sakamoto gave up the assassin life when he fell in love and started a family — but his past never stays gone, and now he fights to protect his beloved convenience store and even more beloved family.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040404",
+        "primary": "#585870",
+        "secondary": "#3c3c50",
+        "accent": "#d84040"
+      },
+      "themeRef": "themes/sakamoto-days/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "samurai-champloo",
+      "name": "Samurai Champloo",
+      "description": "If you don't like the hand that fate's dealt you, fight for a new one. Hip-hop beats, katana clashes, and the endless search for the sunflower samurai across Edo Japan.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0404",
+        "primary": "#c83c3c",
+        "secondary": "#aa2d2d",
+        "accent": "#d4a040"
+      },
+      "themeRef": "themes/samurai-champloo/theme.json",
+      "backgroundImageUrl": "/themes/samurai-champloo.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "school-rumble",
+      "name": "School Rumble",
+      "description": "Tenma Tsukamoto loves clueless Karasuma, while delinquent Harima loves Tenma who doesn't notice — a chaotic love polygon in the most hilariously eventful high school ever.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020408",
+        "primary": "#387acd",
+        "secondary": "#2460aa",
+        "accent": "#e87080"
+      },
+      "themeRef": "themes/school-rumble/theme.json",
+      "backgroundImageUrl": "/themes/school-rumble.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "serial-experiments-lain",
+      "name": "Serial Experiments Lain",
+      "description": "No matter where you go, everyone's connected. Dissolve into the Wired — Protocol 7, identity fragmentation, and the God that lives in the network.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040308",
+        "primary": "#6633cc",
+        "secondary": "#4e20a5",
+        "accent": "#00e5cc"
+      },
+      "themeRef": "themes/serial-experiments-lain/theme.json",
+      "backgroundImageUrl": "/themes/serial-experiments-lain.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "seven-deadly-sins",
+      "name": "The Seven Deadly Sins",
+      "description": "Princess Elizabeth seeks the legendary Knights of Britannia, the Seven Deadly Sins, who were accused of betrayal and disbanded — only together can they confront the Holy Knights who have seized the kingdom.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030005",
+        "primary": "#8030be",
+        "secondary": "#64189e",
+        "accent": "#d4a820"
+      },
+      "themeRef": "themes/seven-deadly-sins/theme.json",
+      "backgroundImageUrl": "/themes/seven-deadly-sins.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "shaman-king",
+      "name": "Shaman King",
+      "description": "Every 500 years, a tournament selects the Shaman King who can commune with the Great Spirit and reshape the world. Yoh Asakura fights alongside his ancestor Amidamaru to claim the throne.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060502",
+        "primary": "#966208",
+        "secondary": "#5e3802",
+        "accent": "#8090e0"
+      },
+      "themeRef": "themes/shaman-king/theme.json",
+      "backgroundImageUrl": "/themes/shaman-king.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "shangri-la-frontier",
+      "name": "Shangri-La Frontier",
+      "description": "Gamer Rakurou Hizutome specialises in conquering terrible games — but when friends convince him to try the legendary full-dive VR title Shangri-La Frontier, he discovers a massive world with hidden depths no guide can prepare you for.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060200",
+        "primary": "#dc5800",
+        "secondary": "#b23c00",
+        "accent": "#20d8f0"
+      },
+      "themeRef": "themes/shangri-la-frontier/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "shikimori",
+      "name": "Shikimori's Not Just a Cutie",
+      "description": "Izumi is accident-prone and unlucky, but his girlfriend Shikimori is a perfect beauty who transforms into something dazzling when protecting him. Their sweet relationship proves that cool and cute go together.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020008",
+        "primary": "#5c30cd",
+        "secondary": "#cc4488",
+        "accent": "#d8c0f8"
+      },
+      "themeRef": "themes/shikimori/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "skip-and-loafer",
+      "name": "Skip and Loafer",
+      "description": "Optimistic small-town girl Mitsumi Iwakura moves to Tokyo to chase her ambitious life plan, and through a stumble on her first day of high school she befriends the effortlessly popular Sousuke Shima, beginning a warm coming-of-age story.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050500",
+        "primary": "#d2a508",
+        "secondary": "#aa8000",
+        "accent": "#b08060"
+      },
+      "themeRef": "themes/skip-and-loafer/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "skip-beat",
+      "name": "Skip Beat!",
+      "description": "Kyoko Mogami follows her childhood friend Sho to Tokyo to support his music career — only to be discarded and publicly humiliated. Burning with revenge, she enters the entertainment industry to destroy him.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040007",
+        "primary": "#843ebc",
+        "secondary": "#66269b",
+        "accent": "#d4a020"
+      },
+      "themeRef": "themes/skip-beat/theme.json",
+      "backgroundImageUrl": "/themes/skip-beat.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "slime-isekai",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "description": "Rimuru's nation-building. Benevolent Demon Lord in teal & blue slime.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#00100f",
+        "primary": "#05a29e",
+        "secondary": "#3ad0cc",
+        "accent": "#7b5fc0"
+      },
+      "themeRef": "themes/slime-isekai/theme.json",
+      "backgroundImageUrl": "/themes/slime-isekai.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "soul-eater",
+      "name": "Soul Eater",
+      "description": "At the Death Weapon Meister Academy, meisters and their weapon partners train to fight evil souls. Maka and Soul Eater aim to make Soul a Death Scythe by collecting 99 evil souls and one witch soul.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030202",
+        "primary": "#766e91",
+        "secondary": "#4b4072",
+        "accent": "#e8cc40"
+      },
+      "themeRef": "themes/soul-eater/theme.json",
+      "backgroundImageUrl": "/themes/soul-eater.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "space-battleship-yamato",
+      "name": "Space Battleship Yamato",
+      "description": "The legendary battleship rises from the ocean floor to sail the stars — one year to reach Iscandar, one mission to save a dying Earth. Launch the Wave-Motion Gun.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#02060f",
+        "primary": "#1969d7",
+        "secondary": "#0f52b2",
+        "accent": "#c8302a"
+      },
+      "themeRef": "themes/space-battleship-yamato/theme.json",
+      "backgroundImageUrl": "/themes/space-battleship-yamato.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "space-brothers",
+      "name": "Space Brothers",
+      "description": "As children, brothers Mutta and Hibito promised to become astronauts. Hibito makes it to the moon — but Mutta, now 32 and unemployed, must restart his dream from scratch and catch up to his younger brother.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000206",
+        "primary": "#124ec6",
+        "secondary": "#c08820",
+        "accent": "#a0c8f8"
+      },
+      "themeRef": "themes/space-brothers/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "summer-wars",
+      "name": "Summer Wars",
+      "description": "Math genius Kenji is tricked into attending his classmate Natsuki's grandmother's 90th birthday as her fake fiancé. When a rogue AI threatens to destroy the virtual world OZ — and reality — the whole family must unite.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#d23e05",
+        "secondary": "#3060c0",
+        "accent": "#f8c870"
+      },
+      "themeRef": "themes/summer-wars/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "suzume",
+      "name": "Suzume",
+      "description": "Suzume follows a handsome young man through a mysterious door that appears in ruins across Japan. Pulling out a magical key releases disasters — and she must travel the country closing doors before catastrophe strikes.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000209",
+        "primary": "#1264d7",
+        "secondary": "#c04020",
+        "accent": "#a8d0f8"
+      },
+      "themeRef": "themes/suzume/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "takagi-san",
+      "name": "Teasing Master Takagi-san",
+      "description": "Middle schooler Nishikata vows to get back at his classmate Takagi, who teases him mercilessly. But she always reads him perfectly — and her gentle teasing hides feelings deeper than either will admit.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#2870d0",
+        "secondary": "#cc6688",
+        "accent": "#b8d8f8"
+      },
+      "themeRef": "themes/takagi-san/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "tamako-market",
+      "name": "Tamako Market",
+      "description": "Tamako Kitashirakawa lives in a shopping district and helps at her family's mochi shop. One day a plump, talking bird named Dera arrives — claiming to be searching for a bride for a prince — and disrupts everything.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060000",
+        "primary": "#d73e4e",
+        "secondary": "#6868a8",
+        "accent": "#f8d0d8"
+      },
+      "themeRef": "themes/tamako-market/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "tatami-galaxy",
+      "name": "The Tatami Galaxy",
+      "description": "A nameless college student relives his two-year college experience across parallel realities, each time joining a different club — desperately seeking the 'rose-colored campus life' he keeps squandering.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#d75805",
+        "secondary": "#202060",
+        "accent": "#f8d888"
+      },
+      "themeRef": "themes/tatami-galaxy/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "texhnolyze",
+      "name": "Texhnolyze",
+      "description": "In the underground city of Lux, fighter Ichise loses his arm and leg in a brutal punishment — then receives texhnolyze cybernetic replacements. He is drawn into a brutal war between factions in a dying city.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030303",
+        "primary": "#4b4b69",
+        "secondary": "#882222",
+        "accent": "#c8c8e0"
+      },
+      "themeRef": "themes/texhnolyze/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "the-eminence-in-shadow",
+      "name": "The Eminence in Shadow",
+      "description": "Reincarnated as Cid Kagenou, a boy obsessed with becoming an all-powerful shadowy mastermind, he creates a fictional organisation called Shadow Garden — only to discover it's fighting a real ancient evil.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010004",
+        "primary": "#6030bc",
+        "secondary": "#4418a0",
+        "accent": "#d0a010"
+      },
+      "themeRef": "themes/the-eminence-in-shadow/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "the-rising-of-the-shield-hero",
+      "name": "The Rising of the Shield Hero",
+      "description": "Wrongly accused and betrayed on his first day as a summoned hero, Naofumi Iwatani is left with only his shield and his rage. Rising from disgrace, he forges his own path — building a party, earning trust, and fighting for a world that doubted him.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020304",
+        "primary": "#4e648a",
+        "secondary": "#344870",
+        "accent": "#50b870"
+      },
+      "themeRef": "themes/the-rising-of-the-shield-hero/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "to-your-eternity",
+      "name": "To Your Eternity",
+      "description": "An immortal being cast upon the Earth takes the form of a rock, then moss, then a dying wolf, and finally a lonely boy — beginning an eternal journey of loss, love, and the search for what it means to be alive.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040200",
+        "primary": "#885f30",
+        "secondary": "#6c4416",
+        "accent": "#d8c8a8"
+      },
+      "themeRef": "themes/to-your-eternity/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "tokyo-ghoul-re",
+      "name": "Tokyo Ghoul:re",
+      "description": "The world of :re awakens. CCG operations, Quinx kagune, and the Dragon's shadow across a teal-blue investigation interface.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030608",
+        "primary": "#64b4c8",
+        "secondary": "#4b96af",
+        "accent": "#2a5a73"
+      },
+      "themeRef": "themes/tokyo-ghoul-re/theme.json",
+      "backgroundImageUrl": "/themes/tokyo-ghoul-re.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "tokyo-revengers",
+      "name": "Tokyo Revengers",
+      "description": "Takemichi Hanagaki leaps back in time to save his first love from a brutal gang. Racing through the violent world of the Tokyo Manji Gang, every choice reshapes the future.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060000",
+        "primary": "#c84400",
+        "secondary": "#5a0a8a",
+        "accent": "#808080"
+      },
+      "themeRef": "themes/tokyo-revengers/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "toradora",
+      "name": "Toradora!",
+      "description": "The Palm-top Tiger and the delinquent. Orange & cyan romance.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#0a0400",
+        "primary": "#e15f05",
+        "secondary": "#f0900a",
+        "accent": "#38c8d0"
+      },
+      "themeRef": "themes/toradora/theme.json",
+      "backgroundImageUrl": "/themes/toradora.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "toriko",
+      "name": "Toriko",
+      "description": "In a world where the best flavours of nature are the ultimate prize, the Gourmet Hunter Toriko ventures into the most dangerous wildernesses to capture legendary ingredients for his ever-growing Full Course Menu.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060300",
+        "primary": "#c87c00",
+        "secondary": "#a05c00",
+        "accent": "#40c050"
+      },
+      "themeRef": "themes/toriko/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "touch-baseball",
+      "name": "Touch",
+      "description": "Twins Tatsuya and Kazuya Uesugi are next-door neighbors with Minami, the girl they both love. Kazuya dreams of taking Minami to Koshien — until tragedy forces Tatsuya to carry that dream in his brother's place.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#1269cd",
+        "secondary": "#c84040",
+        "accent": "#a8d0f8"
+      },
+      "themeRef": "themes/touch-baseball/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "tower-of-god",
+      "name": "Tower of God",
+      "description": "Enter as an Irregular. Shinsu-infused interface forged through Tower tests, Ranker ambition, and Bam's unwavering ascent toward the summit.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020508",
+        "primary": "#006680",
+        "secondary": "#005570",
+        "accent": "#c89b3c"
+      },
+      "themeRef": "themes/tower-of-god/theme.json",
+      "backgroundImageUrl": "/themes/tower-of-god.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "trigun-stampede",
+      "name": "Trigun Stampede",
+      "description": "Vash the Stampede wanders a desert wasteland planet with a $$60 billion bounty on his head, spreading love and peace while somehow surviving every catastrophe he attracts. TRIGUN STAMPEDE reimagines this classic with stunning modern animation.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060500",
+        "primary": "#eeb610",
+        "secondary": "#c89400",
+        "accent": "#2090d0"
+      },
+      "themeRef": "themes/trigun-stampede/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "trigun",
+      "name": "Trigun",
+      "description": "Love and Peace! Wander the scorched wastes of No-Man's Land with the $$60 billion outlaw — guns, grit, and a smile that hides the storm.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#080600",
+        "primary": "#d4aa00",
+        "secondary": "#b28c00",
+        "accent": "#8b4513"
+      },
+      "themeRef": "themes/trigun/theme.json",
+      "backgroundImageUrl": "/themes/trigun.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "twelve-kingdoms",
+      "name": "The Twelve Kingdoms",
+      "description": "Ordinary schoolgirl Yoko is suddenly transported to a mysterious world of twelve kingdoms where she must survive, grow, and eventually become a true ruler worthy of the throne.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010601",
+        "primary": "#3c962a",
+        "secondary": "#26781a",
+        "accent": "#c89030"
+      },
+      "themeRef": "themes/twelve-kingdoms/theme.json",
+      "backgroundImageUrl": "/themes/twelve-kingdoms.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "urusei-yatsura",
+      "name": "Urusei Yatsura",
+      "description": "The world's unluckiest lecher Ataru Moroboshi must now live with Lum, the adorable horned alien oni who fell in love with him — zapping him is her love language.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060500",
+        "primary": "#e4b600",
+        "secondary": "#967400",
+        "accent": "#2a9640"
+      },
+      "themeRef": "themes/urusei-yatsura/theme.json",
+      "backgroundImageUrl": "/themes/urusei-yatsura.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "uzumaki",
+      "name": "Uzumaki",
+      "description": "The spiral curse of Kurôzu-cho consumes all. Kirie, Shuichi, snail people, the lighthouse, and Junji Ito's spiraling horror made manifest.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030306",
+        "primary": "#3c3c50",
+        "secondary": "#282838",
+        "accent": "#50506a"
+      },
+      "themeRef": "themes/uzumaki/theme.json",
+      "backgroundImageUrl": "/themes/uzumaki.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "vagabond",
+      "name": "Vagabond",
+      "description": "Invincible under heaven. Follow Miyamoto Musashi's path of relentless self-mastery through feudal Japan's duels, ink-brushed landscapes, and the Way of the Sword.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060402",
+        "primary": "#6b4020",
+        "secondary": "#4a2e12",
+        "accent": "#a08050"
+      },
+      "themeRef": "themes/vagabond/theme.json",
+      "backgroundImageUrl": "/themes/vagabond.png",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "way-of-househusband",
+      "name": "The Way of the Househusband",
+      "description": "The legendary yakuza Tatsu, feared as the Immortal Dragon, abruptly retires to become a devoted househusband for his career-driven wife. He applies the same intense yakuza intensity to cooking, cleaning, and shopping.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#050505",
+        "primary": "#646464",
+        "secondary": "#cc3030",
+        "accent": "#e8e8e8"
+      },
+      "themeRef": "themes/way-of-househusband/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "weathering-with-you",
+      "name": "Weathering with You",
+      "description": "Runaway Hodaka arrives in a rain-drenched Tokyo and meets Hina, a girl who can stop the rain and bring sunshine. As they build a life together, he must choose between the girl he loves and the world's weather.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000209",
+        "primary": "#1c6cd7",
+        "secondary": "#f0a020",
+        "accent": "#a8d8f8"
+      },
+      "themeRef": "themes/weathering-with-you/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "welcome-to-nhk",
+      "name": "Welcome to the NHK",
+      "description": "Tatsuhiro Satou is a hikikomori convinced a conspiracy called NHK is ruining his life. When a mysterious girl named Misaki knocks on his door offering help, his shut-in existence is slowly, painfully dismantled.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010400",
+        "primary": "#348737",
+        "secondary": "#888888",
+        "accent": "#c8f0c0"
+      },
+      "themeRef": "themes/welcome-to-nhk/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "whisper-of-the-heart",
+      "name": "Whisper of the Heart",
+      "description": "Bookworm Shizuku keeps finding books that were checked out by someone named Seiji Amasawa — then they meet, and discover they share the same dreams of becoming creators.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060500",
+        "primary": "#c0820f",
+        "secondary": "#7a4e04",
+        "accent": "#9080c0"
+      },
+      "themeRef": "themes/whisper-of-the-heart/theme.json",
+      "backgroundImageUrl": "/themes/whisper-of-the-heart.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "wind-breaker",
+      "name": "Wind Breaker",
+      "description": "Loner Haruka Sakura transfers to Furin High — a school of delinquents who secretly protect their town from outside threats, clashing with gangs and building bonds through street brawls and unbreakable loyalty.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060100",
+        "primary": "#d74800",
+        "secondary": "#ac3000",
+        "accent": "#808090"
+      },
+      "themeRef": "themes/wind-breaker/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "wolf-children",
+      "name": "Wolf Children",
+      "description": "A college student falls in love with a wolf-man and bears two children — Ame and Yuki — who can transform between human and wolf form. After their father's death, she raises them alone in the mountains.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000400",
+        "primary": "#328e41",
+        "secondary": "#884028",
+        "accent": "#c8f0c0"
+      },
+      "themeRef": "themes/wolf-children/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "wolf-rain",
+      "name": "Wolf's Rain",
+      "description": "In a world where wolves are thought to be extinct, a pack of wolves disguised as humans searches for Paradise — a legendary land promised at the end of the world.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#020204",
+        "primary": "#485aa5",
+        "secondary": "#324188",
+        "accent": "#c8e8f8"
+      },
+      "themeRef": "themes/wolf-rain/theme.json",
+      "backgroundImageUrl": "/themes/wolf-rain.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "world-god-only-knows",
+      "name": "The World God Only Knows",
+      "description": "Keima Katsuragi is the God of Conquest in galge games — and is contractually forced to conquer real girls to drive out demons hidden in their hearts. The only problem: real girls don't follow game logic.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030008",
+        "primary": "#6930e1",
+        "secondary": "#c04040",
+        "accent": "#d8b8f8"
+      },
+      "themeRef": "themes/world-god-only-knows/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "wotakoi",
+      "name": "Wotakoi: Love is Hard for Otaku",
+      "description": "Office worker Narumi Momose is a closeted fujoshi who reunites with childhood friend and hardcore gamer Hirotaka Nifuji — they decide to date despite both being otaku, leading to an endearingly awkward workplace romance.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#030405",
+        "primary": "#6982aa",
+        "secondary": "#4b648e",
+        "accent": "#e08888"
+      },
+      "themeRef": "themes/wotakoi/theme.json",
+      "backgroundImageUrl": "/themes/wotakoi.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "your-lie-in-april",
+      "name": "Your Lie in April",
+      "description": "Piano prodigy Kousei Arima lost his ability to hear music after his mother's death, until free-spirited violinist Kaori Miyazono crashes into his life and drags him back into the colorful world of music and emotion.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040106",
+        "primary": "#c04b80",
+        "secondary": "#9e2a62",
+        "accent": "#f0e020"
+      },
+      "themeRef": "themes/your-lie-in-april/theme.json",
+      "backgroundImageUrl": "/themes/your-lie-in-april.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "yowamushi-pedal",
+      "name": "Yowamushi Pedal",
+      "description": "Otaku Sakamichi Onoda commutes 45km to school on a mamachari to get to Akihabara. Discovered by cycling enthusiasts, he joins the road racing club and his incredible natural climbing ability astounds everyone.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000208",
+        "primary": "#165ad0",
+        "secondary": "#cc3030",
+        "accent": "#a8d0f8"
+      },
+      "themeRef": "themes/yowamushi-pedal/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "yuri-on-ice",
+      "name": "Yuri!!! on ICE",
+      "description": "After a humiliating defeat, figure skater Yuri Katsuki finds himself coached by his idol Victor Nikiforov. On the ice, they carve a story of love, rivalry, and transcendent performance.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#000410",
+        "primary": "#1676b9",
+        "secondary": "#d4af37",
+        "accent": "#e0e8f0"
+      },
+      "themeRef": "themes/yuri-on-ice/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "yuru-camp",
+      "name": "Laid-Back Camp",
+      "description": "Rin Shima loves solo camping under Mount Fuji's glow. When she meets the enthusiastic Nadeshiko, their peaceful camp nights spark an unlikely club and a journey through Japan's beautiful wilderness.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#070200",
+        "primary": "#d2620a",
+        "secondary": "#2a6030",
+        "accent": "#f0e0c0"
+      },
+      "themeRef": "themes/yuru-camp/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "yuyu-hakusho",
+      "name": "Yu Yu Hakusho",
+      "description": "Spirit Gun! Underworld aesthetics with spirit detective swagger, Dark Tournament fury, and demon world power.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#040807",
+        "primary": "#00aa44",
+        "secondary": "#008c37",
+        "accent": "#e8aa00"
+      },
+      "themeRef": "themes/yuyu-hakusho/theme.json",
+      "backgroundImageUrl": "/themes/yuyu-hakusho.jpg",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "zatch-bell",
+      "name": "Zatch Bell!",
+      "description": "Kiyo Takamine is paired with the amnesiac Zatch Bell, a mamodo child who shoots lightning from his mouth. Together they must fight other mamodo-human pairs to determine who will become the King of the Mamodo World.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#060500",
+        "primary": "#d49200",
+        "secondary": "#aa7000",
+        "accent": "#4080f0"
+      },
+      "themeRef": "themes/zatch-bell/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "zom-100",
+      "name": "Zom 100: Bucket List of the Dead",
+      "description": "After years of soul-crushing work, Akira Tendo wakes up to find the world overrun by zombies — and realises with joy that he never has to go to work again. He sets out to complete 100 things before becoming a zombie himself.",
+      "author": "seanime",
+      "tags": [],
+      "previewColors": {
+        "bg": "#010501",
+        "primary": "#12b22a",
+        "secondary": "#008e19",
+        "accent": "#f0d020"
+      },
+      "themeRef": "themes/zom-100/theme.json",
+      "backgroundImageUrl": "",
+      "createdAt": "2025-01-01"
+    }
+  ]
+}
