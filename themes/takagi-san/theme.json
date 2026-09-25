@@ -953,7 +953,6 @@
     "settings": {
       "label": "School Settings",
       "icon": "cog"
-    }
     },
     "unmatched": {
       "label": "Unread Feelings"
@@ -990,9 +989,6 @@
     },
     "sync": {
       "label": "Class Sync"
-    },
-    "settings": {
-      "label": "Nishikata Config"
     }
   }
 }
