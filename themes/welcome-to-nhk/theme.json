@@ -1,5 +1,7 @@
 {
   "id": "welcome-to-nhk",
+  "splashMessages": ["It's a conspiracy.", "The project begins tomorrow.", "Welcome."],
+  "easterEggs": { "notFound": "The NHK took it.", "emptySearch": "Nothing outside the apartment.", "idle": "Satou hasn't left his room in a while.", "logo": "Nihon Hikikomori Kyokai." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "gamepad", "my-profile": "user-slash", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "lock" },
   "displayName": "Welcome to the NHK",

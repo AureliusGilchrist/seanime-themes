@@ -1,5 +1,7 @@
 {
   "id": "gundam",
+  "splashMessages": ["Amuro, launching!", "The Red Comet is three times faster.", "Not even my father hit me."],
+  "easterEggs": { "notFound": "Lost in the One Year War.", "emptySearch": "Minovsky particles are interfering.", "idle": "Haro rolls past.", "logo": "RX-78-2." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-times", "discover": "planet", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "satellite" },
   "displayName": "Mobile Suit Gundam",

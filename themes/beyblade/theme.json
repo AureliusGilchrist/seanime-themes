@@ -1,5 +1,7 @@
 {
   "id": "beyblade",
+  "splashMessages": ["3… 2… 1…", "Let it rip!", "Dranzer is spinning."],
+  "easterEggs": { "notFound": "Knocked out of the stadium.", "emptySearch": "No bladers in the dish.", "idle": "Still spinning…", "logo": "Bit-beast, awaken." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "bullseye", "search": "search", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "dragon", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "gears" },
   "sidebarOverrides": {

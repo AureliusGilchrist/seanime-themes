@@ -1,5 +1,7 @@
 {
   "id": "fate-stay-night",
+  "splashMessages": ["I am the bone of my sword.", "Saber is hungry.", "Trace on."],
+  "easterEggs": { "notFound": "Traced, but projection failed.", "emptySearch": "No Servants in Fuyuki tonight.", "idle": "Someone is cooking at the Emiya house.", "logo": "Are you my Master?" },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "moon", "discover": "map", "lists": "users", "my-profile": "sword", "community": "users", "achievements": "crown", "watch-together": "utensils", "settings": "rune-stone" },
   "displayName": "Fate/stay night",

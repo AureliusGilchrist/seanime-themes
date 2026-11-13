@@ -1,5 +1,7 @@
 {
   "id": "natsume-yujincho",
+  "splashMessages": ["A name returned.", "Nyanko-sensei wants sake.", "The yokai are quiet tonight."],
+  "easterEggs": { "notFound": "A yokai borrowed this page.", "emptySearch": "No names left in the book.", "idle": "A lucky cat waddles past.", "logo": "The Book of Friends." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "tree", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "leaf", "watch-together": "cat", "settings": "scroll" },
   "displayName": "Natsume's Book of Friends",

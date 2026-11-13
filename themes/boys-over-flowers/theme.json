@@ -1,5 +1,7 @@
 {
   "id": "boys-over-flowers",
+  "splashMessages": ["A red card is in your locker.", "Weeds grow anywhere.", "F4 just walked in."],
+  "easterEggs": { "notFound": "Fled down the emergency staircase.", "emptySearch": "No one at Eitoku today.", "idle": "A violin plays upstairs.", "logo": "A weed that won't be trampled." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "crown", "watch-together": "heart", "settings": "rose" },
   "sidebarOverrides": {

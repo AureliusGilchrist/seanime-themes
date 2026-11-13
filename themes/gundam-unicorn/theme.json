@@ -1,5 +1,7 @@
 ﻿{
   "id": "gundam-unicorn",
+  "splashMessages": ["Destroy Mode.", "Even so…", "The box waits at the end."],
+  "easterEggs": { "notFound": "Locked inside Laplace's Box.", "emptySearch": "No psycho-frame resonance.", "idle": "The psycho-frame glows faintly green.", "logo": "A unicorn's horn splits." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-times", "discover": "planet", "lists": "key", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "satellite" },
   "sidebarOverrides": {

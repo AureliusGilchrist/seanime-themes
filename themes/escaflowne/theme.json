@@ -1,5 +1,7 @@
 {
   "id": "escaflowne",
+  "splashMessages": ["A pillar of light.", "The Mystic Moon hangs in the sky.", "Tarot cards are shuffled."],
+  "easterEggs": { "notFound": "Fate altered. Page gone.", "emptySearch": "The cards show nothing.", "idle": "Wings unfold, white as snow.", "logo": "A pendant that dowses." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "crystal-ball", "schedule": "moon", "discover": "planet", "lists": "scroll", "my-profile": "dragon", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "sword" },
   "displayName": "The Vision of Escaflowne",

@@ -1,5 +1,7 @@
 {
   "id": "toriko",
+  "splashMessages": ["Itadakimasu.", "A full-course menu, in progress.", "Komatsu is sharpening his knife."],
+  "easterEggs": { "notFound": "Eaten in one bite.", "emptySearch": "No ingredients on this hunt.", "idle": "Terry is gnawing on a bone.", "logo": "Gochisousama." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "utensils", "search": "search", "schedule": "calendar-alt", "discover": "globe", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "utensils", "settings": "fire" },
   "displayName": "Toriko",

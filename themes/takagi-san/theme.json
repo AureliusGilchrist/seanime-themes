@@ -1,5 +1,7 @@
 {
   "id": "takagi-san",
+  "splashMessages": ["Teased again.", "Today, Nishikata will win. Maybe.", "A bicycle ride home."],
+  "easterEggs": { "notFound": "Takagi hid it. Of course she did.", "emptySearch": "Nothing. She's smiling though.", "idle": "Nishikata is plotting revenge.", "logo": "A smile that wins." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "bicycle", "settings": "pencil" },
   "displayName": "Teasing Master Takagi-san",

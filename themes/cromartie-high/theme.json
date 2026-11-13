@@ -1,5 +1,7 @@
 {
   "id": "cromartie-high",
+  "splashMessages": ["Is Mechazawa a robot?", "Freddie says nothing.", "A gorilla enrolled today."],
+  "easterEggs": { "notFound": "No one noticed this page was missing.", "emptySearch": "Nothing. Just like Freddie's dialogue.", "idle": "…(Freddie)", "logo": "Toughest school in Japan." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-signs", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "question-circle" },
   "sidebarOverrides": {

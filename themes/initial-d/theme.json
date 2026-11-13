@@ -1,5 +1,7 @@
 {
   "id": "initial-d",
+  "splashMessages": ["Tofu delivery at 4 a.m.", "Don't spill the water.", "Deja vu…"],
+  "easterEggs": { "notFound": "Took the gutter, missed the page.", "emptySearch": "No one on the pass tonight.", "idle": "The engine is cooling down.", "logo": "Fujiwara Tofu Shop." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "mountain", "search": "binoculars", "schedule": "stopwatch", "discover": "route", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Initial D",

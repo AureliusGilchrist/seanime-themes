@@ -1,5 +1,7 @@
 {
   "id": "skip-and-loafer",
+  "splashMessages": ["From the countryside to Tokyo.", "Mitsumi has a life plan.", "Sousuke is smiling. Is it real?"],
+  "easterEggs": { "notFound": "Got off at the wrong station.", "emptySearch": "Nothing yet. It's only the first year.", "idle": "Mitsumi is reviewing her plan.", "logo": "Skip, and loaf." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "pencil" },
   "displayName": "Skip and Loafer",

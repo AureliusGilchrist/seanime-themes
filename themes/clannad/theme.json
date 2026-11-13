@@ -1,5 +1,7 @@
 {
   "id": "clannad",
+  "splashMessages": ["Dango, dango, dango…", "Up the hill with the cherry trees.", "A light floats by."],
+  "easterEggs": { "notFound": "Lost in the illusionary world.", "emptySearch": "Just snow, in an empty world.", "idle": "Dango daikazoku…", "logo": "An orb of light." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "tree", "lists": "theater-masks", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "cookie" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "demon-slayer",
+  "splashMessages": ["Total concentration.", "Nezuko is resting in her box.", "Caw! Caw! A mission!"],
+  "easterEggs": { "notFound": "The scent trail ends here.", "emptySearch": "No demons nearby. For now.", "idle": "Zenitsu fell asleep — or did he?", "logo": "Wisteria in bloom." },
   "playerIconSet": "demon-slayer",
   "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "moon", "discover": "map", "lists": "scroll", "my-profile": "fire", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "katana" },
   "sidebarOverrides": {

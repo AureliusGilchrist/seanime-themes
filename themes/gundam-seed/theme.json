@@ -1,5 +1,7 @@
 ﻿{
   "id": "gundam-seed",
+  "splashMessages": ["A seed bursts.", "The Archangel launches.", "Phase shift down."],
+  "easterEggs": { "notFound": "Lost near Heliopolis.", "emptySearch": "No mobile suits in range.", "idle": "A green robot bird chirps.", "logo": "Freedom." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-times", "discover": "planet", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "dna" },
   "sidebarOverrides": {

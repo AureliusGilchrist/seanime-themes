@@ -1,5 +1,7 @@
 {
   "id": "ajin",
+  "splashMessages": ["Resetting…", "The black ghost moves on its own.", "Stand still. Listen."],
+  "easterEggs": { "notFound": "This page reset itself out of existence.", "emptySearch": "No Ajin detected.", "idle": "Can you hear the ghost's voice?", "logo": "Freeze." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "ghost", "search": "crosshairs", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "file-medical", "my-profile": "user-secret", "community": "users", "achievements": "skull", "watch-together": "ghost", "settings": "syringe" },
   "sidebarOverrides": {

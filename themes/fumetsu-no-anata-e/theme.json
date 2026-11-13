@@ -1,5 +1,7 @@
 ﻿{
   "id": "fumetsu-no-anata-e",
+  "splashMessages": ["An orb was cast onto the earth.", "Stimulus received.", "Joaan wags his tail."],
+  "easterEggs": { "notFound": "Taken by a Nokker.", "emptySearch": "No stimulus. Waiting.", "idle": "The Beholder is watching.", "logo": "A sphere, given form." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "snowflake", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "users", "my-profile": "wolf-head", "community": "users", "achievements": "infinity", "watch-together": "campground", "settings": "feather" },
   "sidebarOverrides": {

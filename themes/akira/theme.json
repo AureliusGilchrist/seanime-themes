@@ -1,5 +1,7 @@
 {
   "id": "akira",
+  "splashMessages": ["Neo-Tokyo is about to explode.", "That's my bike, punk.", "The Olympics are in 1 year."],
+  "easterEggs": { "notFound": "This district was levelled in 1988.", "emptySearch": "Nothing in the capsule.", "idle": "Kaneda…!", "logo": "Good for health, bad for education." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "file-medical", "my-profile": "running", "community": "users", "achievements": "radiation", "watch-together": "user-friends", "settings": "microchip" },
   "sidebarOverrides": {

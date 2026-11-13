@@ -1,5 +1,7 @@
 {
   "id": "grand-blue",
+  "splashMessages": ["Peek-a-Boo! has a party tonight.", "Diving… eventually.", "The clothes are optional, apparently."],
+  "easterEggs": { "notFound": "Woke up somewhere unfamiliar.", "emptySearch": "Nothing but the ocean.", "idle": "Someone is chanting outside the dive shop.", "logo": "A scuba tank. Untouched." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "water", "search": "binoculars", "schedule": "calendar-alt", "discover": "island", "lists": "cocktail", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "cocktail", "settings": "anchor" },
   "displayName": "Grand Blue Dreaming",

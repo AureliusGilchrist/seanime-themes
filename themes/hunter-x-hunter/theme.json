@@ -1,5 +1,7 @@
 {
   "id": "hunter-x-hunter",
+  "splashMessages": ["Focus your aura.", "The hunter exam begins.", "Killua has chocolate robots."],
+  "easterEggs": { "notFound": "Hidden with In. Use Gyo.", "emptySearch": "Zetsu: no presence detected.", "idle": "Gon is fishing at Whale Island.", "logo": "A hunter license." },
   "playerIconSet": "hunter-x-hunter",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "list-ol", "my-profile": "fish", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "dice" },
   "sidebarOverrides": {

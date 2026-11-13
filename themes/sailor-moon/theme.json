@@ -1,5 +1,7 @@
 {
   "id": "sailor-moon",
+  "splashMessages": ["In the name of the moon!", "Luna has a crescent on her forehead.", "Moon Prism Power…"],
+  "easterEggs": { "notFound": "Usagi was late and missed it.", "emptySearch": "No youma in Juban.", "idle": "Usagi is crying over a test score.", "logo": "A crescent moon." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "moon", "search": "crystal-ball", "schedule": "calendar-alt", "discover": "planet", "lists": "star", "my-profile": "wand-sparkles", "community": "users", "achievements": "gem", "watch-together": "cat", "settings": "gem" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "metallic-rouge",
+  "splashMessages": ["Nectar levels low.", "Nine immortals to hunt.", "An android with a sweet tooth."],
+  "easterEggs": { "notFound": "Lost on Mars.", "emptySearch": "No usurpers in range.", "idle": "Rouge is eating chocolate.", "logo": "Metal, rouge." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "planet", "search": "radar", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "crosshairs", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "Metallic Rouge",

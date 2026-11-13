@@ -1,5 +1,7 @@
 {
   "id": "summer-wars",
+  "splashMessages": ["Yoroshiku onegaishimasu!", "Hanafuda, for the world.", "OZ is down."],
+  "easterEggs": { "notFound": "Absorbed by Love Machine.", "emptySearch": "No avatars online.", "idle": "A morning glory opens.", "logo": "Koi-koi." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "home", "search": "network", "schedule": "calendar-alt", "discover": "globe", "lists": "users", "my-profile": "user", "community": "users", "achievements": "flower", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "Summer Wars",

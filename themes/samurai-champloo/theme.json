@@ -1,5 +1,7 @@
 {
   "id": "samurai-champloo",
+  "splashMessages": ["The samurai who smells of sunflowers.", "Fuu is hungry. Again.", "Battlecry plays."],
+  "easterEggs": { "notFound": "Scratch. Rewind.", "emptySearch": "No sunflowers here.", "idle": "A record scratches.", "logo": "Momo the flying squirrel." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "route", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "katana", "community": "users", "achievements": "flower", "watch-together": "utensils", "settings": "headphones" },
   "displayName": "Samurai Champloo",

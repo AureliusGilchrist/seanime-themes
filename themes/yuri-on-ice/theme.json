@@ -1,5 +1,7 @@
 {
   "id": "yuri-on-ice",
+  "splashMessages": ["Katsudon after the win.", "History Maker plays.", "Makkachin is at the rink."],
+  "easterEggs": { "notFound": "Fell on the quad.", "emptySearch": "The rink is empty.", "idle": "Blades scrape on the ice.", "logo": "Stay close to me." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "snowflake", "search": "search", "schedule": "calendar-check", "discover": "globe", "lists": "music", "my-profile": "skating", "community": "users", "achievements": "medal", "watch-together": "heart", "settings": "skating" },
   "displayName": "Yuri!!! on ICE",

@@ -1,5 +1,7 @@
 {
   "id": "the-eminence-in-shadow",
+  "splashMessages": ["I am atomic.", "Shadow Garden has misunderstood again.", "Just a background character."],
+  "easterEggs": { "notFound": "Vanished into the shadows.", "emptySearch": "No Cult of Diablos here. Or is there?", "idle": "Shadow is practising a dramatic entrance.", "logo": "I am atomic." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "users", "my-profile": "mask", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "The Eminence in Shadow",

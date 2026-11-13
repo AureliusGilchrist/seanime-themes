@@ -1,5 +1,7 @@
 {
   "id": "jojo-bizarre-adventure",
+  "splashMessages": ["Yare yare daze.", "Your next line is…", "To be continued ⟶"],
+  "easterEggs": { "notFound": "It was me, DIO!", "emptySearch": "Nothing. But you can't escape your fate.", "idle": "ゴゴゴゴゴ", "logo": "A star-shaped birthmark." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "star", "search": "eye", "schedule": "hourglass", "discover": "globe", "lists": "users", "my-profile": "star", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "mask" },
   "sidebarOverrides": {

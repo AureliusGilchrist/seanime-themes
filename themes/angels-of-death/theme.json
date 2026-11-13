@@ -1,5 +1,7 @@
 {
   "id": "angels-of-death",
+  "splashMessages": ["The elevator is going up.", "Promise me.", "Each floor has its master."],
+  "easterEggs": { "notFound": "This floor isn't on the elevator panel.", "emptySearch": "Nobody on this floor.", "idle": "Do you swear to God?", "logo": "A scythe and a promise." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "hourglass", "discover": "map-signs", "lists": "book-dead", "my-profile": "skull", "community": "users", "achievements": "tombstone", "watch-together": "user-friends", "settings": "dagger" },
   "sidebarOverrides": {

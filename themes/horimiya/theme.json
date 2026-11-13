@@ -1,5 +1,7 @@
 {
   "id": "horimiya",
+  "splashMessages": ["The real Miyamura has piercings.", "Hori is making dinner.", "After school, together."],
+  "easterEggs": { "notFound": "Hidden, like a tattoo under sleeves.", "emptySearch": "Nobody here but us.", "idle": "Souta is napping on the couch.", "logo": "A secret, kept." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "utensils" },
   "displayName": "Horimiya",

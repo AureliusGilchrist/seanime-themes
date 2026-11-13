@@ -1,5 +1,7 @@
 ﻿{
   "id": "gundam-00",
+  "splashMessages": ["I am Gundam.", "Haro! Haro!", "Trans-Am."],
+  "easterEggs": { "notFound": "Eradicated through armed intervention.", "emptySearch": "No GN signatures.", "idle": "Haro bounces past.", "logo": "Celestial Being." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-times", "discover": "globe", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "satellite" },
   "sidebarOverrides": {

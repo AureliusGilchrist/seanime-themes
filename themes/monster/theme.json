@@ -1,5 +1,7 @@
 {
   "id": "monster",
+  "splashMessages": ["All lives are equal.", "A picture book with no name.", "Lunge is typing."],
+  "easterEggs": { "notFound": "The nameless monster took it.", "emptySearch": "No trace of him.", "idle": "Look at me. Look at the monster inside.", "logo": "Doctor Tenma." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-medical", "my-profile": "user-graduate", "community": "users", "achievements": "book-open", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

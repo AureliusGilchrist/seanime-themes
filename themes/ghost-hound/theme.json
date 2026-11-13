@@ -1,5 +1,7 @@
 ﻿{
   "id": "ghost-hound",
+  "splashMessages": ["Slipping out of body…", "The hidden world is close.", "A heartbeat, very faint."],
+  "easterEggs": { "notFound": "Drifted into the Unseen World.", "emptySearch": "No spirits here.", "idle": "Your soul feels light.", "logo": "Three boys, one secret." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "mountain", "search": "ghost", "schedule": "moon", "discover": "map-signs", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "eye", "watch-together": "user-friends", "settings": "brain" },
   "sidebarOverrides": {

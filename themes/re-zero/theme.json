@@ -1,5 +1,7 @@
 {
   "id": "re-zero",
+  "splashMessages": ["Return by death.", "Rem is preparing tea.", "Let's start from zero."],
+  "easterEggs": { "notFound": "You died. Returning to the last checkpoint…", "emptySearch": "Nothing here. Try again from zero.", "idle": "Puck is sleeping in Emilia's hair.", "logo": "A witch's scent." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "hourglass", "discover": "map", "lists": "book-dead", "my-profile": "user", "community": "users", "achievements": "skull", "watch-together": "heart", "settings": "crystal-ball" },
   "sidebarOverrides": {

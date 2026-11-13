@@ -1,5 +1,7 @@
 {
   "id": "kiki-delivery-service",
+  "splashMessages": ["Delivery by broom.", "Jiji has opinions.", "A town by the sea."],
+  "easterEggs": { "notFound": "Fell off the broom.", "emptySearch": "No deliveries today.", "idle": "Jiji: \"…\"", "logo": "A red bow." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "home", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "clipboard-list", "my-profile": "hat-wizard", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "wand-magic" },
   "displayName": "Kiki's Delivery Service",

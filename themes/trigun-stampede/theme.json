@@ -1,5 +1,7 @@
 {
   "id": "trigun-stampede",
+  "splashMessages": ["Love and peace!", "Donuts, again.", "A plant hums in the dark."],
+  "easterEggs": { "notFound": "Lost in a sandsteamer's wake.", "emptySearch": "Nothing but desert.", "idle": "Kuroneko-sama passes by.", "logo": "Sixty billion double dollars." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "sun", "search": "crosshairs", "schedule": "calendar-alt", "discover": "route", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "coins", "watch-together": "cookie", "settings": "gun" },
   "displayName": "Trigun Stampede",

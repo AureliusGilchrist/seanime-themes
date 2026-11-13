@@ -1,5 +1,7 @@
 {
   "id": "mushishi",
+  "splashMessages": ["The light vein flows below.", "Ginko lights a cigarette.", "Mushi are neither good nor evil."],
+  "easterEggs": { "notFound": "Eaten by a mushi that consumes silence.", "emptySearch": "Only the quiet of the mountains.", "idle": "Smoke drifts from a mushi-shi's cigarette.", "logo": "One eye, green." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "tree", "search": "eye", "schedule": "calendar-alt", "discover": "route", "lists": "book-open", "my-profile": "backpack", "community": "users", "achievements": "leaf", "watch-together": "campground", "settings": "vial" },
   "displayName": "Mushishi",

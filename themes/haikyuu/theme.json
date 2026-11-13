@@ -1,5 +1,7 @@
 {
   "id": "haikyuu",
+  "splashMessages": ["Toss it to me!", "Meat buns after practice.", "Crows don't need wings to fly."],
+  "easterEggs": { "notFound": "Shut down by the block.", "emptySearch": "Empty court. Time for serves.", "idle": "A volleyball rolls across the floor.", "logo": "Fly." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "volleyball", "search": "binoculars", "schedule": "calendar-check", "discover": "map-signs", "lists": "clipboard-list", "my-profile": "running", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "whistle" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "20th-century-boys",
+  "splashMessages": ["Bob Lennon is playing somewhere.", "Remember the secret base?", "The book of prophecy turns another page."],
+  "easterEggs": { "notFound": "This page was never written in the book of prophecy.", "emptySearch": "Nobody here — not even a friend.", "idle": "Gutarara, gutarara…", "logo": "Who is the Friend?" },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "eye", "search": "binoculars", "schedule": "calendar-times", "discover": "search-location", "lists": "book-skull", "my-profile": "user-secret", "community": "users", "achievements": "flag", "watch-together": "user-friends", "settings": "biohazard" },
   "displayName": "20th Century Boys",

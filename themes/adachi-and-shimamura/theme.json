@@ -1,5 +1,7 @@
 {
   "id": "adachi-and-shimamura",
+  "splashMessages": ["The gym loft is quiet today.", "Ping… pong…", "One more text, maybe."],
+  "easterEggs": { "notFound": "Skipped this page, like second period.", "emptySearch": "Nobody up in the loft.", "idle": "Typing… deleting… typing…", "logo": "Just the two of us." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "heart", "watch-together": "heart", "settings": "chess-board" },
   "sidebarOverrides": {

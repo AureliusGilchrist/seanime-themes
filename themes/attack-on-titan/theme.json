@@ -1,5 +1,7 @@
 {
   "id": "attack-on-titan",
+  "splashMessages": ["Dedicate your heart.", "The walls held another day.", "Beyond the walls, the sea."],
+  "easterEggs": { "notFound": "This page is beyond the walls.", "emptySearch": "Nothing in the basement.", "idle": "Sasha has stolen a potato.", "logo": "Two wings, crossed." },
   "playerIconSet": "attack-on-titan",
   "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "map-marked-alt", "lists": "scroll", "my-profile": "shield-alt", "community": "users", "achievements": "flag", "watch-together": "user-friends", "settings": "key" },
   "sidebarOverrides": {

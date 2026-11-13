@@ -1,5 +1,7 @@
 {
   "id": "gurren-lagann",
+  "splashMessages": ["Pierce the heavens with your drill.", "Believe in the you who believes in yourself.", "Row, row, fight the power."],
+  "easterEggs": { "notFound": "Drilled straight past this page.", "emptySearch": "Nothing. Dig deeper.", "idle": "Boota squeaks.", "logo": "Who the hell do you think I am?" },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "calendar-alt", "discover": "planet", "lists": "users", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "key" },
   "sidebarOverrides": {

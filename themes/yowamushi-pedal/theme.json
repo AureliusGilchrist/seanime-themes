@@ -1,5 +1,7 @@
 {
   "id": "yowamushi-pedal",
+  "splashMessages": ["Hime hime~", "High cadence climbing.", "To Akihabara, by bike."],
+  "easterEggs": { "notFound": "Dropped from the pack.", "emptySearch": "No riders on the road.", "idle": "Onoda is humming Love Hime.", "logo": "A mamachari." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "bicycle", "search": "binoculars", "schedule": "stopwatch", "discover": "route", "lists": "list-ol", "my-profile": "bicycle", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Yowamushi Pedal",

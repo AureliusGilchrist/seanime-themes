@@ -1,5 +1,7 @@
 {
   "id": "arifureta",
+  "splashMessages": ["Transmuting…", "The abyss changes people.", "Donner and Schlag, loaded."],
+  "easterEggs": { "notFound": "Deeper in the labyrinth than this.", "emptySearch": "Nothing to synthesise here.", "idle": "Yue is waiting.", "logo": "Commonplace, until it isn't." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "gun", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "hammer" },
   "displayName": "Arifureta: From Commonplace to World's Strongest",

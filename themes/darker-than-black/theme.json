@@ -1,5 +1,7 @@
 {
   "id": "darker-than-black",
+  "splashMessages": ["The stars are false.", "A contractor pays the price.", "Ramen, eight bowls."],
+  "easterEggs": { "notFound": "A star fell. The page went with it.", "emptySearch": "Nothing under this false sky.", "idle": "Mao is grooming.", "logo": "BK-201." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "star", "my-profile": "mask", "community": "users", "achievements": "bolt", "watch-together": "cat", "settings": "dagger" },
   "sidebarOverrides": {

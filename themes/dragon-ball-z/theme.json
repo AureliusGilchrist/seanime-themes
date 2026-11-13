@@ -1,5 +1,7 @@
 {
   "id": "dragon-ball-z",
+  "splashMessages": ["Power level rising…", "Gathering energy for a Spirit Bomb.", "This will only take five more minutes."],
+  "easterEggs": { "notFound": "Blown up along with the planet.", "emptySearch": "The scouter reads nothing.", "idle": "Still charging…", "logo": "Over 9000." },
   "playerIconSet": "dragon-ball-z",
   "sidebarIcons": { "landing": "home", "search": "radar", "schedule": "hourglass", "discover": "planet", "lists": "star", "my-profile": "fire", "community": "users", "achievements": "dragon", "watch-together": "user-friends", "settings": "gem" },
   "sidebarOverrides": {

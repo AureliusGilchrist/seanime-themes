@@ -1,5 +1,7 @@
 {
   "id": "gintama",
+  "splashMessages": ["Strawberry milk is in the fridge.", "It's Zura, not Katsura. Wait—", "Jump comes out today."],
+  "easterEggs": { "notFound": "Censored for broadcast.", "emptySearch": "No odd jobs today. Rent's still due.", "idle": "Sadaharu is chewing on someone's head.", "logo": "A wooden sword from Lake Toya." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "store", "search": "search", "schedule": "calendar-alt", "discover": "ufo", "lists": "book-open", "my-profile": "katana", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "dog" },
   "sidebarOverrides": {

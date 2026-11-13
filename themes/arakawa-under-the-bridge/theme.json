@@ -1,5 +1,7 @@
 {
   "id": "arakawa-under-the-bridge",
+  "splashMessages": ["Nino is swimming upstream.", "The Village Chief is definitely a kappa.", "Debts must be repaid."],
+  "easterEggs": { "notFound": "Washed downstream.", "emptySearch": "Just the river, flowing.", "idle": "Recruit, why so serious?", "logo": "From Venus, apparently." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "water", "search": "binoculars", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "star", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "campground" },
   "sidebarOverrides": {

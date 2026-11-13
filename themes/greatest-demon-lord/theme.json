@@ -1,5 +1,7 @@
 {
   "id": "greatest-demon-lord",
+  "splashMessages": ["Just a normal student.", "Too strong to be ordinary.", "Friends, at last."],
+  "easterEggs": { "notFound": "Accidentally erased by a casual spell.", "emptySearch": "No one worthy found.", "idle": "Trying very hard to look average.", "logo": "Varvatos, retired." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "crown", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "staff" },
   "displayName": "The Greatest Demon Lord is Reborn as a Typical Nobody",

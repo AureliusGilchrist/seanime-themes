@@ -1,5 +1,7 @@
 {
   "id": "higurashi",
+  "splashMessages": ["Nipah~", "The cicadas are crying.", "Watanagashi is soon."],
+  "easterEggs": { "notFound": "Did you lie to me?", "emptySearch": "Nothing here. Uso da!", "idle": "Hauu~ so cute, take it home!", "logo": "Auau." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "tree", "lists": "book-dead", "my-profile": "user", "community": "users", "achievements": "dice", "watch-together": "user-friends", "settings": "hammer" },
   "displayName": "Higurashi: When They Cry",

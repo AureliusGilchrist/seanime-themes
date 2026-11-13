@@ -1,5 +1,7 @@
 {
   "id": "seven-deadly-sins",
+  "splashMessages": ["The Boar Hat is open for business.", "Hawk says ham is life.", "Full counter."],
+  "easterEggs": { "notFound": "Stolen by the Fox's Sin.", "emptySearch": "The tavern is empty.", "idle": "Hawk is oinking at someone.", "logo": "A dragon's sin." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "cocktail", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "dragon", "community": "users", "achievements": "crown", "watch-together": "cocktail", "settings": "sword" },
   "displayName": "The Seven Deadly Sins",

@@ -1,5 +1,7 @@
 {
   "id": "berserk",
+  "splashMessages": ["Struggle.", "The brand is bleeding.", "Too big to be called a sword."],
+  "easterEggs": { "notFound": "Swallowed by the eclipse.", "emptySearch": "Nothing but the night.", "idle": "A campfire crackles.", "logo": "A dream, given up for." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "moon", "discover": "map", "lists": "scroll", "my-profile": "sword", "community": "users", "achievements": "skull", "watch-together": "campground", "settings": "battle-axe" },
   "sidebarOverrides": {

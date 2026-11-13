@@ -1,5 +1,7 @@
 {
   "id": "holyland",
+  "splashMessages": ["One-two, one-two.", "The streets are his holy land.", "Hunting the hunters."],
+  "easterEggs": { "notFound": "Lost in a back alley.", "emptySearch": "No one on the street tonight.", "idle": "Shadow-boxing under a streetlight.", "logo": "A left jab, repeated." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Holyland",

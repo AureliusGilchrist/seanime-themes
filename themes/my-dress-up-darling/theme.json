@@ -1,5 +1,7 @@
 {
   "id": "my-dress-up-darling",
+  "splashMessages": ["The sewing machine is humming.", "Marin has a new character in mind.", "Hina dolls, finished."],
+  "easterEggs": { "notFound": "This costume isn't finished yet.", "emptySearch": "No patterns cut.", "idle": "Gojo is measuring something carefully.", "logo": "A hina doll's face." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "camera", "lists": "tshirt", "my-profile": "tshirt", "community": "users", "achievements": "camera", "watch-together": "heart", "settings": "tools" },
   "displayName": "My Dress-Up Darling",

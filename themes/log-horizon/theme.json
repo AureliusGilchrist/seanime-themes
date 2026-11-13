@@ -1,5 +1,7 @@
 {
   "id": "log-horizon",
+  "splashMessages": ["The villain in glasses is scheming.", "Food has flavour now.", "A round table convenes."],
+  "easterEggs": { "notFound": "Respawned in the Cathedral.", "emptySearch": "No players in Akiba.", "idle": "Nyanta is making cheese.", "logo": "Elder Tale." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "chess-knight", "community": "users", "achievements": "trophy", "watch-together": "utensils", "settings": "gamepad" },
   "displayName": "Log Horizon",

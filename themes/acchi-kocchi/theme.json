@@ -1,5 +1,7 @@
 {
   "id": "acchi-kocchi",
+  "splashMessages": ["Over here, over there.", "Cat ears twitching…", "Io-kun, look this way."],
+  "easterEggs": { "notFound": "Tsumiki got lost again.", "emptySearch": "Nothing over here. Nothing over there.", "idle": "*twitch*", "logo": "Nya." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "cat", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "paw", "community": "user-friends", "achievements": "heart", "watch-together": "users", "settings": "cookie" },
   "sidebarOverrides": {

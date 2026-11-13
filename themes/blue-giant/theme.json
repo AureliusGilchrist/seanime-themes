@@ -1,5 +1,7 @@
 {
   "id": "blue-giant",
+  "splashMessages": ["Practising by the river again.", "So Blue is waiting.", "Play it intense."],
+  "easterEggs": { "notFound": "Wrong note, wrong page.", "emptySearch": "The club is empty tonight.", "idle": "A sax echoes under the bridge.", "logo": "A blue flame burns hottest." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-check", "discover": "globe", "lists": "music", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "drum", "settings": "microphone" },
   "sidebarOverrides": {

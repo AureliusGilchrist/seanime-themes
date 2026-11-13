@@ -1,5 +1,7 @@
 {
   "id": "dirty-pair",
+  "splashMessages": ["Lovely Angels, reporting in.", "Collateral damage: estimated.", "Mughi is hungry."],
+  "easterEggs": { "notFound": "Accidentally blew this page up.", "emptySearch": "Nothing left — we may have exploded it.", "idle": "It wasn't our fault!", "logo": "Lovely Angel." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "bomb", "watch-together": "cat", "settings": "rocket" },
   "displayName": "Dirty Pair",

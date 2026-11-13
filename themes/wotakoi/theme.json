@@ -1,5 +1,7 @@
 {
   "id": "wotakoi",
+  "splashMessages": ["Overtime, then games.", "Narumi is hiding her merch.", "Hirotaka hasn't looked up from his console."],
+  "easterEggs": { "notFound": "Saved over by accident.", "emptySearch": "No events this weekend.", "idle": "A game boots up in the break room.", "logo": "Love is hard for otaku." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "gamepad", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "gamepad", "settings": "gamepad" },
   "displayName": "Wotakoi: Love is Hard for Otaku",

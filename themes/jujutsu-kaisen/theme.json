@@ -1,5 +1,7 @@
 {
   "id": "jujutsu-kaisen",
+  "splashMessages": ["Throughout heaven and earth…", "Gojo is late, as usual.", "Cursed energy, flowing."],
+  "easterEggs": { "notFound": "Trapped in someone's domain.", "emptySearch": "No residuals. Clean.", "idle": "Nobara is shopping in Harajuku.", "logo": "Infinity." },
   "playerIconSet": "jujutsu-kaisen",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "demon", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "infinity" },
   "sidebarOverrides": {

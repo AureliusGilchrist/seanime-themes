@@ -1,5 +1,7 @@
 {
   "id": "captain-tsubasa",
+  "splashMessages": ["The ball is your friend.", "This pitch is very, very long.", "Drive shot!"],
+  "easterEggs": { "notFound": "Shot sailed over the bar.", "emptySearch": "Empty pitch. Maybe it's still loading the horizon.", "idle": "Still running down the field…", "logo": "Golden combi." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "flag", "search": "binoculars", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "running", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "whistle" },
   "displayName": "Captain Tsubasa",

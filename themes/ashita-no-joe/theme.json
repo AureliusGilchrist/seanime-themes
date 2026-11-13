@@ -1,5 +1,7 @@
 {
   "id": "ashita-no-joe",
+  "splashMessages": ["Stand up, Joe!", "Hit, and hit again.", "Burned down to white ash."],
+  "easterEggs": { "notFound": "Knocked clean out of the ring.", "emptySearch": "Empty corner. No one in it.", "idle": "Resting on the stool…", "logo": "Cross counter." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-check", "discover": "route", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Ashita no Joe",

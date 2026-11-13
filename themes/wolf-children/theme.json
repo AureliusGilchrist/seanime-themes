@@ -1,5 +1,7 @@
 {
   "id": "wolf-children",
+  "splashMessages": ["Smile, even when it's hard.", "The snow is perfect for running.", "Two children, two paths."],
+  "easterEggs": { "notFound": "Ran off into the mountains.", "emptySearch": "Just snow, and paw prints.", "idle": "A howl, far away.", "logo": "Ame and Yuki." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "home", "search": "paw", "schedule": "calendar-alt", "discover": "tree", "lists": "book-open", "my-profile": "wolf-head", "community": "users", "achievements": "leaf", "watch-together": "heart", "settings": "leaf" },
   "displayName": "Wolf Children",

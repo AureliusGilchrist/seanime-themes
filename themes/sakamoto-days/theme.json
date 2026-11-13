@@ -1,5 +1,7 @@
 {
   "id": "sakamoto-days",
+  "splashMessages": ["Welcome to Sakamoto Store.", "No killing. Family rule.", "Shin can read your mind."],
+  "easterEggs": { "notFound": "Shelved in the wrong aisle.", "emptySearch": "Nothing in stock.", "idle": "Sakamoto is restocking quietly.", "logo": "A convenience store sign." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "store", "search": "crosshairs", "schedule": "calendar-alt", "discover": "map-pin", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "coins", "watch-together": "heart", "settings": "utensils" },
   "displayName": "Sakamoto Days",

@@ -1,5 +1,7 @@
 ﻿{
   "id": "fire-punch",
+  "splashMessages": ["Live.", "Togata is rolling film.", "The fire never goes out."],
+  "easterEggs": { "notFound": "Frozen under the ice.", "emptySearch": "Only snow in every direction.", "idle": "A camera is still recording.", "logo": "Burning, always." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "snowflake", "search": "eye", "schedule": "calendar-times", "discover": "route", "lists": "film", "my-profile": "fire", "community": "users", "achievements": "skull", "watch-together": "film", "settings": "fire-flame-curved" },
   "sidebarOverrides": {

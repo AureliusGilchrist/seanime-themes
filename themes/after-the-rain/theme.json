@@ -1,5 +1,7 @@
 {
   "id": "after-the-rain",
+  "splashMessages": ["The rain will stop soon.", "One coffee, refilled.", "Rashomon on the counter."],
+  "easterEggs": { "notFound": "This page washed away in the rain.", "emptySearch": "Just raindrops on the window.", "idle": "Pitter-patter, pitter-patter…", "logo": "A shared umbrella." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "coffee", "search": "search", "schedule": "calendar-alt", "discover": "cloud", "lists": "book-open", "my-profile": "running", "community": "user-friends", "achievements": "medal", "watch-together": "coffee", "settings": "feather" },
   "sidebarOverrides": {

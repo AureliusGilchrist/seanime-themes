@@ -1,5 +1,7 @@
 {
   "id": "berserk-of-gluttony",
+  "splashMessages": ["Gluttony is hungry.", "Greed has something to say.", "Another soul devoured."],
+  "easterEggs": { "notFound": "Even Gluttony couldn't eat this page.", "emptySearch": "Nothing left to devour.", "idle": "A low growl of hunger…", "logo": "The black sword speaks." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "sword", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "utensils" },
   "displayName": "Berserk of Gluttony",

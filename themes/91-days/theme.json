@@ -1,5 +1,7 @@
 {
   "id": "91-days",
+  "splashMessages": ["The letter came seven years late.", "Lawless is thirsty tonight.", "Every debt gets collected."],
+  "easterEggs": { "notFound": "Wrong speakeasy, friend.", "emptySearch": "No one talks in Lawless.", "idle": "Ninety-one days is a long time to wait.", "logo": "Avilio Bruno, at your service." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "cocktail", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "user-secret", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "91 Days",

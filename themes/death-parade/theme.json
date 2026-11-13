@@ -1,5 +1,7 @@
 {
   "id": "death-parade",
+  "splashMessages": ["Welcome to Quindecim.", "Please, play a game.", "The elevator doors open."],
+  "easterEggs": { "notFound": "Sent to the void.", "emptySearch": "No guests at the bar tonight.", "idle": "Decim is polishing a glass.", "logo": "Reincarnation, or the void?" },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "cocktail", "search": "eye", "schedule": "hourglass", "discover": "building", "lists": "theater-masks", "my-profile": "mask", "community": "users", "achievements": "bullseye", "watch-together": "dice", "settings": "chess-board" },
   "sidebarOverrides": {

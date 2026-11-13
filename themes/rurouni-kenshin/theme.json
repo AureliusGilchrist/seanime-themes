@@ -1,5 +1,7 @@
 {
   "id": "rurouni-kenshin",
+  "splashMessages": ["Oro?", "A reverse-blade sword.", "Kaoru is cooking. Brace yourself."],
+  "easterEggs": { "notFound": "Oro~? Not here, that it isn't.", "emptySearch": "No one at the dojo, that there isn't.", "idle": "Kenshin is doing laundry.", "logo": "A cross-shaped scar." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "route", "lists": "scroll", "my-profile": "katana", "community": "users", "achievements": "medal", "watch-together": "utensils", "settings": "katana" },
   "displayName": "Rurouni Kenshin",

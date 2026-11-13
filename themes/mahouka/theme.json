@@ -1,5 +1,7 @@
 {
   "id": "mahouka",
+  "splashMessages": ["As expected of Onii-sama.", "CAD calibration complete.", "Course 2 — weeds, they call them."],
+  "easterEggs": { "notFound": "Decomposed into nothing.", "emptySearch": "No psions detected.", "idle": "Miyuki is pouring tea. The room got colder.", "logo": "An eight-petaled flower." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user-secret", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "The Irregular at Magic High School",

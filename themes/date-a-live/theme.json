@@ -1,5 +1,7 @@
 {
   "id": "date-a-live",
+  "splashMessages": ["Spacequake warning.", "Pick a dialogue option.", "Kotori is chewing a lollipop."],
+  "easterEggs": { "notFound": "Wrong choice. Try again.", "emptySearch": "No spirits detected.", "idle": "Affection meter: rising…", "logo": "Let's begin our date." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "map-pin", "lists": "heart", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "gamepad" },
   "sidebarOverrides": {

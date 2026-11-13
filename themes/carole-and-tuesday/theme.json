@@ -1,5 +1,7 @@
 {
   "id": "carole-and-tuesday",
+  "splashMessages": ["Two girls, one bridge, one song.", "Mars is listening.", "The keyboard is a little out of tune."],
+  "easterEggs": { "notFound": "This track got cut from the album.", "emptySearch": "Silence, between songs.", "idle": "Humming the seven minutes…", "logo": "A duet on Alba Bridge." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-check", "discover": "planet", "lists": "music", "my-profile": "guitar", "community": "users", "achievements": "star", "watch-together": "microphone", "settings": "headphones" },
   "sidebarOverrides": {

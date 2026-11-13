@@ -1,5 +1,7 @@
 {
   "id": "code-geass",
+  "splashMessages": ["Checkmate, in three moves.", "C.C. ordered pizza again.", "All hail…"],
+  "easterEggs": { "notFound": "You were commanded to forget this page.", "emptySearch": "No pieces left on the board.", "idle": "Pizza Hut arrived for C.C.", "logo": "A red bird in an eye." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "chess-board", "search": "eye", "schedule": "calendar-alt", "discover": "map-marked-alt", "lists": "chess-knight", "my-profile": "mask", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "chess-board" },
   "sidebarOverrides": {

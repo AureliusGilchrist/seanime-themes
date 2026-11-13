@@ -1,5 +1,7 @@
 {
   "id": "mushoku-tensei",
+  "splashMessages": ["This time, I'll live seriously.", "Roxy-sama is worshipped.", "A wooden Ruijerd figure."],
+  "easterEggs": { "notFound": "Teleported by the mana disaster.", "emptySearch": "No one here. Ruijerd checked.", "idle": "Eris is practising swordplay.", "logo": "A wand from Roxy." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "staff", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "wand-magic" },
   "displayName": "Mushoku Tensei",

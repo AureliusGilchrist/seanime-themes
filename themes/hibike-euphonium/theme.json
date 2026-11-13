@@ -1,5 +1,7 @@
 {
   "id": "hibike-euphonium",
+  "splashMessages": ["Aiming for nationals.", "The euphonium rings out.", "Up the mountain on festival night."],
+  "easterEggs": { "notFound": "Missed the cut for the competition.", "emptySearch": "The music room is empty.", "idle": "Someone is practising scales.", "logo": "Sound!" },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-check", "discover": "mountain", "lists": "music", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "drum" },
   "displayName": "Sound! Euphonium",

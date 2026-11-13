@@ -1,5 +1,7 @@
 {
   "id": "little-witch-academia",
+  "splashMessages": ["A believing heart is your magic.", "Shiny arc!", "Brooms that don't fly."],
+  "easterEggs": { "notFound": "Fell off a broom — again.", "emptySearch": "No magic here. Yet.", "idle": "Akko is practising transformation.", "logo": "A Shiny Chariot card." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "castle", "search": "crystal-ball", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "hat-wizard", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "wand-sparkles" },
   "displayName": "Little Witch Academia",

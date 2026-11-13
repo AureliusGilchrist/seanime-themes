@@ -1,5 +1,7 @@
 {
   "id": "my-next-life-villainess",
+  "splashMessages": ["Avoiding doom flags…", "The brain council is in session.", "Vegetables, harvested."],
+  "easterEggs": { "notFound": "Doom flag triggered.", "emptySearch": "No routes found. Safe… for now.", "idle": "Katarina is in the field again.", "logo": "A snake toy, slightly realistic." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "castle", "search": "search", "schedule": "calendar-alt", "discover": "leaf", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "coffee", "settings": "leaf" },
   "displayName": "My Next Life as a Villainess",

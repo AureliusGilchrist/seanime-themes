@@ -1,5 +1,7 @@
 {
   "id": "aoharu-x-machinegun",
+  "splashMessages": ["Gear check before the match.", "BB pellets everywhere.", "Squad, form up."],
+  "easterEggs": { "notFound": "Out of bounds. You're hit.", "emptySearch": "No contact on the field.", "idle": "Holding position…", "logo": "Toy Gun Gun." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "crosshairs", "search": "binoculars", "schedule": "calendar-check", "discover": "map-marked-alt", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

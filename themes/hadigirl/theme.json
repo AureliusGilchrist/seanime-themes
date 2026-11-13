@@ -1,5 +1,7 @@
 ﻿{
   "id": "hadigirl",
+  "splashMessages": ["Hadi is waving hello.", "A little adventure today.", "Snack time!"],
+  "easterEggs": { "notFound": "Hadi hid this page somewhere.", "emptySearch": "Nothing here but toys.", "idle": "Hadi is humming.", "logo": "A ribbon and a smile." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "gift" },
   "sidebarOverrides": {

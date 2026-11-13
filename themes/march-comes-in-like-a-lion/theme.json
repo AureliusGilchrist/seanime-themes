@@ -1,5 +1,7 @@
 {
   "id": "march-comes-in-like-a-lion",
+  "splashMessages": ["The river is calm today.", "Three sisters and a lot of cats.", "A game of shogi in progress."],
+  "easterEggs": { "notFound": "Resigned.", "emptySearch": "An empty board.", "idle": "A shogi piece clicks onto the board.", "logo": "A lion in March." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-check", "discover": "water", "lists": "chess-board", "my-profile": "chess-knight", "community": "users", "achievements": "trophy", "watch-together": "cat", "settings": "chess-board" },
   "displayName": "March Comes in Like a Lion",

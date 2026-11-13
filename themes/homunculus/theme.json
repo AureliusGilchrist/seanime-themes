@@ -1,5 +1,7 @@
 {
   "id": "homunculus",
+  "splashMessages": ["Close your right eye.", "Living in the car again.", "Everyone hides something."],
+  "easterEggs": { "notFound": "Seen only with the left eye.", "emptySearch": "No homunculi visible.", "idle": "A drill whirs somewhere.", "logo": "The sixth sense." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "brain", "my-profile": "user-secret", "community": "users", "achievements": "mask", "watch-together": "user-friends", "settings": "brain" },
   "displayName": "Homunculus",

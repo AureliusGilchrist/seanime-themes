@@ -1,5 +1,7 @@
 {
   "id": "cyberpunk-edgerunners",
+  "splashMessages": ["Night City wants you.", "One more chrome upgrade.", "Lucy dreams of the moon."],
+  "easterEggs": { "notFound": "Flatlined.", "emptySearch": "No signal. Netrunner offline.", "idle": "The braindance is still playing…", "logo": "Take me to the moon." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "moon", "lists": "file-alt", "my-profile": "microchip", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "network" },
   "sidebarOverrides": {

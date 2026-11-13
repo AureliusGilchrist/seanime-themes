@@ -1,5 +1,7 @@
 {
   "id": "pokemon",
+  "splashMessages": ["A wild something appeared!", "Your Pokémon are fully healed.", "Professor Oak is calling."],
+  "easterEggs": { "notFound": "It's not very effective…", "emptySearch": "The tall grass is quiet.", "idle": "Your Pikachu is looking up at you.", "logo": "Gotta catch 'em all." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "backpack" },
   "sidebarOverrides": {

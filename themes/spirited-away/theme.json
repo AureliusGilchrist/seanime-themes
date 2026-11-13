@@ -1,5 +1,7 @@
 {
   "id": "spirited-away",
+  "splashMessages": ["Don't forget your name.", "The train runs over the water.", "Soot sprites carry coal."],
+  "easterEggs": { "notFound": "Your name was taken. And this page.", "emptySearch": "Only spirits, and none here.", "idle": "No-Face is standing in the rain.", "logo": "A hair tie, woven by friends." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "moon", "discover": "water", "lists": "scroll", "my-profile": "user", "community": "users", "achievements": "gem", "watch-together": "dragon", "settings": "key" },
   "sidebarOverrides": {

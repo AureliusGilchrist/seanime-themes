@@ -1,5 +1,7 @@
 {
   "id": "honey-and-clover",
+  "splashMessages": ["Morita is gone again. For weeks.", "Yamada is carrying Mayama's things.", "Sandwiches on the studio floor."],
+  "easterEggs": { "notFound": "Wandered off, like Morita.", "emptySearch": "An empty studio.", "idle": "Hagu is drawing in tiny strokes.", "logo": "Honey on clover." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "palette", "search": "search", "schedule": "calendar-alt", "discover": "bicycle", "lists": "book-open", "my-profile": "palette-brush", "community": "users", "achievements": "leaf", "watch-together": "user-friends", "settings": "pencil" },
   "displayName": "Honey and Clover",

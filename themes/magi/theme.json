@@ -1,5 +1,7 @@
 {
   "id": "magi",
+  "splashMessages": ["Ugo is shy today.", "Rukh gathers.", "Open sesame."],
+  "easterEggs": { "notFound": "Lost in a dungeon.", "emptySearch": "The rukh shows nothing.", "idle": "Aladdin is playing his flute.", "logo": "Djinn's star." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "staff", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "key" },
   "displayName": "Magi: The Labyrinth of Magic",

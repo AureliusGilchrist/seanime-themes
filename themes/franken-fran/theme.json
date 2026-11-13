@@ -1,5 +1,7 @@
 ﻿{
   "id": "franken-fran",
+  "splashMessages": ["Surgery is ready.", "Okita is just a head today.", "Stitches, everywhere."],
+  "easterEggs": { "notFound": "Patient sent home in several pieces.", "emptySearch": "No patients waiting.", "idle": "A heart monitor beeps.", "logo": "A stitched-up smile." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "castle", "search": "microscope", "schedule": "calendar-alt", "discover": "map-signs", "lists": "file-medical", "my-profile": "syringe", "community": "users", "achievements": "dna", "watch-together": "user-friends", "settings": "flask" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "frieren",
+  "splashMessages": ["A spell to make flowers bloom.", "Fern is scolding someone.", "Ten years went by in a blink."],
+  "easterEggs": { "notFound": "Opened the wrong chest. It was a mimic.", "emptySearch": "Nothing. Even mana detection shows nothing.", "idle": "Frieren is sleeping in. Again.", "logo": "Himmel would have done the same." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "flower", "search": "eye", "schedule": "hourglass", "discover": "map", "lists": "spellbook", "my-profile": "staff", "community": "users", "achievements": "gem", "watch-together": "campground", "settings": "wand-magic" },
   "sidebarOverrides": {

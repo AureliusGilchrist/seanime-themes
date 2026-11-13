@@ -1,5 +1,7 @@
 ﻿{
   "id": "hachimitsu-to-clover",
+  "splashMessages": ["Biking north, no reason.", "Hagu is sculpting.", "Honey on clover."],
+  "easterEggs": { "notFound": "Rode off on a bicycle.", "emptySearch": "Just a blank canvas.", "idle": "A Ferris wheel turns in the distance.", "logo": "A four-leaf clover." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "palette", "search": "search", "schedule": "calendar-alt", "discover": "bicycle", "lists": "book-open", "my-profile": "palette-brush", "community": "users", "achievements": "leaf", "watch-together": "user-friends", "settings": "pencil" },
   "sidebarOverrides": {

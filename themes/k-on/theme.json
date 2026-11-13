@@ -1,5 +1,7 @@
 {
   "id": "k-on",
+  "splashMessages": ["Tea first, practice later.", "Gitah needs a rest.", "Fuwa fuwa time."],
+  "easterEggs": { "notFound": "Yui forgot where she put it.", "emptySearch": "No cake left. Mugi's bringing more.", "idle": "Ton-chan swims in circles.", "logo": "Ho-kago Tea Time." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "music", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "music", "my-profile": "guitar", "community": "users", "achievements": "star", "watch-together": "coffee", "settings": "cookie" },
   "displayName": "K-On!",

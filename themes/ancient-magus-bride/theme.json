@@ -1,5 +1,7 @@
 {
   "id": "ancient-magus-bride",
+  "splashMessages": ["The kettle's on at the cottage.", "Fae whisper in the hedgerow.", "A Sleigh Beggy's light."],
+  "easterEggs": { "notFound": "The neighbours led you astray.", "emptySearch": "Only the fae are listening.", "idle": "Ruth curls up by the hearth.", "logo": "A skull with antlers." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "home", "search": "crystal-ball", "schedule": "moon", "discover": "tree", "lists": "spellbook", "my-profile": "hat-wizard", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "staff" },
   "displayName": "The Ancient Magus' Bride",

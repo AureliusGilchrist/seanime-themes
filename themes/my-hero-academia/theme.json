@@ -1,5 +1,7 @@
 {
   "id": "my-hero-academia",
+  "splashMessages": ["Plus Ultra!", "Deku is muttering analysis.", "Go beyond."],
+  "easterEggs": { "notFound": "A villain warped this page away.", "emptySearch": "No heroes on patrol here.", "idle": "Bakugo is yelling somewhere.", "logo": "I am here!" },
   "playerIconSet": "my-hero-academia",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-marked-alt", "lists": "list-ol", "my-profile": "bolt", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "shield-alt" },
   "sidebarOverrides": {

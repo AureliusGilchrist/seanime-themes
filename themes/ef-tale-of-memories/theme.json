@@ -1,5 +1,7 @@
 {
   "id": "ef-tale-of-memories",
+  "splashMessages": ["Thirteen hours of memory.", "The church bells ring.", "A diary page turns."],
+  "easterEggs": { "notFound": "Forgotten after thirteen hours.", "emptySearch": "The diary is blank.", "idle": "A train passes the platform.", "logo": "A tale of memories." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "ef: A Tale of Memories",

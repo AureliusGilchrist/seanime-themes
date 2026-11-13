@@ -1,5 +1,7 @@
 {
   "id": "hellsing",
+  "splashMessages": ["Search and destroy.", "Release control restriction, level one.", "The night is long."],
+  "easterEggs": { "notFound": "Turned to dust.", "emptySearch": "No ghouls, no vampires. Boring.", "idle": "Alucard is grinning in the dark.", "logo": "Jackal." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "file-alt", "my-profile": "bat", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Hellsing",

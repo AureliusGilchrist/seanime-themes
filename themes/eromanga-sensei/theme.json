@@ -1,5 +1,7 @@
 ﻿{
   "id": "eromanga-sensei",
+  "splashMessages": ["Deadline in three days.", "Someone is stomping on the ceiling.", "The illustrator is streaming."],
+  "easterEggs": { "notFound": "The door won't open.", "emptySearch": "A blank manuscript.", "idle": "*stomp stomp*", "logo": "A mask and a drawing tablet." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "book-open", "my-profile": "pencil", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "palette-brush" },
   "sidebarOverrides": {

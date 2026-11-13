@@ -1,5 +1,7 @@
 {
   "id": "re-creators",
+  "splashMessages": ["Characters, meet your creators.", "Approval is power.", "The festival is set."],
+  "easterEggs": { "notFound": "Written out of the story.", "emptySearch": "No characters have crossed over.", "idle": "A military uniform princess is waiting.", "logo": "Altair's sabre." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "book-open", "lists": "users", "my-profile": "pencil", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "palette-brush" },
   "displayName": "Re:CREATORS",

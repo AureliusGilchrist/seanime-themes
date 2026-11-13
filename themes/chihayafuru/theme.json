@@ -1,5 +1,7 @@
 {
   "id": "chihayafuru",
+  "splashMessages": ["Listen for the first syllable.", "Autumn leaves on the river.", "Practice match, best of three."],
+  "easterEggs": { "notFound": "A dead card.", "emptySearch": "The tatami is clear.", "idle": "Chihaya is asleep at the table again.", "logo": "Chihayafuru…" },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "feather" },
   "sidebarOverrides": {

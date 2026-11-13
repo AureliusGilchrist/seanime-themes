@@ -1,5 +1,7 @@
 {
   "id": "kingdom",
+  "splashMessages": ["Toward the great general's path.", "The Hi Shin unit rides.", "Unify the land."],
+  "easterEggs": { "notFound": "Overrun at the border.", "emptySearch": "The battlefield is empty.", "idle": "Ten is calculating rations.", "logo": "Under heaven." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "flag", "my-profile": "sword", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "chess-knight" },
   "displayName": "Kingdom",

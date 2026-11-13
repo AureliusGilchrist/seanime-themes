@@ -1,5 +1,7 @@
 {
   "id": "rent-a-girlfriend",
+  "splashMessages": ["Booked by the hour.", "Grandma is visiting.", "The neighbour is the rental."],
+  "easterEggs": { "notFound": "Rental period expired.", "emptySearch": "No bookings available.", "idle": "Kazuya is overthinking again.", "logo": "Five stars." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "film", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "coins" },
   "displayName": "Rent-A-Girlfriend",

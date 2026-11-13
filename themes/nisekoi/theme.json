@@ -1,5 +1,7 @@
 {
   "id": "nisekoi",
+  "splashMessages": ["Zawsze in love.", "Which key fits the lock?", "Fake lovers, real trouble."],
+  "easterEggs": { "notFound": "Wrong key.", "emptySearch": "The locket stays closed.", "idle": "Someone is holding a key behind their back.", "logo": "A locket from ten years ago." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "key", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "lock", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "key" },
   "displayName": "Nisekoi: False Love",

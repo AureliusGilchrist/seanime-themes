@@ -1,5 +1,7 @@
 {
   "id": "zatch-bell",
+  "splashMessages": ["Zakeru!", "Buri buri!", "Yellowtail for dinner."],
+  "easterEggs": { "notFound": "The spell book burned.", "emptySearch": "No mamodo nearby.", "idle": "Zatch is eating yellowtail whole.", "logo": "A red spell book." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "spellbook", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "bolt" },
   "displayName": "Zatch Bell!",

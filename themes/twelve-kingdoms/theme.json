@@ -1,5 +1,7 @@
 {
   "id": "twelve-kingdoms",
+  "splashMessages": ["The kirin chooses.", "A ranka fruit ripens.", "Across the Sea of Emptiness."],
+  "easterEggs": { "notFound": "Swept away in a shoku.", "emptySearch": "No youma here.", "idle": "Rakushun's tail twitches.", "logo": "A kirin's horn." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "The Twelve Kingdoms",

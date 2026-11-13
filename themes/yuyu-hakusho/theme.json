@@ -1,5 +1,7 @@
 {
   "id": "yuyu-hakusho",
+  "splashMessages": ["Spirit gun!", "Kuwabara swears on his honour.", "Koenma is stamping paperwork."],
+  "easterEggs": { "notFound": "Sent to Spirit World. Paperwork pending.", "emptySearch": "No demons crossing the barrier.", "idle": "Botan is flying on her oar.", "logo": "A pacifier." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-check", "discover": "map", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "crosshairs" },
   "displayName": "Yu Yu Hakusho",

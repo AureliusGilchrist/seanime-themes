@@ -1,5 +1,7 @@
 {
   "id": "hajime-no-ippo",
+  "splashMessages": ["What does it mean to be strong?", "Dempsey roll, building momentum.", "Takamura is up to something."],
+  "easterEggs": { "notFound": "Knocked down. Get up!", "emptySearch": "No opponents in the ring.", "idle": "The heavy bag swings, slowly.", "logo": "Liver blow." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Hajime no Ippo",

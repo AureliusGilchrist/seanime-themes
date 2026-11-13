@@ -1,5 +1,7 @@
 {
   "id": "chrome-shelled-regios",
+  "splashMessages": ["The city walks on.", "Kei flows through the blade.", "Platoon match at noon."],
+  "easterEggs": { "notFound": "Fell off the edge of the city.", "emptySearch": "Felli's sensors see nothing.", "idle": "The city's legs creak.", "logo": "Restored Dite." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-alt", "discover": "globe", "lists": "list-ol", "my-profile": "sword", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "gears" },
   "sidebarOverrides": {

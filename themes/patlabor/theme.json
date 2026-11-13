@@ -1,5 +1,7 @@
 {
   "id": "patlabor",
+  "splashMessages": ["Section 2 is on call.", "Alphonse is ready.", "Tokyo Bay, 1998."],
+  "easterEggs": { "notFound": "Towed away by Section 2.", "emptySearch": "No Labor crimes reported.", "idle": "Gotoh is reading the paper.", "logo": "AV-98 Ingram." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-alt", "discover": "map-marked-alt", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Patlabor",

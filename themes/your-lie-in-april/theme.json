@@ -1,5 +1,7 @@
 {
   "id": "your-lie-in-april",
+  "splashMessages": ["Spring arrives.", "A violin plays out of tune — on purpose.", "Twinkle twinkle little star."],
+  "easterEggs": { "notFound": "Lost in the moonlight sonata.", "emptySearch": "Silence, before the first note.", "idle": "Cherry blossoms drift past the window.", "logo": "Canelé." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-alt", "discover": "flower", "lists": "music", "my-profile": "music", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "music" },
   "displayName": "Your Lie in April",

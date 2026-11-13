@@ -1,5 +1,7 @@
 {
   "id": "non-non-biyori",
+  "splashMessages": ["Nyanpasu~", "The bus comes twice a day.", "Five students, one classroom."],
+  "easterEggs": { "notFound": "Wandered off into the rice fields.", "emptySearch": "Nothing but crickets.", "idle": "Nyanpasu~", "logo": "Nyanpasu." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "tree", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "leaf" },
   "displayName": "Non Non Biyori",

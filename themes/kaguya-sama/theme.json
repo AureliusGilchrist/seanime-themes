@@ -1,5 +1,7 @@
 {
   "id": "kaguya-sama",
+  "splashMessages": ["Today's battle: who confesses first.", "O kawaii koto.", "The council room is a battlefield."],
+  "easterEggs": { "notFound": "Fujiwara took a detour with this page.", "emptySearch": "No one is confessing today.", "idle": "Chika is dancing somewhere.", "logo": "Love is war." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-pin", "lists": "chess-board", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "chess-knight" },
   "displayName": "Kaguya-sama: Love is War",

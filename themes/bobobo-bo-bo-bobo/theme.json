@@ -1,5 +1,7 @@
 {
   "id": "bobobo-bo-bo-bobo",
+  "splashMessages": ["Hair freedom!", "Jelly Jiggler wobbles.", "Don Patch demands the spotlight."],
+  "easterEggs": { "notFound": "The page was eaten by a nose hair.", "emptySearch": "Absolutely nothing. Makes sense.", "idle": "Tokoro Tennosuke is here for some reason.", "logo": "An afro of justice." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "home", "search": "question-circle", "schedule": "calendar-alt", "discover": "map", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "gift" },
   "sidebarOverrides": {

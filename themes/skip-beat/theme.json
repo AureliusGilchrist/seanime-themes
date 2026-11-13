@@ -1,5 +1,7 @@
 {
   "id": "skip-beat",
+  "splashMessages": ["Revenge, through acting.", "The Love Me section is pink.", "Grudges are flying around Kyoko."],
+  "easterEggs": { "notFound": "Shredded by a grudge spirit.", "emptySearch": "No auditions today.", "idle": "Kyoko's grudge spirits are restless.", "logo": "A Love Me badge." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "star", "search": "search", "schedule": "calendar-check", "discover": "film", "lists": "theater-masks", "my-profile": "mask", "community": "users", "achievements": "star", "watch-together": "film", "settings": "tshirt" },
   "displayName": "Skip Beat!",

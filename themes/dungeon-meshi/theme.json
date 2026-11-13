@@ -1,5 +1,7 @@
 {
   "id": "dungeon-meshi",
+  "splashMessages": ["Is this edible?", "Senshi is simmering something.", "Living armour… stir-fried."],
+  "easterEggs": { "notFound": "Eaten by a mimic.", "emptySearch": "Nothing to cook here.", "idle": "Something smells good in the pot.", "logo": "Hearty and nutritious." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "utensils", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "book-open", "my-profile": "shield", "community": "users", "achievements": "dragon", "watch-together": "utensils", "settings": "staff" },
   "sidebarOverrides": {

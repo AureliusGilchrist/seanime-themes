@@ -1,5 +1,7 @@
 {
   "id": "dororo",
+  "splashMessages": ["Another part reclaimed.", "The biwa monk plays.", "Dororo is hungry again."],
+  "easterEggs": { "notFound": "Taken by one of the forty-eight.", "emptySearch": "No demons on this road.", "idle": "Soul flames flicker.", "logo": "A sword in place of an arm." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-times", "discover": "route", "lists": "scroll", "my-profile": "katana", "community": "users", "achievements": "demon", "watch-together": "user-friends", "settings": "feather" },
   "sidebarOverrides": {

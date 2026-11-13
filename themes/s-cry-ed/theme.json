@@ -1,5 +1,7 @@
 {
   "id": "s-cry-ed",
+  "splashMessages": ["Shell bullet!", "The Lost Ground is restless.", "Kazuma vs. Ryuho, round who-knows."],
+  "easterEggs": { "notFound": "Broken by an alter.", "emptySearch": "No alter users here.", "idle": "Kanami is waiting at home.", "logo": "First bullet." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "users", "my-profile": "fire", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "bolt" },
   "displayName": "s-CRY-ed",

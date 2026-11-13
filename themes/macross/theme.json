@@ -1,5 +1,7 @@
 {
   "id": "macross",
+  "splashMessages": ["Do you remember love?", "Valkyrie, fighter mode.", "Minmay is singing."],
+  "easterEggs": { "notFound": "Lost in a space fold.", "emptySearch": "No Zentradi in range.", "idle": "A song drifts through the ship.", "logo": "Deculture!" },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "music", "my-profile": "rocket", "community": "users", "achievements": "microphone", "watch-together": "music", "settings": "satellite" },
   "displayName": "Macross",

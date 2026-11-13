@@ -1,5 +1,7 @@
 ﻿{
   "id": "fushigi-yugi",
+  "splashMessages": ["The book pulls you in.", "Seven stars of Suzaku.", "Tamahome wants money."],
+  "easterEggs": { "notFound": "Fell back out of the book.", "emptySearch": "No warriors with glowing marks.", "idle": "A phoenix feather drifts down.", "logo": "The Universe of the Four Gods." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "book-open", "search": "star", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "fire", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "spellbook" },
   "sidebarOverrides": {

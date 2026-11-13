@@ -1,5 +1,7 @@
 {
   "id": "world-god-only-knows",
+  "splashMessages": ["I can already see the ending.", "Six PFPs at once.", "Elsie made a mess."],
+  "easterEggs": { "notFound": "Bad end.", "emptySearch": "No route available.", "idle": "Keima is playing three games at once.", "logo": "The god of conquest." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "gamepad", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "gamepad" },
   "displayName": "The World God Only Knows",

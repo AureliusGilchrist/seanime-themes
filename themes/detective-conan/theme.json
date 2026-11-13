@@ -1,5 +1,7 @@
 {
   "id": "detective-conan",
+  "splashMessages": ["There's only one truth!", "Kogoro is about to fall asleep.", "Another trip, another case."],
+  "easterEggs": { "notFound": "The culprit took this page.", "emptySearch": "No clues. Yet.", "idle": "Zzz… (sleeping Kogoro is thinking)", "logo": "Glasses, bow tie, skateboard." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-alt", "discover": "map-signs", "lists": "file-alt", "my-profile": "user-secret", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "microscope" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "moribito",
+  "splashMessages": ["Eight lives to save.", "Tanda's herbs are drying.", "The water spirit's egg."],
+  "easterEggs": { "notFound": "Taken by the Rarunga.", "emptySearch": "Nothing but the forest.", "idle": "Balsa is sharpening her spear.", "logo": "Guardian of the spirit." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "spear", "community": "users", "achievements": "egg", "watch-together": "campground", "settings": "spear" },
   "displayName": "Moribito: Guardian of the Spirit",

@@ -1,5 +1,7 @@
 {
   "id": "tamako-market",
+  "splashMessages": ["Mochi, freshly pounded.", "A talking bird is staying over.", "The shopping street is lively."],
+  "easterEggs": { "notFound": "Lost in the shopping arcade.", "emptySearch": "Sold out of mochi.", "idle": "Dera is getting fat.", "logo": "Usagiyama." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "store", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "cookie", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "feather", "settings": "cookie" },
   "displayName": "Tamako Market",

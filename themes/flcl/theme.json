@@ -1,5 +1,7 @@
 {
   "id": "flcl",
+  "splashMessages": ["Nothing amazing happens here.", "A Vespa is coming fast.", "Ride on shooting star."],
+  "easterEggs": { "notFound": "Came out of Naota's head and ran off.", "emptySearch": "Nothing amazing happens here. Not even this.", "idle": "A bass guitar is swinging somewhere.", "logo": "Medical Mechanica's iron." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "planet", "lists": "guitar", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "guitar" },
   "displayName": "FLCL",

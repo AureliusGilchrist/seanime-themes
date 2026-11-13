@@ -1,5 +1,7 @@
 {
   "id": "amagi-brilliant-park",
+  "splashMessages": ["250,000 visitors to go.", "Moffle is grumpy today.", "The park is open!"],
+  "easterEggs": { "notFound": "This attraction closed down.", "emptySearch": "No visitors yet.", "idle": "Fumoffu…", "logo": "Kiss of approval from the princess." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-check", "discover": "map", "lists": "clipboard-list", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "gift", "settings": "wand-magic" },
   "displayName": "Amagi Brilliant Park",

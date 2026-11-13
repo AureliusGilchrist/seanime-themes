@@ -1,5 +1,7 @@
 {
   "id": "detroit-metal-city",
+  "splashMessages": ["Krauser is going on stage.", "Negishi just wanted to play pop.", "Go to DMC!"],
+  "easterEggs": { "notFound": "Sent to hell by Krauser II.", "emptySearch": "The mosh pit is empty.", "idle": "A cute pop song hums faintly…", "logo": "Satan." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "guitar", "search": "search", "schedule": "calendar-check", "discover": "globe", "lists": "music", "my-profile": "mask", "community": "users", "achievements": "skull", "watch-together": "microphone", "settings": "flower" },
   "sidebarOverrides": {

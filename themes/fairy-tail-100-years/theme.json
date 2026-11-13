@@ -1,5 +1,7 @@
 ﻿{
   "id": "fairy-tail-100-years",
+  "splashMessages": ["A hundred years, and still going.", "Aye sir!", "Five Dragon Gods await."],
+  "easterEggs": { "notFound": "Eaten by a Dragon God.", "emptySearch": "Nothing on the request board. Natsu's bored.", "idle": "Happy is snacking on a fish.", "logo": "Raise your hand, palm up." },
   "playerIconSet": "fairy-tail",
   "sidebarIcons": { "landing": "dragon", "search": "eye", "schedule": "hourglass", "discover": "map", "lists": "scroll", "my-profile": "fire", "community": "users", "achievements": "trophy", "watch-together": "cat", "settings": "key" },
   "sidebarOverrides": {

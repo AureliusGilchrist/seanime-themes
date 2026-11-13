@@ -1,5 +1,7 @@
 {
   "id": "future-boy-conan",
+  "splashMessages": ["Conan grips the deck with his toes.", "Lana's bird carries a message.", "Remnant Island at dawn."],
+  "easterEggs": { "notFound": "Sank with Industria.", "emptySearch": "Just the open sea.", "idle": "Jimsy is fishing.", "logo": "A boy from the future." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "island", "search": "binoculars", "schedule": "calendar-alt", "discover": "water", "lists": "map", "my-profile": "running", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "anchor" },
   "displayName": "Future Boy Conan",

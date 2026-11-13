@@ -1,5 +1,7 @@
 {
   "id": "black-rock-shooter",
+  "splashMessages": ["A blue flame in the other world.", "Mato's bracelet is warm.", "Someone's heart is hurting."],
+  "easterEggs": { "notFound": "Fell into the other world.", "emptySearch": "Only chessboards and ruins.", "idle": "A blue flame flickers.", "logo": "★" },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "mountain", "search": "crosshairs", "schedule": "calendar-alt", "discover": "planet", "lists": "list-ol", "my-profile": "fire", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "soul-eater",
+  "splashMessages": ["Soul resonance!", "The moon is grinning.", "Death the Kid needs symmetry."],
+  "easterEggs": { "notFound": "Asymmetrical. Unacceptable.", "emptySearch": "No kishin eggs collected.", "idle": "The moon is laughing.", "logo": "Cool guys don't look at explosions." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "skull", "my-profile": "skull", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "Soul Eater",

@@ -1,5 +1,7 @@
 {
   "id": "grave-of-the-fireflies",
+  "splashMessages": ["Fireflies light the shelter.", "A tin of fruit drops.", "Summer, 1945."],
+  "easterEggs": { "notFound": "Lost in the summer of 1945.", "emptySearch": "The tin is empty.", "idle": "Fireflies drift past.", "logo": "Sakuma drops." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "campground", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "cookie", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "moon" },
   "displayName": "Grave of the Fireflies",

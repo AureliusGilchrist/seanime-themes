@@ -1,5 +1,7 @@
 {
   "id": "bleach-tybw",
+  "splashMessages": ["The Wandenreich has declared war.", "Your Bankai has been sealed — by the medallion.", "Five days remain."],
+  "easterEggs": { "notFound": "Swallowed by the Schatten Bereich.", "emptySearch": "Not even a shadow here.", "idle": "The Almighty sees this future, too.", "logo": "Two blades. The true Zangetsu." },
   "playerIconSet": "bleach-tybw",
   "sidebarIcons": { "landing": "castle", "search": "crosshairs", "schedule": "hourglass", "discover": "map-marked-alt", "lists": "book-skull", "my-profile": "katana", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "sword" },
   "sidebarOverrides": {

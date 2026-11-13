@@ -1,5 +1,7 @@
 {
   "id": "my-neighbor-totoro",
+  "splashMessages": ["The catbus is coming.", "Soot sprites scurry away.", "An umbrella for the big grey one."],
+  "easterEggs": { "notFound": "The catbus took a different route.", "emptySearch": "Only acorns here.", "idle": "Ocarinas on the camphor tree.", "logo": "A big, grey neighbour." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "tree", "search": "search", "schedule": "calendar-alt", "discover": "leaf", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "home" },
   "displayName": "My Neighbor Totoro",

@@ -1,5 +1,7 @@
 {
   "id": "ranking-of-kings",
+  "splashMessages": ["Kage is keeping watch.", "Being weak isn't the same as losing.", "The rankings shift once more."],
+  "easterEggs": { "notFound": "Even Kage couldn't find a shadow here.", "emptySearch": "No one ranked here yet.", "idle": "A small prince waits patiently.", "logo": "Bojji's needle-sword, ready." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "sword" },
   "sidebarOverrides": {

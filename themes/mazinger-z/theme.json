@@ -1,5 +1,7 @@
 {
   "id": "mazinger-z",
+  "splashMessages": ["Pilder on!", "Rocket punch!", "Photon power, full."],
+  "easterEggs": { "notFound": "Destroyed by a mechanical beast.", "emptySearch": "Dr. Hell is quiet today.", "idle": "Breast fire, cooling.", "logo": "A god, or a devil." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "map-signs", "lists": "robot", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "gears" },
   "displayName": "Mazinger Z",

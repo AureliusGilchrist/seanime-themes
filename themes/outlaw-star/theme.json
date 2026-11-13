@@ -1,5 +1,7 @@
 {
   "id": "outlaw-star",
+  "splashMessages": ["Caster shells, loaded.", "The Galactic Leyline.", "Melfina is in the navigation pod."],
+  "easterEggs": { "notFound": "Fell out of the Leyline.", "emptySearch": "No bounties on the board.", "idle": "Aisha wants more food.", "logo": "The Outlaw Star." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "rocket" },
   "displayName": "Outlaw Star",

@@ -1,5 +1,7 @@
 {
   "id": "eureka-seven",
+  "splashMessages": ["Riding the trapar waves.", "Cut back drop turn.", "The Gekko is airborne."],
+  "easterEggs": { "notFound": "Wiped out on a wave.", "emptySearch": "No waves to ride today.", "idle": "A board leans against the hangar wall.", "logo": "Ray=out issue #1." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "cloud", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "flower", "watch-together": "heart", "settings": "compass" },
   "displayName": "Eureka Seven",

@@ -1,5 +1,7 @@
 {
   "id": "tokyo-revengers",
+  "splashMessages": ["Takemichi is crying again.", "Mikey is eating dorayaki.", "Twelve years back."],
+  "easterEggs": { "notFound": "Leapt to the wrong year.", "emptySearch": "No gang members here.", "idle": "A motorbike idles.", "logo": "Toman." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "hourglass", "discover": "map-signs", "lists": "users", "my-profile": "user", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "clock" },
   "displayName": "Tokyo Revengers",

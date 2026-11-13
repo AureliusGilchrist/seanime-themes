@@ -1,5 +1,7 @@
 {
   "id": "sword-art-online",
+  "splashMessages": ["Link start.", "Starburst Stream.", "Floor clear."],
+  "easterEggs": { "notFound": "There is no logout button. Or this page.", "emptySearch": "No mobs spawned here.", "idle": "Asuna made sandwiches.", "logo": "Link start." },
   "playerIconSet": "sword-art-online",
   "sidebarIcons": { "landing": "castle", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "list-ol", "my-profile": "sword", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "cog" },
   "sidebarOverrides": {

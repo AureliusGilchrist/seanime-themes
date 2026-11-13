@@ -1,5 +1,7 @@
 {
   "id": "now-and-then-here-and-there",
+  "splashMessages": ["A girl on a smokestack.", "Never give up.", "The sun is setting over Hellywood."],
+  "easterEggs": { "notFound": "Lost in another world.", "emptySearch": "Only sand.", "idle": "Someone is watching the sunset.", "logo": "A pendant of water." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-times", "discover": "planet", "lists": "users", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "water" },
   "displayName": "Now and Then, Here and There",

@@ -1,5 +1,7 @@
 {
   "id": "porco-rosso",
+  "splashMessages": ["Better a pig than a fascist.", "The Adriatic is calm.", "Gina is singing at the hotel."],
+  "easterEggs": { "notFound": "Shot down over the Adriatic.", "emptySearch": "No air pirates today.", "idle": "A seaplane hums over the cove.", "logo": "A pig that flies." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "island", "search": "binoculars", "schedule": "calendar-alt", "discover": "cloud", "lists": "file-alt", "my-profile": "helicopter", "community": "users", "achievements": "medal", "watch-together": "cocktail", "settings": "tools" },
   "displayName": "Porco Rosso",

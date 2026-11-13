@@ -1,5 +1,7 @@
 {
   "id": "black-lagoon",
+  "splashMessages": ["Roanapur, city of sin.", "The Lagoon is fuelled up.", "Two Hands is in a mood."],
+  "easterEggs": { "notFound": "Sunk somewhere in the South China Sea.", "emptySearch": "No cargo. No questions.", "idle": "Bacardi on the rocks.", "logo": "Twin Cutlasses." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "anchor", "search": "binoculars", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "briefcase", "my-profile": "gun", "community": "users", "achievements": "coins", "watch-together": "cocktail", "settings": "tools" },
   "sidebarOverrides": {

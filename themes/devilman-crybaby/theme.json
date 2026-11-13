@@ -1,5 +1,7 @@
 {
   "id": "devilman-crybaby",
+  "splashMessages": ["Pass the baton.", "Crybaby, crybaby.", "Akira is crying again."],
+  "easterEggs": { "notFound": "Swallowed by the Sabbath.", "emptySearch": "No demons. Only people.", "idle": "A baton rests on the track.", "logo": "Devilman, crying." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "book-dead", "my-profile": "demon", "community": "users", "achievements": "skull", "watch-together": "running", "settings": "fire" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "pluto",
+  "splashMessages": ["Horns on the victims.", "Atom is eating ice cream.", "Seven great robots."],
+  "easterEggs": { "notFound": "Lost in the investigation.", "emptySearch": "No leads on the case.", "idle": "Gesicht is remembering a dream.", "logo": "A robot detective." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-times", "discover": "globe", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "Pluto",

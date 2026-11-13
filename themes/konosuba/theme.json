@@ -1,5 +1,7 @@
 {
   "id": "konosuba",
+  "splashMessages": ["EXPLOSION!", "Aqua is crying again.", "Darkness volunteers to tank."],
+  "easterEggs": { "notFound": "Stolen with Steal.", "emptySearch": "Nothing. Aqua spent it all on drinks.", "idle": "Megumin is charging mana… for tomorrow.", "logo": "A useless goddess." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "user", "community": "users", "achievements": "bomb", "watch-together": "cocktail", "settings": "staff" },
   "sidebarOverrides": {

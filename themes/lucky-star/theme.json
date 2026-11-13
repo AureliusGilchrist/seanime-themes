@@ -1,5 +1,7 @@
 {
   "id": "lucky-star",
+  "splashMessages": ["Which end of the choco cornet is the head?", "Motteke! Sailor fuku!", "Konata is gaming till dawn."],
+  "easterEggs": { "notFound": "Konata stayed up too late to find it.", "emptySearch": "Lucky Channel has no guests.", "idle": "Kagami: \"Do your own homework!\"", "logo": "☆" },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "gamepad", "my-profile": "star", "community": "users", "achievements": "star", "watch-together": "cookie", "settings": "gamepad" },
   "displayName": "Lucky☆Star",

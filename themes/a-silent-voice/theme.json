@@ -1,5 +1,7 @@
 {
   "id": "a-silent-voice",
+  "splashMessages": ["The carp are waiting on the bridge.", "Look up. Really look.", "Some words don't need sound."],
+  "easterEggs": { "notFound": "This page fell into the river.", "emptySearch": "No one here. Take the X off and look again.", "idle": "Bread crumbs for the carp…", "logo": "Friend, in sign." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "flower", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "heart", "watch-together": "users", "settings": "pencil" },
   "displayName": "A Silent Voice",

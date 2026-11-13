@@ -1,5 +1,7 @@
 {
   "id": "anohana",
+  "splashMessages": ["Found you, Menma.", "The secret base still stands.", "Rocket fireworks tonight."],
+  "easterEggs": { "notFound": "Hide-and-seek: still hiding.", "emptySearch": "Nobody found yet. Mou ii kai?", "idle": "Ma~da da yo.", "logo": "The flower we saw that day." },
   "sidebarOverrides": {
     "landing": { "label": "Secret Base" },
     "search": { "label": "Find Menma" },

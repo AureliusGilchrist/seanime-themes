@@ -1,5 +1,7 @@
 {
   "id": "blue-exorcist",
+  "splashMessages": ["Blue flames flicker.", "Yukio is grading papers.", "A demon cat on the windowsill."],
+  "easterEggs": { "notFound": "This door opened into Gehenna.", "emptySearch": "No demons in sight. Suspicious.", "idle": "Kuro is purring.", "logo": "A sword that seals a heart." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "key", "lists": "spellbook", "my-profile": "demon", "community": "users", "achievements": "fire", "watch-together": "user-friends", "settings": "katana" },
   "sidebarOverrides": {

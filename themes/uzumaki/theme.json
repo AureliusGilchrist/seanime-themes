@@ -1,5 +1,7 @@
 {
   "id": "uzumaki",
+  "splashMessages": ["Spirals are everywhere.", "The town is obsessed.", "Kurouzu-cho's wind is twisting."],
+  "easterEggs": { "notFound": "Spiralled into nothing.", "emptySearch": "No spirals here. For now.", "idle": "Your cursor is moving in circles.", "logo": "@" },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "wave", "lists": "book-dead", "my-profile": "user-slash", "community": "users", "achievements": "infinity", "watch-together": "user-friends", "settings": "infinity" },
   "displayName": "Uzumaki",

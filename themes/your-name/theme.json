@@ -1,5 +1,7 @@
 {
   "id": "your-name",
+  "splashMessages": ["Kataware-doki.", "A braided cord ties things together.", "I'm sure we've met before."],
+  "easterEggs": { "notFound": "Forgotten, like a name after waking.", "emptySearch": "Nothing. Just a feeling something's missing.", "idle": "A comet streaks across the sky.", "logo": "Musubi." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "mountain", "search": "search", "schedule": "meteor", "discover": "route", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "link" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "weathering-with-you",
+  "splashMessages": ["It's going to clear up.", "The rain hasn't stopped in months.", "A shrine on a rooftop."],
+  "easterEggs": { "notFound": "Washed away by the rain.", "emptySearch": "Only clouds.", "idle": "The rain is easing, just for a moment.", "logo": "A sunshine girl." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "cloud", "discover": "sun", "lists": "clipboard-list", "my-profile": "sun", "community": "users", "achievements": "sun", "watch-together": "heart", "settings": "cloud" },
   "displayName": "Weathering with You",

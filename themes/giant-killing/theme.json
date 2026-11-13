@@ -1,5 +1,7 @@
 ﻿{
   "id": "giant-killing",
+  "splashMessages": ["The underdog has a plan.", "Tatsumi is grinning.", "Supporters are singing."],
+  "easterEggs": { "notFound": "Offside.", "emptySearch": "Empty stands.", "idle": "A chant rises from the terraces.", "logo": "Giant killing." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "flag", "search": "binoculars", "schedule": "calendar-check", "discover": "globe", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "whistle" },
   "sidebarOverrides": {

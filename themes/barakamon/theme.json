@@ -1,5 +1,7 @@
 {
   "id": "barakamon",
+  "splashMessages": ["Naru is coming over.", "Write your own way.", "The island is loud today."],
+  "easterEggs": { "notFound": "Smudged ink. Start over.", "emptySearch": "Nobody home. Kids are at the beach.", "idle": "Sensei, sensei!", "logo": "A single brushstroke." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "island", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "scroll", "my-profile": "palette-brush", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "feather" },
   "displayName": "Barakamon",

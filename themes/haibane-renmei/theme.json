@@ -1,5 +1,7 @@
 {
   "id": "haibane-renmei",
+  "splashMessages": ["A halo, baked fresh.", "The walls of Glie are high.", "Grey wings, grey feathers."],
+  "easterEggs": { "notFound": "Beyond the wall. No one goes there.", "emptySearch": "Nothing but the wind over Old Home.", "idle": "A bell rings from the wall.", "logo": "A halo and grey wings." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "home", "search": "feather", "schedule": "calendar-alt", "discover": "tree", "lists": "book-open", "my-profile": "feather", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "bell" },
   "displayName": "Haibane Renmei",

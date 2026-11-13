@@ -1,5 +1,7 @@
 {
   "id": "business-fish",
+  "splashMessages": ["Meeting at 9 sharp.", "The reef is busy today.", "Overtime, again."],
+  "easterEggs": { "notFound": "Filed under 'lost at sea'.", "emptySearch": "Inbox zero. Suspicious.", "idle": "Blub.", "logo": "A tie on a fish." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-check", "discover": "water", "lists": "briefcase", "my-profile": "user", "community": "users", "achievements": "chart-line", "watch-together": "coffee", "settings": "file-alt" },
   "sidebarOverrides": {

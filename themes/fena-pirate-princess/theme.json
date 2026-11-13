@@ -1,5 +1,7 @@
 ﻿{
   "id": "fena-pirate-princess",
+  "splashMessages": ["Set sail for Eden.", "The crew is ready.", "A message in a bottle."],
+  "easterEggs": { "notFound": "Lost at sea.", "emptySearch": "Just open water.", "idle": "The gulls are calling.", "logo": "A princess's sword." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "anchor", "search": "binoculars", "schedule": "calendar-alt", "discover": "island", "lists": "map", "my-profile": "crown", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "compass" },
   "sidebarOverrides": {

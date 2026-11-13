@@ -1,5 +1,7 @@
 {
   "id": "dr-stone",
+  "splashMessages": ["Ten billion percent.", "Get excited!", "Counting the seconds since petrification…"],
+  "easterEggs": { "notFound": "Still petrified.", "emptySearch": "Nothing to synthesise. Yet.", "idle": "Senku is still counting.", "logo": "This is exhilarating." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "flask", "search": "microscope", "schedule": "calendar-alt", "discover": "globe", "lists": "atom", "my-profile": "vial", "community": "users", "achievements": "lightning-bolt", "watch-together": "user-friends", "settings": "gears" },
   "sidebarOverrides": {

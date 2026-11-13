@@ -1,5 +1,7 @@
 {
   "id": "quintessential-quintuplets",
+  "splashMessages": ["Five quintuplets, five failing grades.", "Which one was it, that day in Kyoto?", "Tutoring resumes at four."],
+  "easterEggs": { "notFound": "Swapped places with a sister.", "emptySearch": "No one showed up to study.", "idle": "Itsuki is eating. Again.", "logo": "Five headphones, ribbons, stars, hairpins." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "book-open", "my-profile": "graduation-cap", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "The Quintessential Quintuplets",

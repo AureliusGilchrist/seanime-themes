@@ -1,5 +1,7 @@
 ﻿{
   "id": "from-the-new-world",
+  "splashMessages": ["Going Home plays at dusk.", "Kamisu 66 is peaceful.", "The holy barrier holds."],
+  "easterEggs": { "notFound": "Beyond the holy barrier.", "emptySearch": "Nothing. Even the minoshiro are gone.", "idle": "Going home, going home…", "logo": "A false minoshiro." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "tree", "lists": "spellbook", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "rune-stone" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "haruhi-suzumiya",
+  "splashMessages": ["Aliens, time travellers, espers — report in.", "Endless eight, again.", "Mikuru is serving tea."],
+  "easterEggs": { "notFound": "Closed space. Nothing gets in.", "emptySearch": "Nothing mysterious here. Haruhi is disappointed.", "idle": "Yuki is reading. Page turns.", "logo": "SOS Brigade." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "school", "search": "ufo", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "coffee" },
   "displayName": "The Melancholy of Haruhi Suzumiya",

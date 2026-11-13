@@ -1,5 +1,7 @@
 {
   "id": "d-gray-man",
+  "splashMessages": ["Keep walking.", "Timcanpy flutters by.", "Jerry's kitchen is open."],
+  "easterEggs": { "notFound": "Lost in the Ark's white city.", "emptySearch": "No Akuma detected by the cursed eye.", "idle": "Komui's robot is loose again.", "logo": "A pentacle on the brow." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "book-dead", "my-profile": "shield-cat", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "crystal-ball" },
   "sidebarOverrides": {

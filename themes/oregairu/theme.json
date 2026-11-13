@@ -1,5 +1,7 @@
 {
   "id": "oregairu",
+  "splashMessages": ["Youth is a lie.", "MAX coffee, still sweet.", "The Service Club is in session."],
+  "easterEggs": { "notFound": "As expected, my youth romantic comedy is wrong.", "emptySearch": "No requests. Perfect.", "idle": "Hachiman is eating lunch alone. By choice.", "logo": "Something genuine." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user-slash", "community": "users", "achievements": "medal", "watch-together": "coffee", "settings": "coffee" },
   "displayName": "My Teen Romantic Comedy SNAFU",

@@ -1,5 +1,7 @@
 {
   "id": "toradora",
+  "splashMessages": ["The palmtop tiger is hungry.", "Ryuuji is cleaning again.", "The dragon and the tiger."],
+  "easterEggs": { "notFound": "Taiga kicked it somewhere.", "emptySearch": "Nothing in the fridge.", "idle": "Inko-chan is saying something odd.", "logo": "Tora, dora." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "utensils", "my-profile": "tiger", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "utensils" },
   "displayName": "Toradora!",

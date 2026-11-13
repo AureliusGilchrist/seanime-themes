@@ -1,5 +1,7 @@
 {
   "id": "ping-pong-animation",
+  "splashMessages": ["The hero appears.", "Blood tastes like iron.", "Smile is not smiling."],
+  "easterEggs": { "notFound": "Missed the return.", "emptySearch": "No opponents at the table.", "idle": "A ball bounces, alone.", "logo": "The hero appears!" },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Ping Pong the Animation",

@@ -1,5 +1,7 @@
 {
   "id": "perfect-blue",
+  "splashMessages": ["Who are you?", "Mima's Room was updated.", "The fish in the tank are dying."],
+  "easterEggs": { "notFound": "Excuse me… who are you?", "emptySearch": "Nothing here. Or is there?", "idle": "A reflection blinks first.", "logo": "Real or fake?" },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "film", "lists": "film", "my-profile": "user-slash", "community": "users", "achievements": "star", "watch-together": "film", "settings": "mask" },
   "displayName": "Perfect Blue",

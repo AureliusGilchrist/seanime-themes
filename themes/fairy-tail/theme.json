@@ -1,5 +1,7 @@
 {
   "id": "fairy-tail",
+  "splashMessages": ["I'm all fired up!", "Aye sir!", "The guild hall got wrecked again."],
+  "easterEggs": { "notFound": "Flew off with Happy.", "emptySearch": "No jobs on the board. Time for a brawl.", "idle": "Gray lost his shirt again.", "logo": "Do fairies have tails?" },
   "playerIconSet": "fairy-tail",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "fire", "community": "users", "achievements": "trophy", "watch-together": "cat", "settings": "key" },
   "sidebarOverrides": {

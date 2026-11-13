@@ -1,5 +1,7 @@
 {
   "id": "black-clover",
+  "splashMessages": ["Surpass your limits.", "The Black Bulls' hideout exploded again.", "A five-leaf grimoire stirs."],
+  "easterEggs": { "notFound": "This page has no mana at all.", "emptySearch": "No magic here. Good thing you don't need it.", "idle": "Someone is shouting about Wizard King…", "logo": "Not giving up is my magic." },
   "playerIconSet": "black-clover",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "leaf", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "sword" },
   "sidebarOverrides": {

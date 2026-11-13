@@ -1,5 +1,7 @@
 {
   "id": "golden-time",
+  "splashMessages": ["A bouquet of roses, thrown.", "Festival club rehearsal.", "Memories, golden."],
+  "easterEggs": { "notFound": "A forgotten memory.", "emptySearch": "Nothing remembered.", "idle": "Someone is waiting by the bridge.", "logo": "A golden time." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "rose" },
   "displayName": "Golden Time",

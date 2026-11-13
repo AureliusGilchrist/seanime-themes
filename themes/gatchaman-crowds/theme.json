@@ -1,5 +1,7 @@
 ﻿{
   "id": "gatchaman-crowds",
+  "splashMessages": ["Update the world.", "Hajime's notebook is open.", "GALAX has a request."],
+  "easterEggs": { "notFound": "Couldn't update to this page.", "emptySearch": "No CROWDS deployed.", "idle": "Hajime is drawing in her notebook.", "logo": "Hi-hi!" },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-alt", "discover": "globe", "lists": "users", "my-profile": "feather", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "microchip" },
   "sidebarOverrides": {

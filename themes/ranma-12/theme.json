@@ -1,5 +1,7 @@
 {
   "id": "ranma-12",
+  "splashMessages": ["Cold water, hot water.", "A panda is reading the paper.", "Akane made dinner. Run."],
+  "easterEggs": { "notFound": "Splashed with cold water. Changed completely.", "emptySearch": "Nothing. Even Ryoga got lost looking.", "idle": "Genma is a panda again.", "logo": "Jusenkyo." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "paw" },
   "displayName": "Ranma ½",

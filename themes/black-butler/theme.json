@@ -1,5 +1,7 @@
 {
   "id": "black-butler",
+  "splashMessages": ["Yes, my lord.", "Afternoon tea is served.", "The Queen's watchdog is awake."],
+  "easterEggs": { "notFound": "Not even a butler could find this page.", "emptySearch": "The manor is spotless — and empty.", "idle": "Sebastian is petting a cat. Again.", "logo": "One hell of a butler." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "clock", "discover": "map-signs", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "chess-knight", "watch-together": "coffee", "settings": "utensils" },
   "sidebarOverrides": {

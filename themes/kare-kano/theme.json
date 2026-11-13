@@ -1,5 +1,7 @@
 {
   "id": "kare-kano",
+  "splashMessages": ["The perfect student, at home.", "First place, again.", "His and her circumstances."],
+  "easterEggs": { "notFound": "Ranked second. Unacceptable.", "emptySearch": "Nothing to show off here.", "idle": "Yukino is in a tracksuit now.", "logo": "Kare kano." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "mask", "community": "users", "achievements": "medal", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Kare Kano",

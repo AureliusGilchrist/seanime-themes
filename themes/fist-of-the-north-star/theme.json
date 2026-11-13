@@ -1,5 +1,7 @@
 {
   "id": "fist-of-the-north-star",
+  "splashMessages": ["You are already dead.", "Seven scars.", "The wasteland is wide."],
+  "easterEggs": { "notFound": "Omae wa mou shindeiru.", "emptySearch": "Nothing but desert.", "idle": "Atatatatata…", "logo": "The Big Dipper." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "calendar-times", "discover": "route", "lists": "star", "my-profile": "user", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "bullseye" },
   "displayName": "Fist of the North Star",

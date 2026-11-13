@@ -1,5 +1,7 @@
 {
   "id": "death-march",
+  "splashMessages": ["Level 310. Oops.", "Sightseeing, mostly.", "Map search complete."],
+  "easterEggs": { "notFound": "Fell asleep at the desk mid-deadline.", "emptySearch": "Map search: no results.", "idle": "Pochi and Tama are napping.", "logo": "A programmer, reborn." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "map", "search": "search-plus", "schedule": "calendar-alt", "discover": "route", "lists": "list-ol", "my-profile": "user-cog", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "cog" },
   "displayName": "Death March to the Parallel World Rhapsody",

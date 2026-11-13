@@ -1,5 +1,7 @@
 ﻿{
   "id": "flame-of-recca",
+  "splashMessages": ["The princess's ninja.", "Eight dragons stir.", "Madougu, activated."],
+  "easterEggs": { "notFound": "Stolen by the Uruha.", "emptySearch": "No Madougu nearby.", "idle": "Recca is practising seals.", "logo": "A flame dragon coils." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-check", "discover": "map", "lists": "dragon", "my-profile": "user-ninja", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "gem" },
   "sidebarOverrides": {

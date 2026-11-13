@@ -1,5 +1,7 @@
 {
   "id": "violet-evergarden",
+  "splashMessages": ["I want to know what 'I love you' means.", "The typewriter clacks.", "A letter for you."],
+  "easterEggs": { "notFound": "This letter was never delivered.", "emptySearch": "No letters waiting.", "idle": "A typewriter clicks in the next room.", "logo": "An emerald brooch." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map-signs", "lists": "file-alt", "my-profile": "feather", "community": "users", "achievements": "flower", "watch-together": "heart", "settings": "pencil" },
   "sidebarOverrides": {

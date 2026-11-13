@@ -1,5 +1,7 @@
 {
   "id": "texhnolyze",
+  "splashMessages": ["Lux is dark again.", "Ran sees what comes next.", "The surface is calling."],
+  "easterEggs": { "notFound": "Lost in the underground city.", "emptySearch": "Nothing. Just like the surface.", "idle": "A prosthetic arm twitches.", "logo": "Texhnolyze." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "route", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Texhnolyze",

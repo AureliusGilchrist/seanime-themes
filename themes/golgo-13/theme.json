@@ -1,5 +1,7 @@
 ﻿{
   "id": "golgo-13",
+  "splashMessages": ["…", "Don't stand behind him.", "One shot."],
+  "easterEggs": { "notFound": "Target eliminated.", "emptySearch": "…", "idle": "…", "logo": "Duke Togo doesn't talk." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "crosshairs", "search": "binoculars", "schedule": "calendar-times", "discover": "globe", "lists": "file-alt", "my-profile": "user-secret", "community": "users", "achievements": "bullseye", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

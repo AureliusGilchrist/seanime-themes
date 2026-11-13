@@ -1,5 +1,7 @@
 {
   "id": "angel-next-door",
+  "splashMessages": ["Dinner's ready next door.", "The umbrella is still by the door.", "Please eat your vegetables."],
+  "easterEggs": { "notFound": "Wrong apartment.", "emptySearch": "The fridge is empty. Again.", "idle": "A gentle knock at the door…", "logo": "The angel's spare key." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "utensils", "my-profile": "user", "community": "user-friends", "achievements": "heart", "watch-together": "heart", "settings": "key" },
   "sidebarOverrides": {

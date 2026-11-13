@@ -1,5 +1,7 @@
 ﻿{
   "id": "fractale",
+  "splashMessages": ["The Fractale system hums.", "Doppels wander the island.", "An old camera clicks."],
+  "easterEggs": { "notFound": "Disconnected from the system.", "emptySearch": "No doppels here.", "idle": "Nessa is giggling somewhere.", "logo": "A pendant with a key." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "island", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "network", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "microchip" },
   "sidebarOverrides": {

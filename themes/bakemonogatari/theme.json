@@ -1,5 +1,7 @@
 {
   "id": "bakemonogatari",
+  "splashMessages": ["I don't know everything. Just what I know.", "Something good happened, didn't it?", "Mister Donut, two dozen."],
+  "easterEggs": { "notFound": "I'm lost. Again.", "emptySearch": "Nothing. You don't know anything, do you?", "idle": "Hachikuji: \"Shitsureishimashita, kamimashita.\"", "logo": "A stapler, waiting." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "bat", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "pencil" },
   "sidebarOverrides": {

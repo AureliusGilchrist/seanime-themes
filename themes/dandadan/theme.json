@@ -1,5 +1,7 @@
 {
   "id": "dandadan",
+  "splashMessages": ["Aliens? Ghosts? Both.", "Turbo Granny is fast tonight.", "Okarun lost something important."],
+  "easterEggs": { "notFound": "Abducted.", "emptySearch": "No ghosts. No aliens. Disappointing.", "idle": "Footsteps in the tunnel…", "logo": "A golden ball." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "ufo", "search": "ghost", "schedule": "calendar-alt", "discover": "satellite", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "spider-web" },
   "sidebarOverrides": {

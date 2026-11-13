@@ -1,5 +1,7 @@
 {
   "id": "prince-of-tennis",
+  "splashMessages": ["Mada mada dane.", "Inui has a new juice.", "Twist serve."],
+  "easterEggs": { "notFound": "Out. Game, set.", "emptySearch": "Mada mada dane.", "idle": "Karupin is chasing a tennis ball.", "logo": "A cap and a Ponta can." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "school", "search": "binoculars", "schedule": "calendar-check", "discover": "map-signs", "lists": "clipboard-list", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "The Prince of Tennis",

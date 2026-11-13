@@ -1,5 +1,7 @@
 {
   "id": "battle-angel-alita",
+  "splashMessages": ["Found in the scrapyard.", "Panzer Kunst, ready.", "Zalem floats above everything."],
+  "easterEggs": { "notFound": "This part fell from the sky.", "emptySearch": "Just scrap in the yard.", "idle": "Ido is tinkering.", "logo": "A berserker body." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-alt", "discover": "satellite", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "tools" },
   "displayName": "Battle Angel Alita",

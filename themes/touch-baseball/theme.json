@@ -1,5 +1,7 @@
 {
   "id": "touch-baseball",
+  "splashMessages": ["Take Minami to Koshien.", "Tatsuya is napping.", "Southwind café is open."],
+  "easterEggs": { "notFound": "Fouled off.", "emptySearch": "The field is empty in winter.", "idle": "A gym ribbon twirls in the next lot.", "logo": "Touch." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "home", "search": "binoculars", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "stopwatch" },
   "displayName": "Touch",

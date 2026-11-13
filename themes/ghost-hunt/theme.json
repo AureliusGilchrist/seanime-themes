@@ -1,5 +1,7 @@
 ﻿{
   "id": "ghost-hunt",
+  "splashMessages": ["Cameras set up.", "Naru is not amused.", "A cold spot in the hallway."],
+  "easterEggs": { "notFound": "Haunted out of existence.", "emptySearch": "No readings on any camera.", "idle": "Something knocks on the wall.", "logo": "Shibuya Psychic Research." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "ghost", "schedule": "calendar-alt", "discover": "map-signs", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "camera" },
   "sidebarOverrides": {

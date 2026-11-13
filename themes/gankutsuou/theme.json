@@ -1,5 +1,7 @@
 ﻿{
   "id": "gankutsuou",
+  "splashMessages": ["Wait, and hope.", "The Count sends an invitation.", "Paris glitters tonight."],
+  "easterEggs": { "notFound": "Locked away in the Château d'If.", "emptySearch": "Nothing here but patience.", "idle": "A carriage arrives at the mansion.", "logo": "Wait and hope." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "planet", "lists": "scroll", "my-profile": "mask", "community": "users", "achievements": "crown", "watch-together": "theater-masks", "settings": "chess-knight" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "net-juu-no-susume",
+  "splashMessages": ["Logging in…", "Lily is online.", "Another daily quest."],
+  "easterEggs": { "notFound": "Disconnected from the server.", "emptySearch": "No party members online.", "idle": "AFK.", "logo": "A healer named Lily." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "gamepad", "lists": "scroll", "my-profile": "gamepad", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "headphones" },
   "displayName": "Recovery of an MMO Junkie",

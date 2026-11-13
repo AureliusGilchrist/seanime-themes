@@ -1,5 +1,7 @@
 {
   "id": "legend-of-galactic-heroes",
+  "splashMessages": ["Brandy in the tea.", "The Brünhild is moving.", "Prosit."],
+  "easterEggs": { "notFound": "Lost in the Iserlohn corridor.", "emptySearch": "No fleets detected.", "idle": "Yang is napping with a hat over his face.", "logo": "Prosit." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "chess-board", "my-profile": "crown", "community": "users", "achievements": "medal", "watch-together": "coffee", "settings": "chess-knight" },
   "displayName": "Legend of the Galactic Heroes",

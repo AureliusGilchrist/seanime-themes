@@ -1,5 +1,7 @@
 {
   "id": "banana-fish",
+  "splashMessages": ["The library is quiet.", "My soul is always with you.", "New York never sleeps."],
+  "easterEggs": { "notFound": "Lost in the city.", "emptySearch": "Nothing on the streets tonight.", "idle": "A letter is waiting.", "logo": "A good day for banana fish." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "book-open", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "the-rising-of-the-shield-hero",
+  "splashMessages": ["The next wave is coming.", "Filo wants to pull the cart.", "A shield can only defend."],
+  "easterEggs": { "notFound": "Accused, again, of something you didn't do.", "emptySearch": "No monsters in this wave.", "idle": "Raphtalia is cooking.", "logo": "A legendary shield." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "hourglass", "discover": "map", "lists": "shield", "my-profile": "shield", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "shield-alt" },
   "displayName": "The Rising of the Shield Hero",

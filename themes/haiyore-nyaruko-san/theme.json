@@ -1,5 +1,7 @@
 ﻿{
   "id": "haiyore-nyaruko-san",
+  "splashMessages": ["Always smiling, it's Nyarlathotep!", "Forks at the ready.", "SAN check required."],
+  "easterEggs": { "notFound": "Sanity loss: 1d6.", "emptySearch": "Nothing. Even the Outer Gods are bored.", "idle": "(｀・ω・´) Nyaruko-san is up to something.", "logo": "The crawling chaos." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "planet", "lists": "book-dead", "my-profile": "ufo", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "gamepad" },
   "sidebarOverrides": {

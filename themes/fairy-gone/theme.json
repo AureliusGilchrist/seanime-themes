@@ -1,5 +1,7 @@
 ﻿{
   "id": "fairy-gone",
+  "splashMessages": ["A fairy organ awakens.", "Dorothea has a lead.", "The war ended. Mostly."],
+  "easterEggs": { "notFound": "This fairy escaped.", "emptySearch": "No fairies sensed.", "idle": "A fairy glimmers at the edge of sight.", "logo": "A fairy soldier's mark." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "file-alt", "my-profile": "feather", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

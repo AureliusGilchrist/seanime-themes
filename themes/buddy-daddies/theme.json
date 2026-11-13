@@ -1,5 +1,7 @@
 {
   "id": "buddy-daddies",
+  "splashMessages": ["Bento packed, target located.", "Miri wants Penguin Grumpy.", "Two dads, one apartment."],
+  "easterEggs": { "notFound": "Miri hid this page somewhere.", "emptySearch": "No jobs today. Just pickup at three.", "idle": "Rei is gaming. Kazuki is cooking.", "logo": "Family first." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "crosshairs", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user-secret", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "utensils" },
   "sidebarOverrides": {

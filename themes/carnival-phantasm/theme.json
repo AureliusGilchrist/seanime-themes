@@ -1,5 +1,7 @@
 {
   "id": "carnival-phantasm",
+  "splashMessages": ["Lancer died!", "Neco-Arc is loose.", "Taiga Dojo is in session."],
+  "easterEggs": { "notFound": "You bastard! This page died!", "emptySearch": "Nothing here. Neco-Arc ate it.", "idle": "Buri buri~", "logo": "Hidden Taiga Dojo." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "theater-masks", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "list-ol", "my-profile": "cat", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "gift" },
   "sidebarOverrides": {

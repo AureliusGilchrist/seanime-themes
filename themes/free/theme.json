@@ -1,5 +1,7 @@
 {
   "id": "free",
+  "splashMessages": ["I only swim free.", "The pool is calling.", "Mackerel for dinner, again."],
+  "easterEggs": { "notFound": "Drifted into the deep end.", "emptySearch": "An empty pool.", "idle": "Haru is in the bathtub. Swimsuit on.", "logo": "Iwatobi-chan." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "water", "search": "search", "schedule": "stopwatch", "discover": "wave", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Free! Iwatobi Swim Club",

@@ -1,5 +1,7 @@
 {
   "id": "naruto",
+  "splashMessages": ["Believe it!", "Ichiraku is open late.", "Shadow clones, report back."],
+  "easterEggs": { "notFound": "This page used the substitution jutsu.", "emptySearch": "No chakra signatures here.", "idle": "Shikamaru: \"What a drag…\"", "logo": "The will of fire." },
   "playerIconSet": "naruto",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "user-ninja", "community": "users", "achievements": "medal", "watch-together": "utensils", "settings": "fox" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "infinite-stratos",
+  "splashMessages": ["The only male pilot.", "Byakushiki, deploying.", "Chifuyu-sensei is watching."],
+  "easterEggs": { "notFound": "Shot down in the class league.", "emptySearch": "No IS units in the arena.", "idle": "Everyone is fighting over who sits next to Ichika.", "logo": "IS Academy." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "school", "search": "radar", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "microchip" },
   "displayName": "Infinite Stratos",

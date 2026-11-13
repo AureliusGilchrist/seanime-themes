@@ -1,5 +1,7 @@
 {
   "id": "ao-no-exorcist",
+  "splashMessages": ["Blue flames, barely contained.", "Sukiyaki for the cram school.", "A key that opens every door."],
+  "easterEggs": { "notFound": "That door led straight to Gehenna.", "emptySearch": "No coal tars floating around.", "idle": "Kuro is napping on the windowsill.", "logo": "Kurikara, sheathed." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "key", "lists": "spellbook", "my-profile": "demon", "community": "users", "achievements": "fire", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Ao no Exorcist",

@@ -1,5 +1,7 @@
 {
   "id": "nagi-no-asukara",
+  "splashMessages": ["Snow falls on the sea.", "Ofunehiki is coming.", "Ena glistens."],
+  "easterEggs": { "notFound": "Sunk beneath Shioshishio.", "emptySearch": "Only the sea, silent.", "idle": "Snow drifts down into the water.", "logo": "A lull in the sea." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "water", "search": "search", "schedule": "snowflake", "discover": "wave", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "anchor" },
   "displayName": "Nagi-Asu: A Lull in the Sea",

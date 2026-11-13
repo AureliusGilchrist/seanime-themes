@@ -1,5 +1,7 @@
 {
   "id": "junji-ito",
+  "splashMessages": ["This hole was made for me.", "She's back. She always comes back.", "The balloons are in the sky."],
+  "easterEggs": { "notFound": "A hole in the fault, shaped like this page.", "emptySearch": "Nothing. But something is watching.", "idle": "Fish are walking on land somewhere.", "logo": "A beauty mark under the eye." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "book-dead", "my-profile": "user-slash", "community": "users", "achievements": "skull", "watch-together": "ghost", "settings": "spider" },
   "displayName": "Junji Ito",

@@ -1,5 +1,7 @@
 {
   "id": "ghost-in-the-shell",
+  "splashMessages": ["The net is vast and infinite.", "Diving into the cyberbrain…", "Tachikomas are debating philosophy."],
+  "easterEggs": { "notFound": "Ghost-hacked. Page erased.", "emptySearch": "No signal on the net.", "idle": "A Tachikoma asks: \"Do we have ghosts?\"", "logo": "Section 9." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "network", "schedule": "calendar-times", "discover": "globe", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "headphones", "settings": "microchip" },
   "sidebarOverrides": {

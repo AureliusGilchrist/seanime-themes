@@ -1,5 +1,7 @@
 {
   "id": "canaan",
+  "splashMessages": ["I can see your colour.", "Shanghai is buzzing.", "A camera shutter clicks."],
+  "easterEggs": { "notFound": "No colour on this page.", "emptySearch": "Nothing in sight. Not even a colour.", "idle": "Maria is taking a photo.", "logo": "Synesthesia." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "globe", "search": "eye", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "file-alt", "my-profile": "user-ninja", "community": "users", "achievements": "crosshairs", "watch-together": "camera", "settings": "gun" },
   "sidebarOverrides": {

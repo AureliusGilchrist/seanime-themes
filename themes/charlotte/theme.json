@@ -1,5 +1,7 @@
 {
   "id": "charlotte",
+  "splashMessages": ["The comet returns.", "Five seconds is enough.", "Pizza sauce, extra."],
+  "easterEggs": { "notFound": "This page plundered itself.", "emptySearch": "No abilities in range.", "idle": "A camera clicks from nowhere.", "logo": "A word memorised for you." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "meteor", "discover": "globe", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "music", "settings": "camera" },
   "sidebarOverrides": {

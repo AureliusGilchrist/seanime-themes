@@ -1,5 +1,7 @@
 {
   "id": "vagabond",
+  "splashMessages": ["Invincible under the heavens.", "The wind through the bamboo.", "A rice field to tend."],
+  "easterEggs": { "notFound": "Cut down at Ichijoji.", "emptySearch": "No opponents on the road.", "idle": "Wind moves through the grass.", "logo": "Two swords." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "calendar-alt", "discover": "route", "lists": "scroll", "my-profile": "katana", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Vagabond",

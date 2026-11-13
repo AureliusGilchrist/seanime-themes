@@ -1,5 +1,7 @@
 ﻿{
   "id": "gundam-wing",
+  "splashMessages": ["Mission accepted.", "I'll kill you.", "Operation Meteor."],
+  "easterEggs": { "notFound": "Self-destructed.", "emptySearch": "No targets. Mission complete?", "idle": "Heero is staring out a window.", "logo": "White feathers fall." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-times", "discover": "planet", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "feather" },
   "sidebarOverrides": {

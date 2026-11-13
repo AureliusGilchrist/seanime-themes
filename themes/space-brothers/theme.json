@@ -1,5 +1,7 @@
 {
   "id": "space-brothers",
+  "splashMessages": ["The moon, from the backyard.", "Apo is wagging his tail.", "A UFO, maybe."],
+  "easterEggs": { "notFound": "Drifted off into the lunar dust.", "emptySearch": "No signal from the moon.", "idle": "Mutta is fixing his hair.", "logo": "A promise made under the moon." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "rocket", "search": "binoculars", "schedule": "calendar-check", "discover": "moon", "lists": "clipboard-list", "my-profile": "user-graduate", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "satellite" },
   "displayName": "Space Brothers",

@@ -1,5 +1,7 @@
 {
   "id": "86-eighty-six",
+  "splashMessages": ["Para-RAID synchronising…", "We'll carry your names with us.", "Fireworks over the front lines."],
+  "easterEggs": { "notFound": "This sector isn't on any Republic map.", "emptySearch": "No Legion contact. For now.", "idle": "Handler One, are you still there?", "logo": "Undertaker, standing by." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "map-marked-alt", "search": "radar", "schedule": "calendar-alt", "discover": "satellite-dish", "lists": "clipboard-list", "my-profile": "user-ninja", "community": "users", "achievements": "medal", "watch-together": "headphones", "settings": "tank" },
   "sidebarOverrides": {

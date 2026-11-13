@@ -1,5 +1,7 @@
 {
   "id": "i-want-to-eat-your-pancreas",
+  "splashMessages": ["Living with Dying.", "Truth or dare?", "Cherry blossoms, in time."],
+  "easterEggs": { "notFound": "Pages ripped from the diary.", "emptySearch": "Nothing in the library.", "idle": "A diary lies open on the desk.", "logo": "Classmate-who-knows-my-secret." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "book-open", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "flower", "watch-together": "heart", "settings": "pencil" },
   "displayName": "I Want to Eat Your Pancreas",

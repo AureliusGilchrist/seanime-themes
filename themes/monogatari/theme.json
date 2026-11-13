@@ -1,5 +1,7 @@
 {
   "id": "monogatari",
+  "splashMessages": ["Kaii is just another name.", "Shinobu wants doughnuts.", "A head tilt, imminent."],
+  "easterEggs": { "notFound": "An oddity took this page.", "emptySearch": "Nothing. I don't know everything.", "idle": "Shinobu yawns from your shadow.", "logo": "Ara ara." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "bat", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Monogatari Series",

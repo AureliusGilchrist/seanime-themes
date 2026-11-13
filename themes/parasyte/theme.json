@@ -1,5 +1,7 @@
 {
   "id": "parasyte",
+  "splashMessages": ["Migi is reading.", "The species must survive.", "A right hand with opinions."],
+  "easterEggs": { "notFound": "Absorbed.", "emptySearch": "No parasites sensed.", "idle": "Migi has learned a new word.", "logo": "The right hand." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "dna", "my-profile": "user", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "brain" },
   "displayName": "Parasyte",

@@ -1,5 +1,7 @@
 {
   "id": "a-channel",
+  "splashMessages": ["Lunch on the rooftop again?", "Run fell asleep in class.", "Tooru's on her way."],
+  "easterEggs": { "notFound": "Run wandered into the wrong classroom.", "emptySearch": "Lost property, nothing claimed.", "idle": "Zzz… (Run is napping)", "logo": "Four friends, one rooftop." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "user-friends", "achievements": "star", "watch-together": "heart", "settings": "cookie" },
   "sidebarOverrides": {

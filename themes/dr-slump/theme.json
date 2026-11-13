@@ -1,5 +1,7 @@
 {
   "id": "dr-slump",
+  "splashMessages": ["N'cha!", "Kiiiin!", "Penguin Village is noisy today."],
+  "easterEggs": { "notFound": "Arale ran this page through the wall.", "emptySearch": "Nothing here but poop on a stick.", "idle": "Gatchan is eating something metal.", "logo": "Hoyoyo~" },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "flask", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Dr. Slump",

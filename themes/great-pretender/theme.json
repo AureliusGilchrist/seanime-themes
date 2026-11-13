@@ -1,5 +1,7 @@
 ﻿{
   "id": "great-pretender",
+  "splashMessages": ["The con is already on.", "Laurent has a plan.", "Edamame, don't panic."],
+  "easterEggs": { "notFound": "The mark walked away.", "emptySearch": "Nothing. That's what they want you to think.", "idle": "Someone is forging a painting.", "logo": "The Great Pretender." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "globe", "lists": "briefcase", "my-profile": "user-secret", "community": "users", "achievements": "coins", "watch-together": "cocktail", "settings": "mask" },
   "sidebarOverrides": {

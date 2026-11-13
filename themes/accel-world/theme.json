@@ -1,5 +1,7 @@
 {
   "id": "accel-world",
+  "splashMessages": ["Burst Link.", "Thought-acceleration engaged.", "Silver wings, unfolding."],
+  "easterEggs": { "notFound": "This field doesn't exist in the Accelerated World.", "emptySearch": "No duel avatars in range.", "idle": "Still connected to the local net…", "logo": "Fly, Silver Crow." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "network", "search": "radar", "schedule": "stopwatch", "discover": "globe", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "link", "settings": "microchip" },
   "displayName": "Accel World",

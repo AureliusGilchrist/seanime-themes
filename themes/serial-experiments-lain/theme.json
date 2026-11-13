@@ -1,5 +1,7 @@
 {
   "id": "serial-experiments-lain",
+  "splashMessages": ["Present day. Present time.", "Close the world, open the nExt.", "No matter where you go, everyone's connected."],
+  "easterEggs": { "notFound": "This page only exists in the Wired.", "emptySearch": "Nothing. Let's all love Lain.", "idle": "The power lines hum.", "logo": "Close the world." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "network", "search": "search", "schedule": "calendar-times", "discover": "globe", "lists": "server", "my-profile": "user-slash", "community": "users", "achievements": "eye", "watch-together": "network", "settings": "microchip" },
   "displayName": "Serial Experiments Lain",

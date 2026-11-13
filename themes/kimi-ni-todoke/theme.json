@@ -1,5 +1,7 @@
 {
   "id": "kimi-ni-todoke",
+  "splashMessages": ["Good morning, Kuronuma.", "She's not Sadako.", "Reaching you, slowly."],
+  "easterEggs": { "notFound": "Misunderstood, again.", "emptySearch": "No one around. Try saying hello.", "idle": "A flower is being watered.", "logo": "From me to you." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "flower" },
   "displayName": "Kimi ni Todoke",

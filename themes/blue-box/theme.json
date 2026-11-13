@@ -1,5 +1,7 @@
 {
   "id": "blue-box",
+  "splashMessages": ["Morning practice, 7 a.m.", "Chinatsu is already in the gym.", "Same house, different rooms."],
+  "easterEggs": { "notFound": "The shuttlecock went out of bounds.", "emptySearch": "An empty gym at dawn.", "idle": "Squeak of sneakers on the court…", "logo": "A blue box of feelings." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "heart", "settings": "basketball" },
   "displayName": "Blue Box",

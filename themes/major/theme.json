@@ -1,5 +1,7 @@
 {
   "id": "major",
+  "splashMessages": ["Gyroball, warming up.", "The dream is the majors.", "A glove from Dad."],
+  "easterEggs": { "notFound": "Strike three.", "emptySearch": "No batters at the plate.", "idle": "A glove pops in the bullpen.", "logo": "Number 56." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "flag", "search": "binoculars", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Major",

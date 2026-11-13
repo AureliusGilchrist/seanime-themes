@@ -1,5 +1,7 @@
 {
   "id": "to-your-eternity",
+  "splashMessages": ["An orb, given a form.", "The boy left alone in the tundra.", "Stimulus, received."],
+  "easterEggs": { "notFound": "Taken by a Nokker.", "emptySearch": "The tundra is silent.", "idle": "A white wolf curls up in the snow.", "logo": "Immortal." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "snowflake", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "users", "my-profile": "wolf-head", "community": "users", "achievements": "infinity", "watch-together": "campground", "settings": "feather" },
   "displayName": "To Your Eternity",

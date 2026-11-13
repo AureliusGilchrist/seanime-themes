@@ -1,5 +1,7 @@
 {
   "id": "dorohedoro",
+  "splashMessages": ["Gyoza at the Hungry Bug.", "Who's the man in your mouth?", "Magic smoke drifts over the Hole."],
+  "easterEggs": { "notFound": "Turned into a mushroom.", "emptySearch": "Nothing but smoke.", "idle": "Nikaido is folding gyoza.", "logo": "A lizard head." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "key", "lists": "mask", "my-profile": "user-secret", "community": "users", "achievements": "skull", "watch-together": "utensils", "settings": "tools" },
   "displayName": "Dorohedoro",

@@ -1,5 +1,7 @@
 {
   "id": "plastic-memories",
+  "splashMessages": ["Terminal Service One, on duty.", "A Ferris wheel at closing time.", "Tea with too much sugar."],
+  "easterEggs": { "notFound": "Retrieved.", "emptySearch": "No Giftia scheduled.", "idle": "Isla is tending the plants.", "logo": "I hope you can meet them again." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "hourglass", "discover": "map-pin", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "microchip" },
   "displayName": "Plastic Memories",

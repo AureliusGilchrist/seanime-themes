@@ -1,5 +1,7 @@
 {
   "id": "chobits",
+  "splashMessages": ["Chii?", "A city with no people.", "Booting up…"],
+  "easterEggs": { "notFound": "Chii can't find it.", "emptySearch": "Nothing in the picture book.", "idle": "Chii…", "logo": "The one just for me." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "robot", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "microchip" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "kyoukai-no-kanata",
+  "splashMessages": ["Fuyukai desu.", "Glasses are justice.", "The literary club, meeting."],
+  "easterEggs": { "notFound": "Beyond the boundary.", "emptySearch": "No youmu here. Fuyukai desu.", "idle": "Mirai is selling charms on the street.", "logo": "Bespectacled girls are the best." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "gem", "my-profile": "user", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "glasses" },
   "displayName": "Beyond the Boundary",

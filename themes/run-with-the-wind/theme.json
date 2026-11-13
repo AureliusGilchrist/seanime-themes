@@ -1,5 +1,7 @@
 {
   "id": "run-with-the-wind",
+  "splashMessages": ["Ten runners, one sash.", "Hakone in the new year.", "Kakeru is already running."],
+  "easterEggs": { "notFound": "Missed the relay handoff.", "emptySearch": "The track is empty.", "idle": "Footsteps on the morning road.", "logo": "A sash, passed on." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "stopwatch", "discover": "route", "lists": "list-ol", "my-profile": "running", "community": "users", "achievements": "medal", "watch-together": "utensils", "settings": "stopwatch" },
   "displayName": "Run with the Wind",

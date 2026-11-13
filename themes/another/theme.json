@@ -1,5 +1,7 @@
 {
   "id": "another",
+  "splashMessages": ["There's one extra in class.", "Don't acknowledge her.", "The doll's eye is watching."],
+  "easterEggs": { "notFound": "This page doesn't exist. Act like it.", "emptySearch": "Nobody here. Are you sure?", "idle": "Someone is behind the eyepatch.", "logo": "The year of the calamity." },
   "sidebarOverrides": {
     "landing": { "label": "Class 3-3" },
     "search": { "label": "Behind the Eyepatch" },

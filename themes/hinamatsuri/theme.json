@@ -1,5 +1,7 @@
 {
   "id": "hinamatsuri",
+  "splashMessages": ["Ikura, please.", "A vase was broken.", "Anzu is selling cans."],
+  "easterEggs": { "notFound": "Telekinetically misplaced.", "emptySearch": "Nothing. Hina ate it.", "idle": "Hina is asleep on the couch.", "logo": "A metal egg." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "cocktail", "settings": "egg" },
   "displayName": "Hinamatsuri",

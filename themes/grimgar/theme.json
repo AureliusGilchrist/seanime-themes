@@ -1,5 +1,7 @@
 {
   "id": "grimgar",
+  "splashMessages": ["Woke up in the dark again.", "Hunting goblins for coppers.", "Watercolour skies over Altana."],
+  "easterEggs": { "notFound": "Forgotten, like where we came from.", "emptySearch": "No prey today.", "idle": "A guild bell rings in Altana.", "logo": "Volunteer soldier." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "user", "community": "users", "achievements": "coins", "watch-together": "campground", "settings": "bow-arrow" },
   "displayName": "Grimgar of Fantasy and Ash",

@@ -1,5 +1,7 @@
 {
   "id": "overlord",
+  "splashMessages": ["All according to plan. (It wasn't.)", "The floor guardians kneel.", "Demiurge has misunderstood again."],
+  "easterEggs": { "notFound": "Deleted with the server.", "emptySearch": "No players logged in.", "idle": "Ainz is practising a pose in the mirror.", "logo": "Ainz Ooal Gown." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "skull", "my-profile": "skull", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "staff" },
   "displayName": "Overlord",

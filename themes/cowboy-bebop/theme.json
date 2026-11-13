@@ -1,5 +1,7 @@
 {
   "id": "cowboy-bebop",
+  "splashMessages": ["See you, space cowboy.", "Bell peppers and beef, no beef.", "Ein is a data dog."],
+  "easterEggs": { "notFound": "Whatever happens, happens.", "emptySearch": "No bounties tonight. Just ramen.", "idle": "Ed is upside down at the terminal.", "logo": "Swordfish II." },
   "playerIconSet": "cowboy-bebop",
   "sidebarIcons": { "landing": "spaceship", "search": "crosshairs", "schedule": "calendar-alt", "discover": "planet", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "coins", "watch-together": "dog", "settings": "music" },
   "sidebarOverrides": {

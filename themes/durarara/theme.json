@@ -1,5 +1,7 @@
 {
   "id": "durarara",
+  "splashMessages": ["The chatroom is active.", "A headless rider passes.", "A vending machine flies by."],
+  "easterEggs": { "notFound": "Izaya moved this page somewhere.", "emptySearch": "No one in the Dollars chat.", "idle": "Neigh… (a motorcycle in the dark)", "logo": "Ikebukuro, tonight." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-alt", "discover": "map-signs", "lists": "users", "my-profile": "user-secret", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "network" },
   "sidebarOverrides": {

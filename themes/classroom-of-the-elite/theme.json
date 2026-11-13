@@ -1,5 +1,7 @@
 {
   "id": "classroom-of-the-elite",
+  "splashMessages": ["Every exam is a test of character.", "Points are deposited monthly.", "He's not trying. Or is he?"],
+  "easterEggs": { "notFound": "Deducted from your class points.", "emptySearch": "No one stands out. As planned.", "idle": "Someone is always watching from the window.", "logo": "Only results matter." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-check", "discover": "island", "lists": "chess-board", "my-profile": "chess-knight", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "chess-board" },
   "sidebarOverrides": {

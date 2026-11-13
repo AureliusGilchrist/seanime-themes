@@ -1,5 +1,7 @@
 {
   "id": "nausicaa",
+  "splashMessages": ["The wind is blowing.", "Ohmu eyes are blue.", "Spores drift from the toxic jungle."],
+  "easterEggs": { "notFound": "Lost in the sea of corruption.", "emptySearch": "The wind brings nothing.", "idle": "Teto is perched on a shoulder.", "logo": "A glider in the wind." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "tree", "lists": "spider", "my-profile": "feather", "community": "users", "achievements": "leaf", "watch-together": "user-friends", "settings": "wind" },
   "displayName": "Nausicaä of the Valley of the Wind",

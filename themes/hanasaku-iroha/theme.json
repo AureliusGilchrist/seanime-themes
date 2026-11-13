@@ -1,5 +1,7 @@
 {
   "id": "hanasaku-iroha",
+  "splashMessages": ["Bonbori, light the way.", "Ohana is on shift.", "Minko is chopping vegetables."],
+  "easterEggs": { "notFound": "Lost on the way to the onsen.", "emptySearch": "No guests today.", "idle": "A lantern sways in the inn's hallway.", "logo": "Kissuiso." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "flower", "watch-together": "utensils", "settings": "coffee" },
   "displayName": "Hanasaku Iroha",

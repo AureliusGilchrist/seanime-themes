@@ -1,5 +1,7 @@
 {
   "id": "gundam-witch-mercury",
+  "splashMessages": ["If you run away, you gain one.", "Tomatoes in the greenhouse.", "A duel has been requested."],
+  "easterEggs": { "notFound": "Lost on the way from Mercury.", "emptySearch": "No duels scheduled.", "idle": "Suletta is writing her to-do list.", "logo": "Proceed and you gain two." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "school", "search": "radar", "schedule": "calendar-check", "discover": "planet", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "tree" },
   "sidebarOverrides": {

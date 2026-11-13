@@ -1,5 +1,7 @@
 {
   "id": "one-punch-man",
+  "splashMessages": ["OK.", "100 push-ups, 100 sit-ups, 100 squats.", "Sale at the supermarket!"],
+  "easterEggs": { "notFound": "One punch. Gone.", "emptySearch": "No worthy opponent. How boring.", "idle": "Saitama is staring into space.", "logo": "OK." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "map-marked-alt", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "store" },
   "sidebarOverrides": {

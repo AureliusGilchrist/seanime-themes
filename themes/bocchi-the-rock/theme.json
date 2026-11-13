@@ -1,5 +1,7 @@
 {
   "id": "bocchi-the-rock",
+  "splashMessages": ["Hiding in a mango box…", "Kessoku Band, practising.", "Ijichi-senpai has snacks."],
+  "easterEggs": { "notFound": "This page is in the closet with the guitar.", "emptySearch": "No one… which is comfortable, honestly.", "idle": "*dissolves into a puddle*", "logo": "Guitar Hero, 30,000 subs." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "guitar", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "music", "my-profile": "user-slash", "community": "users", "achievements": "star", "watch-together": "drum", "settings": "headphones" },
   "displayName": "Bocchi the Rock!",

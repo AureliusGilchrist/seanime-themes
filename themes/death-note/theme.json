@@ -1,5 +1,7 @@
 {
   "id": "death-note",
+  "splashMessages": ["The human whose name is written…", "Ryuk wants an apple.", "Just as planned."],
+  "easterEggs": { "notFound": "Someone wrote this page's name down.", "emptySearch": "No names. The notebook is blank.", "idle": "Ryuk: \"Humans are so interesting.\"", "logo": "I'll take a potato chip… and eat it!" },
   "playerIconSet": "death-note",
   "sidebarIcons": { "landing": "book-dead", "search": "search-location", "schedule": "clock", "discover": "eye", "lists": "book-skull", "my-profile": "skull", "community": "users", "achievements": "chess-knight", "watch-together": "user-secret", "settings": "pencil" },
   "sidebarOverrides": {

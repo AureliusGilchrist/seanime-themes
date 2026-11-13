@@ -1,5 +1,7 @@
 {
   "id": "afro-samurai",
+  "splashMessages": ["The Number Two headband weighs heavy.", "The road up the mountain is long.", "Ninja Ninja has opinions."],
+  "easterEggs": { "notFound": "Wrong mountain, samurai.", "emptySearch": "No challengers today.", "idle": "Ninja Ninja: \"You just gonna stand there?\"", "logo": "Only the Number Two may challenge the Number One." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "scroll", "my-profile": "user-ninja", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "katana" },
   "sidebarOverrides": {

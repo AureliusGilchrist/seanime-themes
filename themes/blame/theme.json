@@ -1,5 +1,7 @@
 {
   "id": "blame",
+  "splashMessages": ["Searching for the Net Terminal Gene…", "The City keeps building.", "Ascending another thousand levels."],
+  "easterEggs": { "notFound": "Lost somewhere in the Megastructure.", "emptySearch": "No genetic match.", "idle": "…", "logo": "Gravitational beam emitter, charged." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "hourglass", "discover": "route", "lists": "dna", "my-profile": "gun", "community": "users", "achievements": "skull", "watch-together": "robot", "settings": "network" },
   "sidebarOverrides": {

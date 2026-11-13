@@ -1,5 +1,7 @@
 {
   "id": "zom-100",
+  "splashMessages": ["No work today, ever again.", "Bucket list item #1.", "Beer tastes better after the apocalypse."],
+  "easterEggs": { "notFound": "Bitten.", "emptySearch": "No zombies here. Lucky.", "idle": "Akira is writing a new bucket list item.", "logo": "Zom 100." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-check", "discover": "map-signs", "lists": "clipboard-check", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "briefcase" },
   "displayName": "Zom 100: Bucket List of the Dead",

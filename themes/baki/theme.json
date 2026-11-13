@@ -1,5 +1,7 @@
 {
   "id": "baki",
+  "splashMessages": ["Image training in progress…", "The ogre's back is showing.", "The arena is underground."],
+  "easterEggs": { "notFound": "Choked out by the page.", "emptySearch": "No opponents left standing.", "idle": "Shadow-boxing a praying mantis.", "logo": "Strongest creature on earth." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "dna" },
   "sidebarOverrides": {

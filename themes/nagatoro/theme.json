@@ -1,5 +1,7 @@
 {
   "id": "nagatoro",
+  "splashMessages": ["Senpai~", "The art club is quiet.", "Another drawing to finish."],
+  "easterEggs": { "notFound": "Ehh~ senpai can't even find a page?", "emptySearch": "Nothing here, senpai~", "idle": "Hey, senpai. You awake?", "logo": "Ijiranaide." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "palette", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "palette-brush", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Don't Toy with Me, Miss Nagatoro",

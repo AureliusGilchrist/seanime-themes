@@ -1,5 +1,7 @@
 {
   "id": "yuru-camp",
+  "splashMessages": ["Fuji is out today.", "Curry noodles by the fire.", "Solo camp, quiet and warm."],
+  "easterEggs": { "notFound": "Wandered off to another campsite.", "emptySearch": "Just a quiet campsite.", "idle": "A kettle starts to whistle.", "logo": "A tent by the lake." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "campground", "search": "search", "schedule": "calendar-alt", "discover": "mountain", "lists": "map", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "campground", "settings": "fire" },
   "displayName": "Laid-Back Camp",

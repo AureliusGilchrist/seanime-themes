@@ -1,5 +1,7 @@
 {
   "id": "ao-haru-ride",
+  "splashMessages": ["Rain at the shrine again.", "Springtime, all over again.", "He's still Tanaka-kun inside."],
+  "easterEggs": { "notFound": "This page changed its name, like someone we know.", "emptySearch": "Nobody under the shrine roof.", "idle": "The rain is letting up.", "logo": "Blue spring ride." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Ao Haru Ride",

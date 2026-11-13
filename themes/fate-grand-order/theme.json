@@ -1,5 +1,7 @@
 {
   "id": "fate-grand-order",
+  "splashMessages": ["Rayshifting…", "Saint Quartz: insufficient.", "Senpai!"],
+  "easterEggs": { "notFound": "Lost in a singularity.", "emptySearch": "No Servants summoned. Salt, again.", "idle": "Fou! Fou!", "logo": "A Command Seal glows." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "snowflake", "search": "radar", "schedule": "calendar-alt", "discover": "globe", "lists": "users", "my-profile": "user-graduate", "community": "users", "achievements": "crown", "watch-together": "shield", "settings": "rune-stone" },
   "displayName": "Fate/Grand Order",

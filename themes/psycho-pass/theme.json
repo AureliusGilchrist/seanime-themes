@@ -1,5 +1,7 @@
 {
   "id": "psycho-pass",
+  "splashMessages": ["Crime coefficient: under 100.", "Your hue is clear.", "Dominator, enforcement mode."],
+  "easterEggs": { "notFound": "Target eliminated by the Sibyl System.", "emptySearch": "No latent criminals detected.", "idle": "Dime is wagging his tail.", "logo": "Paralyzer." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "crosshairs", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "user-secret", "community": "users", "achievements": "brain", "watch-together": "dog", "settings": "gun" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "trigun",
+  "splashMessages": ["Love and peace!", "Insurance agents are on the way.", "The humanoid typhoon is passing."],
+  "easterEggs": { "notFound": "Destroyed by the humanoid typhoon. Probably.", "emptySearch": "Just tumbleweeds.", "idle": "A black cat meows.", "logo": "Love and peace." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "sun", "search": "crosshairs", "schedule": "calendar-alt", "discover": "route", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "coins", "watch-together": "cookie", "settings": "gun" },
   "displayName": "Trigun",

@@ -1,5 +1,7 @@
 {
   "id": "blade-of-the-immortal",
+  "splashMessages": ["A thousand evil men to go.", "The worms are healing him.", "Rin trains with her twin blades."],
+  "easterEggs": { "notFound": "Cut down, then got back up. Still not here.", "emptySearch": "No one left to cut.", "idle": "Manji is muttering.", "logo": "卍" },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "scroll", "my-profile": "infinity", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Blade of the Immortal",

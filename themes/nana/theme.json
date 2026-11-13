@@ -1,5 +1,7 @@
 {
   "id": "nana",
+  "splashMessages": ["Room 707.", "Strawberry glasses on the table.", "Black Stones are rehearsing."],
+  "easterEggs": { "notFound": "Lost on the train to Tokyo.", "emptySearch": "Nothing. Just two Nanas.", "idle": "A vinyl spins in room 707.", "logo": "Hachi." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-signs", "lists": "music", "my-profile": "microphone", "community": "users", "achievements": "star", "watch-together": "guitar", "settings": "guitar" },
   "displayName": "NANA",

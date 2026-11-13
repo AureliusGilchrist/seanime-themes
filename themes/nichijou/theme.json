@@ -1,5 +1,7 @@
 {
   "id": "nichijou",
+  "splashMessages": ["The wind key is turning.", "Sakamoto-san is judging you.", "A deer is wrestling the principal."],
+  "easterEggs": { "notFound": "Daily life just broke.", "emptySearch": "Nothing ordinary here. Or extraordinary.", "idle": "Nano's key is slowly turning.", "logo": "Nichijou." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "key" },
   "displayName": "Nichijou",

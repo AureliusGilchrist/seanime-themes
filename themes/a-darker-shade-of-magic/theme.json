@@ -1,5 +1,7 @@
 {
   "id": "a-darker-shade-of-magic",
+  "splashMessages": ["As Travars.", "Red London glows tonight.", "One coat, many sides."],
+  "easterEggs": { "notFound": "This London was sealed long ago.", "emptySearch": "Nothing here but Grey London fog.", "idle": "The door between worlds hums quietly.", "logo": "Antari blood, one drop." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "spellbook", "my-profile": "hat-wizard", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "rune-stone" },
   "sidebarOverrides": {

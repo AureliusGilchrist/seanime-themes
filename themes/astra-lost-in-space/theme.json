@@ -1,5 +1,7 @@
 {
   "id": "astra-lost-in-space",
+  "splashMessages": ["Five thousand light-years from home.", "Check the hull, then dinner.", "Someone on the crew is lying."],
+  "easterEggs": { "notFound": "This planet isn't on the chart.", "emptySearch": "The scanner shows nothing.", "idle": "Funicia's puppet is waving.", "logo": "Captain's armband." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "spaceship", "search": "satellite", "schedule": "calendar-alt", "discover": "planet", "lists": "clipboard-list", "my-profile": "user-graduate", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "compass" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "kamisama-kiss",
+  "splashMessages": ["The shrine is a little dusty.", "Tomoe is sighing.", "A god's mark on your forehead."],
+  "easterEggs": { "notFound": "Lost on the way to Izumo.", "emptySearch": "No prayers today.", "idle": "Onikiri and Kotetsu are sweeping.", "logo": "A land god's mark." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "fox", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "flower" },
   "displayName": "Kamisama Kiss",

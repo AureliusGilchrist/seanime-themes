@@ -1,5 +1,7 @@
 {
   "id": "fate-zero",
+  "splashMessages": ["A banquet of kings.", "Rider wants a world map.", "The Grail War begins."],
+  "easterEggs": { "notFound": "Shot with an Origin Bullet.", "emptySearch": "No Masters in sight.", "idle": "Iskandar is reading about the ocean.", "logo": "Ionioi Hetairoi." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "crosshairs", "schedule": "moon", "discover": "map", "lists": "users", "my-profile": "gun", "community": "users", "achievements": "crown", "watch-together": "cocktail", "settings": "rune-stone" },
   "displayName": "Fate/Zero",

@@ -1,5 +1,7 @@
 {
   "id": "air",
+  "splashMessages": ["There's a girl in the sky.", "The summer never ends here.", "Gao!"],
+  "easterEggs": { "notFound": "Lost, like a feather on the wind.", "emptySearch": "Just sky. Endless sky.", "idle": "Gao…", "logo": "A wing in the sky." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "sun", "search": "binoculars", "schedule": "calendar-alt", "discover": "feather", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "star", "watch-together": "heart", "settings": "feather" },
   "sidebarOverrides": {

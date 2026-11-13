@@ -1,5 +1,7 @@
 {
   "id": "candy-candy",
+  "splashMessages": ["Freckles and a smile.", "The prince on the hill.", "Sweet Candy roses bloom."],
+  "easterEggs": { "notFound": "A letter that never arrived.", "emptySearch": "Pony's Hill is quiet.", "idle": "Laughing is better than crying.", "logo": "A rose garden." },
   "sidebarOverrides": {
     "landing": { "label": "Pony's Home" },
     "search": { "label": "Look for the Prince" },

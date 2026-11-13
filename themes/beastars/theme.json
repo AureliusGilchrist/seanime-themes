@@ -1,5 +1,7 @@
 {
   "id": "beastars",
+  "splashMessages": ["The drama club is rehearsing.", "Herbivores, carnivores, everyone.", "Lights up on stage."],
+  "easterEggs": { "notFound": "This page wandered into the black market.", "emptySearch": "No scent to follow.", "idle": "A grey wolf is staring at the ceiling.", "logo": "Who will be Beastar?" },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "school", "search": "paw", "schedule": "calendar-alt", "discover": "tree", "lists": "theater-masks", "my-profile": "wolf-head", "community": "users", "achievements": "crown", "watch-together": "heart", "settings": "leaf" },
   "sidebarOverrides": {

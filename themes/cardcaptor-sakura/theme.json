@@ -1,5 +1,7 @@
 {
   "id": "cardcaptor-sakura",
+  "splashMessages": ["Hoe~?", "Tomoyo has a new costume.", "Release!"],
+  "easterEggs": { "notFound": "A Clow Card hid this page.", "emptySearch": "No Clow presence here.", "idle": "Kero-chan is eating pudding.", "logo": "Everything will surely be alright." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "home", "search": "crystal-ball", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "wand-sparkles", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "key" },
   "sidebarOverrides": {

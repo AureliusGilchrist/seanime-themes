@@ -1,5 +1,7 @@
 {
   "id": "kill-la-kill",
+  "splashMessages": ["Don't lose your way.", "Mako has something to say.", "Life fibres, synchronising."],
+  "easterEggs": { "notFound": "Torn to shreds.", "emptySearch": "Nothing to wear. Literally.", "idle": "Senketsu is muttering.", "logo": "Half a scissor blade." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "tshirt", "my-profile": "tshirt", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "Kill la Kill",

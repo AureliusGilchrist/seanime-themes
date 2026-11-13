@@ -1,5 +1,7 @@
 {
   "id": "miss-kobayashis-dragon-maid",
+  "splashMessages": ["Tohru made omurice.", "Kanna wants to go to school.", "There's a dragon in the apartment."],
+  "easterEggs": { "notFound": "Tohru breathed fire on it.", "emptySearch": "Nothing. Kanna ate the last chocolate.", "idle": "Tohru's tail is wagging.", "logo": "A maid with horns." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "utensils", "my-profile": "dragon", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "briefcase" },
   "displayName": "Miss Kobayashi's Dragon Maid",

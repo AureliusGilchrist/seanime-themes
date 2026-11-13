@@ -1,5 +1,7 @@
 {
   "id": "akame-ga-kill",
+  "splashMessages": ["Night Raid moves at dusk.", "The capital rots from within.", "One cut is enough."],
+  "easterEggs": { "notFound": "This target already vanished.", "emptySearch": "No names on the list tonight.", "idle": "Akame is eating again…", "logo": "Murasame, sheathed." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "castle", "search": "crosshairs", "schedule": "calendar-times", "discover": "map", "lists": "skull", "my-profile": "user-ninja", "community": "users", "achievements": "tombstone", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Akame ga Kill!",

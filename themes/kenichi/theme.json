@@ -1,5 +1,7 @@
 {
   "id": "kenichi",
+  "splashMessages": ["The masters are waiting.", "Ryozanpaku never sleeps.", "Ancient training, modern pain."],
+  "easterEggs": { "notFound": "Knocked out during training.", "emptySearch": "No challengers today.", "idle": "Someone is dragging a giant tyre.", "logo": "The mightiest disciple." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "scroll", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Kenichi: The Mightiest Disciple",

@@ -1,5 +1,7 @@
 {
   "id": "blue-lock",
+  "splashMessages": ["Devour.", "Egoists only.", "Find your weapon."],
+  "easterEggs": { "notFound": "Eliminated from the selection.", "emptySearch": "No strikers on the pitch.", "idle": "Ego is watching the monitors.", "logo": "Chemical reaction." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "stopwatch", "discover": "globe", "lists": "list-ol", "my-profile": "running", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "bullseye" },
   "displayName": "Blue Lock",

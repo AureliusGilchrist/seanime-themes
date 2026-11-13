@@ -1,5 +1,7 @@
 {
   "id": "goblin-slayer",
+  "splashMessages": ["Goblins?", "Checking every corner twice.", "A stew at the farm."],
+  "easterEggs": { "notFound": "Not goblins. Not interested.", "emptySearch": "No goblins. Good.", "idle": "He is sharpening a cheap sword.", "logo": "Silver rank." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "campground", "search": "eye", "schedule": "calendar-times", "discover": "map", "lists": "scroll", "my-profile": "shield", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "dagger" },
   "displayName": "Goblin Slayer",

@@ -1,5 +1,7 @@
 {
   "id": "fullmetal-alchemist",
+  "splashMessages": ["Equivalent exchange.", "Al is guarding a kitten.", "Don't call me short."],
+  "easterEggs": { "notFound": "The Gate took this page as toll.", "emptySearch": "Nothing to transmute.", "idle": "A stray cat meows inside some armour.", "logo": "The Flamel cross." },
   "playerIconSet": "fullmetal-alchemist",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "shield", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "flask" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "devil-is-a-part-timer",
+  "splashMessages": ["Welcome to MgRonald's!", "World conquest: after shift.", "The rent is due."],
+  "easterEggs": { "notFound": "Fell through a gate to Ente Isla.", "emptySearch": "No customers. Time to mop.", "idle": "Would you like fries with that?", "logo": "Shift manager, future overlord." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "store", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "utensils", "my-profile": "demon", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "bicycle" },
   "displayName": "The Devil Is a Part-Timer!",

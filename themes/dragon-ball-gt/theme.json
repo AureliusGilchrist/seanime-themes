@@ -1,5 +1,7 @@
 {
   "id": "dragon-ball-gt",
+  "splashMessages": ["Across the galaxy.", "Giru is malfunctioning.", "One year to find them all."],
+  "easterEggs": { "notFound": "Lost on the other side of the galaxy.", "emptySearch": "No Black Star Dragon Balls here.", "idle": "Giru giru…", "logo": "Red fur, golden eyes." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "star", "my-profile": "user", "community": "users", "achievements": "dragon", "watch-together": "user-friends", "settings": "gem" },
   "displayName": "Dragon Ball GT",

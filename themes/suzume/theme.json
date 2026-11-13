@@ -1,5 +1,7 @@
 {
   "id": "suzume",
+  "splashMessages": ["Close the door.", "A chair with three legs runs off.", "Itterasshai."],
+  "easterEggs": { "notFound": "Behind a door that was locked.", "emptySearch": "Only ruins. And a door.", "idle": "A white cat watches from a fence.", "logo": "Okaerinasai." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "key", "search": "search", "schedule": "calendar-alt", "discover": "route", "lists": "key", "my-profile": "user", "community": "users", "achievements": "key", "watch-together": "cat", "settings": "chair" },
   "displayName": "Suzume",

@@ -1,5 +1,7 @@
 {
   "id": "donten-ni-warau",
+  "splashMessages": ["Laugh under the cloudy sky.", "The ferry crosses Lake Biwa.", "The brothers are bickering."],
+  "easterEggs": { "notFound": "Escaped from Gokumonjima.", "emptySearch": "The ferry is empty.", "idle": "Tenka is laughing at the clouds.", "logo": "A cloudy sky." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "cloud", "discover": "water", "lists": "scroll", "my-profile": "user-ninja", "community": "users", "achievements": "dragon", "watch-together": "user-friends", "settings": "spear" },
   "sidebarOverrides": {

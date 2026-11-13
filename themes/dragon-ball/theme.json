@@ -1,5 +1,7 @@
 {
   "id": "dragon-ball",
+  "splashMessages": ["Flying Nimbus, come!", "Turtle-hermit training starts at dawn.", "Seven balls, one wish."],
+  "easterEggs": { "notFound": "Scattered across the world.", "emptySearch": "The radar shows nothing.", "idle": "Goku is hungry.", "logo": "A four-star ball." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "mountain", "search": "radar", "schedule": "calendar-alt", "discover": "map", "lists": "star", "my-profile": "user", "community": "users", "achievements": "dragon", "watch-together": "cloud", "settings": "staff" },
   "sidebarOverrides": {

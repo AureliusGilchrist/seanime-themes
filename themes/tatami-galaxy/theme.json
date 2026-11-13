@@ -1,5 +1,7 @@
 {
   "id": "tatami-galaxy",
+  "splashMessages": ["Choose a different club.", "The rose-coloured campus life awaits.", "Mochiguma."],
+  "easterEggs": { "notFound": "Wrong tatami room. Try another.", "emptySearch": "An endless row of identical rooms.", "idle": "Ozu is grinning like a yokai.", "logo": "Four and a half mats." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "hourglass", "discover": "infinity", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "moon" },
   "displayName": "The Tatami Galaxy",

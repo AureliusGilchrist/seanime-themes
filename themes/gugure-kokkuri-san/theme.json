@@ -1,5 +1,7 @@
 ﻿{
   "id": "gugure-kokkuri-san",
+  "splashMessages": ["Gugure!", "Cup noodles, again?", "The ten-yen coin moves on its own."],
+  "easterEggs": { "notFound": "Google it. Oh wait.", "emptySearch": "Gugure! (Still nothing.)", "idle": "Kokkuri is grumbling about nutrition.", "logo": "A doll-like girl." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "fox", "lists": "utensils", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "fox", "settings": "coins" },
   "sidebarOverrides": {

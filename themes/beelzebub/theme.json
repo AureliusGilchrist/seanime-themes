@@ -1,5 +1,7 @@
 {
   "id": "beelzebub",
+  "splashMessages": ["Dabuh!", "Babysitting the demon lord.", "Ishiyama is rowdy today."],
+  "easterEggs": { "notFound": "Baby Beel threw this page somewhere.", "emptySearch": "No delinquents to fight.", "idle": "Zzz… Baby Beel is asleep.", "logo": "A Zebul Spell." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "list-ol", "my-profile": "demon", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "bolt" },
   "displayName": "Beelzebub",

@@ -1,5 +1,7 @@
 {
   "id": "chainsaw-man",
+  "splashMessages": ["Bread with jam, and a dream.", "Woof.", "Pull the cord."],
+  "easterEggs": { "notFound": "Makima made this page disappear.", "emptySearch": "No devils. Just a dog.", "idle": "Power is bragging again.", "logo": "Woof." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "dog", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "tools" },
   "sidebarOverrides": {

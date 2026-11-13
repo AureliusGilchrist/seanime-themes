@@ -1,5 +1,7 @@
 {
   "id": "saint-seiya",
+  "splashMessages": ["Burn your cosmo!", "Pegasus meteor fist!", "Twelve houses, twelve hours."],
+  "easterEggs": { "notFound": "Lost between the twelve houses.", "emptySearch": "No cosmo detected.", "idle": "The fire clock is burning.", "logo": "Pegasus." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "temple", "search": "star", "schedule": "clock", "discover": "map", "lists": "star", "my-profile": "shield", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "gem" },
   "displayName": "Saint Seiya",

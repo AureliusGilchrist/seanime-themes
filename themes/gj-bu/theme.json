@@ -1,5 +1,7 @@
 ﻿{
   "id": "gj-bu",
+  "splashMessages": ["The club room is cosy.", "Tea and board games.", "Good job!"],
+  "easterEggs": { "notFound": "Someone ate this page.", "emptySearch": "Nothing but snacks.", "idle": "A board game waits on the table.", "logo": "GJ." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "coffee", "settings": "gamepad" },
   "sidebarOverrides": {

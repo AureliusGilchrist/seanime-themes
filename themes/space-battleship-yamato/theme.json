@@ -1,5 +1,7 @@
 {
   "id": "space-battleship-yamato",
+  "splashMessages": ["Wave Motion Gun, charging.", "Iscandar is far away.", "Days until humanity's end: counting."],
+  "easterEggs": { "notFound": "Lost in the Magellanic Clouds.", "emptySearch": "No Gamilas ships in range.", "idle": "Captain Okita stares into space.", "logo": "Yamato." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "hourglass", "discover": "planet", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "anchor" },
   "displayName": "Space Battleship Yamato",

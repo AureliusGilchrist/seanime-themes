@@ -1,5 +1,7 @@
 {
   "id": "cop-craft",
+  "splashMessages": ["San Teresa never sleeps.", "Fairy dust on the evidence.", "A knight in a squad car."],
+  "easterEggs": { "notFound": "Wrong precinct.", "emptySearch": "No leads on the radio.", "idle": "Tilarna is judging the coffee.", "logo": "Badge and blade." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "shield-alt", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "sword" },
   "sidebarOverrides": {

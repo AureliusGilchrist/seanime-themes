@@ -1,5 +1,7 @@
 ﻿{
   "id": "haganai",
+  "splashMessages": ["Practising how to make friends.", "Talking to an air friend.", "Meat is hogging the console."],
+  "easterEggs": { "notFound": "Friends found: 0.", "emptySearch": "Nobody. As usual.", "idle": "Tomo-chan says hi. (She's imaginary.)", "logo": "I don't have many friends." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "gamepad", "my-profile": "user-slash", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "gamepad" },
   "sidebarOverrides": {

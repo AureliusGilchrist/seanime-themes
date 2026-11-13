@@ -1,5 +1,7 @@
 {
   "id": "azumanga-daioh",
+  "splashMessages": ["Oh my gah!", "Chiyo-chan's dad is a cat. Probably.", "Sakaki is petting a kitty."],
+  "easterEggs": { "notFound": "Osaka wandered off with this page.", "emptySearch": "Nothing. Like Tomo's homework.", "idle": "Osaka is thinking about chopsticks.", "logo": "Everyday is a good day." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "umbrella-beach", "lists": "clipboard-list", "my-profile": "user-graduate", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "chalkboard" },
   "sidebarOverrides": {

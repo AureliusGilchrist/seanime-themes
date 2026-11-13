@@ -1,5 +1,7 @@
 {
   "id": "shaman-king",
+  "splashMessages": ["It'll work out somehow.", "Amidamaru is ready.", "Anna has a training plan."],
+  "easterEggs": { "notFound": "It'll work out somehow… just not here.", "emptySearch": "No spirits nearby.", "idle": "Yoh is listening to music with his eyes closed.", "logo": "Orange headphones." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "home", "search": "ghost", "schedule": "calendar-check", "discover": "map", "lists": "ghost", "my-profile": "headphones", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Shaman King",

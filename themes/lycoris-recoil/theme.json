@@ -1,5 +1,7 @@
 {
   "id": "lycoris-recoil",
+  "splashMessages": ["Café LycoReco is open.", "Non-lethal rounds, loaded.", "Sakana~ Chin-anago~"],
+  "easterEggs": { "notFound": "Dodged. Chisato dodges everything.", "emptySearch": "No requests at the café.", "idle": "Takina is practising the fish-and-eel pose.", "logo": "A red spider lily." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "coffee", "search": "crosshairs", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "gun", "community": "users", "achievements": "flower", "watch-together": "coffee", "settings": "gun" },
   "displayName": "Lycoris Recoil",

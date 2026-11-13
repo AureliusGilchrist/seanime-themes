@@ -1,5 +1,7 @@
 {
   "id": "fruits-basket",
+  "splashMessages": ["Rice ball, in the fruits basket.", "Kyo is on the roof.", "Leeks again?"],
+  "easterEggs": { "notFound": "Transformed into a zodiac animal. Poof.", "emptySearch": "Nothing in the basket.", "idle": "A cat dozes in the sun.", "logo": "The zodiac banquet." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "leaf", "lists": "paw", "my-profile": "cat", "community": "users", "achievements": "heart", "watch-together": "utensils", "settings": "flower" },
   "displayName": "Fruits Basket",

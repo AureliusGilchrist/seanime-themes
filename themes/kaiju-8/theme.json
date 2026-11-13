@@ -1,5 +1,7 @@
 {
   "id": "kaiju-8",
+  "splashMessages": ["Fortitude rising.", "Cleaning crew, report.", "Defense Force, deploy."],
+  "easterEggs": { "notFound": "Neutralised.", "emptySearch": "No kaiju signatures.", "idle": "Kafka is snacking on a break.", "logo": "Number eight." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "file-alt", "my-profile": "dragon", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Kaiju No. 8",

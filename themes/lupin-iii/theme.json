@@ -1,5 +1,7 @@
 {
   "id": "lupin-iii",
+  "splashMessages": ["A calling card has been sent.", "The Fiat is fuelled.", "Zenigata is on the case."],
+  "easterEggs": { "notFound": "Lupin stole this page.", "emptySearch": "The vault was empty when we got here.", "idle": "Goemon has cut something insignificant again.", "logo": "Fuuujikoo-chaaan~" },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "gem", "search": "binoculars", "schedule": "calendar-times", "discover": "globe", "lists": "key", "my-profile": "user-secret", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Lupin III",

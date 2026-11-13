@@ -1,5 +1,7 @@
 ﻿{
   "id": "gosick",
+  "splashMessages": ["The fountain of wisdom is bored.", "Reconstructing the chaos…", "Macarons, please."],
+  "easterEggs": { "notFound": "Lost in the library maze.", "emptySearch": "No fragments of chaos.", "idle": "Victorique is puffing on her pipe.", "logo": "Kujo, you're boring." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "search-location", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "crown", "community": "users", "achievements": "puzzle-piece", "watch-together": "cookie", "settings": "book" },
   "sidebarOverrides": {

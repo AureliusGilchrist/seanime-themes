@@ -1,5 +1,7 @@
 {
   "id": "maid-sama",
+  "splashMessages": ["Welcome home, master.", "The council president has a secret.", "Usui is at the window again."],
+  "easterEggs": { "notFound": "Usui saw this page. Now it's gone.", "emptySearch": "No customers at Maid Latte.", "idle": "Perverted space alien, spotted.", "logo": "A maid's headband." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "coffee", "search": "eye", "schedule": "calendar-alt", "discover": "map-pin", "lists": "utensils", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "shield-alt" },
   "displayName": "Maid Sama!",

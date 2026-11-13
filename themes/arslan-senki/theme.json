@@ -1,5 +1,7 @@
 {
   "id": "arslan-senki",
+  "splashMessages": ["Daryun rides at your side.", "Narsus is painting again.", "A king for the people."],
+  "easterEggs": { "notFound": "This land fell to Lusitania.", "emptySearch": "The scouts saw nothing.", "idle": "Azrael circles overhead.", "logo": "The banner of Pars." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "flag", "watch-together": "chess-knight", "settings": "sword" },
   "displayName": "The Heroic Legend of Arslan",

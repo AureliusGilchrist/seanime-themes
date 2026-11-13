@@ -1,5 +1,7 @@
 {
   "id": "tokyo-ghoul-re",
+  "splashMessages": ["Coffee at :re.", "The Quinx squad is cooking.", "Haise is reading a book."],
+  "easterEggs": { "notFound": "Forgotten, like Haise's past.", "emptySearch": "No ghouls in the 20th ward.", "idle": "Someone is tapping a finger.", "logo": ":re." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "coffee", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "mask", "community": "users", "achievements": "skull", "watch-together": "coffee", "settings": "briefcase" },
   "displayName": "Tokyo Ghoul:re",

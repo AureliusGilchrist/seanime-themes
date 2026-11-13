@@ -1,5 +1,7 @@
 {
   "id": "noragami",
+  "splashMessages": ["Five yen and a wish.", "Delivery god, at your service.", "Yukine is grumbling."],
+  "easterEggs": { "notFound": "Forgotten, like a stray god.", "emptySearch": "No requests. Just a phone number on a wall.", "idle": "A tail flicks behind Hiyori.", "logo": "Yato God, quick and affordable." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "scroll", "my-profile": "coins", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Noragami",

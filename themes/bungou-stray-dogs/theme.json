@@ -1,5 +1,7 @@
 {
   "id": "bungou-stray-dogs",
+  "splashMessages": ["Dazai fell into the river again.", "Ranpo solved it already.", "Yokohama's night is long."],
+  "easterEggs": { "notFound": "Nullified. Like Dazai's touch.", "emptySearch": "No abilities detected.", "idle": "A tiger prowls in the moonlight.", "logo": "The Agency's sign is lit." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "tiger", "community": "users", "achievements": "medal", "watch-together": "coffee", "settings": "feather" },
   "sidebarOverrides": {

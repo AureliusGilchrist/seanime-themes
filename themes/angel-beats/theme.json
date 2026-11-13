@@ -1,5 +1,7 @@
 {
   "id": "angel-beats",
+  "splashMessages": ["Operation Tornado is a go.", "Mapo tofu, extra spicy.", "Girls Dead Monster is tuning up."],
+  "easterEggs": { "notFound": "This page passed on to the next life.", "emptySearch": "The school is empty. Too empty.", "idle": "Hand sonic: version 2.", "logo": "My song is going to change the world." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "school", "search": "crosshairs", "schedule": "calendar-alt", "discover": "map", "lists": "music", "my-profile": "user", "community": "users", "achievements": "guitar", "watch-together": "guitar", "settings": "feather" },
   "displayName": "Angel Beats!",

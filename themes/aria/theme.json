@@ -1,5 +1,7 @@
 {
   "id": "aria",
+  "splashMessages": ["Something wonderful today.", "The canals are calm.", "Hahi!"],
+  "easterEggs": { "notFound": "This canal leads nowhere, how wonderful.", "emptySearch": "Embarrassing lines are forbidden!", "idle": "Puipuyu~", "logo": "An oar and a gondola." },
   "playerIconSet": "wave",
   "sidebarIcons": { "landing": "water", "search": "compass", "schedule": "calendar-alt", "discover": "map", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "anchor" },
   "sidebarOverrides": {

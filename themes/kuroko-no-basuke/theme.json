@@ -1,5 +1,7 @@
 {
   "id": "kuroko-no-basuke",
+  "splashMessages": ["Vanishing drive.", "Kuroko was here the whole time.", "The Zone."],
+  "easterEggs": { "notFound": "It was here. You just didn't notice it.", "emptySearch": "Nobody… or is somebody standing right there?", "idle": "Nigou wags his tail.", "logo": "Misdirection." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "basketball", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user-secret", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "whistle" },
   "displayName": "Kuroko's Basketball",

@@ -1,5 +1,7 @@
 {
   "id": "made-in-abyss",
+  "splashMessages": ["The Abyss calls.", "Naa~", "One more layer down."],
+  "easterEggs": { "notFound": "Fell to the next layer.", "emptySearch": "Nothing but the force field.", "idle": "Nanachi: \"Naa…\"", "logo": "A white whistle." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "mountain", "search": "compass", "schedule": "calendar-alt", "discover": "route", "lists": "book-open", "my-profile": "whistle", "community": "users", "achievements": "gem", "watch-together": "campground", "settings": "robot" },
   "sidebarOverrides": {

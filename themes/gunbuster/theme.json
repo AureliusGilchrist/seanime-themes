@@ -1,5 +1,7 @@
 ﻿{
   "id": "gunbuster",
+  "splashMessages": ["Effort and guts!", "Time dilation in effect.", "Inazuma kick!"],
+  "easterEggs": { "notFound": "Ten thousand years too late.", "emptySearch": "Nothing but space monsters' silence.", "idle": "おかえりなさい", "logo": "Aim for the top." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "school", "search": "radar", "schedule": "hourglass", "discover": "planet", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "rocket" },
   "sidebarOverrides": {

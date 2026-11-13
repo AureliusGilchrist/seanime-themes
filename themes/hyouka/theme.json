@@ -1,5 +1,7 @@
 {
   "id": "hyouka",
+  "splashMessages": ["I'm curious!", "If I don't have to do it, I won't.", "The Classics Club, in session."],
+  "easterEggs": { "notFound": "A mystery best left alone. Energy conserved.", "emptySearch": "Nothing here. Chitanda is curious, though.", "idle": "Hōtarō is conserving energy.", "logo": "Ice cream." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "school", "search": "search-location", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "puzzle-piece", "watch-together": "user-friends", "settings": "coffee" },
   "displayName": "Hyouka",

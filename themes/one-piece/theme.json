@@ -1,5 +1,7 @@
 {
   "id": "one-piece",
+  "splashMessages": ["The log pose is pointing somewhere.", "Sanji is cooking.", "Gomu gomu no…"],
+  "easterEggs": { "notFound": "Lost at sea. Zoro was navigating.", "emptySearch": "No treasure here. Keep sailing.", "idle": "Luffy is napping on the figurehead.", "logo": "A straw hat." },
   "playerIconSet": "one-piece",
   "sidebarIcons": { "landing": "anchor", "search": "binoculars", "schedule": "compass", "discover": "island", "lists": "map", "my-profile": "skull-crossbones", "community": "users", "achievements": "coins", "watch-together": "utensils", "settings": "compass" },
   "sidebarOverrides": {

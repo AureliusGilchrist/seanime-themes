@@ -1,5 +1,7 @@
 {
   "id": "urusei-yatsura",
+  "splashMessages": ["Darling!", "Lum is floating overhead.", "Electric shock, incoming."],
+  "easterEggs": { "notFound": "Zapped, -cha.", "emptySearch": "Nothing here, -cha.", "idle": "Ten-chan breathed fire on someone.", "logo": "Tiger stripes." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "ufo", "lists": "users", "my-profile": "user", "community": "users", "achievements": "bolt", "watch-together": "heart", "settings": "bolt" },
   "displayName": "Urusei Yatsura",

@@ -1,5 +1,7 @@
 {
   "id": "slime-isekai",
+  "splashMessages": ["Analysing… (Great Sage)", "Tempest is growing.", "Shion made food. Avoid it."],
+  "easterEggs": { "notFound": "Predated.", "emptySearch": "Answer: no results.", "idle": "Rimuru is bouncing gently.", "logo": "Answer." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "users", "my-profile": "dragon", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "brain" },
   "displayName": "That Time I Got Reincarnated as a Slime",

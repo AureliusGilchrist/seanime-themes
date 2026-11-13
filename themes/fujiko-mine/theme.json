@@ -1,5 +1,7 @@
 ﻿{
   "id": "fujiko-mine",
+  "splashMessages": ["Trust no one. Especially her.", "Owls in the dark.", "The jewel is in the vault."],
+  "easterEggs": { "notFound": "She stole this page.", "emptySearch": "The vault is empty. Hmm.", "idle": "A cigarette smoulders.", "logo": "The woman called Fujiko." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "gem", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "key", "my-profile": "user-secret", "community": "users", "achievements": "gem", "watch-together": "cocktail", "settings": "gun" },
   "sidebarOverrides": {

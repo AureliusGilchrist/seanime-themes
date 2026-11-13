@@ -1,5 +1,7 @@
 {
   "id": "katekyo-hitman-reborn",
+  "splashMessages": ["Dying will flame, ignite.", "Reborn has a lesson.", "Lambo is crying again."],
+  "easterEggs": { "notFound": "Shot with a dying will bullet — still not here.", "emptySearch": "No family members around.", "idle": "Leon is changing shape.", "logo": "Vongola ring." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "gem", "my-profile": "fire", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Katekyo Hitman Reborn!",

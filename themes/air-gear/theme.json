@@ -1,5 +1,7 @@
 {
   "id": "air-gear",
+  "splashMessages": ["Wheels spinning up…", "The sky is the road.", "Trick: tower ollie."],
+  "easterEggs": { "notFound": "Fell off the roof, missed the page.", "emptySearch": "No emblems on this road.", "idle": "Whirr… the wheels are still spinning.", "logo": "Ready for the Parts War." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "building", "search": "binoculars", "schedule": "stopwatch", "discover": "route", "lists": "list-ol", "my-profile": "skating", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "gears" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 ﻿{
   "id": "guyver",
+  "splashMessages": ["Guyver!", "Bio-armour bonding.", "The control medal glows."],
+  "easterEggs": { "notFound": "Absorbed by the unit.", "emptySearch": "No Zoanoids nearby.", "idle": "The armour hums under the skin.", "logo": "A unit from the stars." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "map-signs", "lists": "dna", "my-profile": "robot", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "microchip" },
   "sidebarOverrides": {

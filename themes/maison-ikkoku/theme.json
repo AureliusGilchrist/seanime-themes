@@ -1,5 +1,7 @@
 {
   "id": "maison-ikkoku",
+  "splashMessages": ["The tenants are throwing a party. In room 5.", "Kyoko is sweeping the entrance.", "Soichiro barks."],
+  "easterEggs": { "notFound": "Wrong room. Try 5.", "emptySearch": "Nobody home at Ikkoku-kan.", "idle": "Yotsuya is peeking through the hole in the wall.", "logo": "A boarding house apron." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "cocktail", "settings": "dog" },
   "displayName": "Maison Ikkoku",

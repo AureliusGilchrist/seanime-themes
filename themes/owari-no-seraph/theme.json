@@ -1,5 +1,7 @@
 {
   "id": "owari-no-seraph",
+  "splashMessages": ["Four years since the world ended.", "The cursed gear whispers.", "Family first."],
+  "easterEggs": { "notFound": "Taken to Sanguinem.", "emptySearch": "No vampires… for now.", "idle": "Shinoa is teasing someone.", "logo": "A cursed blade." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "bat", "my-profile": "demon", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "Seraph of the End",

@@ -1,5 +1,7 @@
 {
   "id": "tokyo-ghoul",
+  "splashMessages": ["What's 1000 minus 7?", "Coffee is the only thing that tastes right.", "Anteiku is open."],
+  "easterEggs": { "notFound": "Eaten.", "emptySearch": "No ghouls in sight. Or so it seems.", "idle": "Kaneki is cracking his knuckles.", "logo": "A mask with a zipper." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "coffee", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "book-open", "my-profile": "mask", "community": "users", "achievements": "skull", "watch-together": "coffee", "settings": "briefcase" },
   "sidebarOverrides": {

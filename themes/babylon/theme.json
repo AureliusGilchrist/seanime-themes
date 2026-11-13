@@ -1,5 +1,7 @@
 {
   "id": "babylon",
+  "splashMessages": ["What is good?", "The case widens.", "Shiniki votes tomorrow."],
+  "easterEggs": { "notFound": "This file was redacted.", "emptySearch": "No leads. Keep asking.", "idle": "A woman is on the line.", "logo": "Justice, or something like it." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "briefcase", "community": "users", "achievements": "shield-check", "watch-together": "user-friends", "settings": "chess-board" },
   "sidebarOverrides": {

@@ -1,5 +1,7 @@
 {
   "id": "claymore",
+  "splashMessages": ["Silver eyes in the dark.", "Hunting yoma in the north.", "Raki is cooking dinner."],
+  "easterEggs": { "notFound": "This village was devoured.", "emptySearch": "No yoma aura sensed.", "idle": "The black card waits.", "logo": "A sword with a symbol." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-times", "discover": "map", "lists": "list-ol", "my-profile": "sword", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "shield" },
   "sidebarOverrides": {

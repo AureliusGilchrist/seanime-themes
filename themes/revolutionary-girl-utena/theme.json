@@ -1,5 +1,7 @@
 {
   "id": "revolutionary-girl-utena",
+  "splashMessages": ["Absolute destiny: Apocalypse.", "The rose bride is waiting.", "The power to revolutionise the world."],
+  "easterEggs": { "notFound": "If it cannot break out of its shell, the chick will die.", "emptySearch": "No duellists in the arena.", "idle": "Chu-Chu is eating curry.", "logo": "A rose signet ring." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "rose", "my-profile": "crown", "community": "users", "achievements": "rose", "watch-together": "rose", "settings": "sword" },
   "displayName": "Revolutionary Girl Utena",

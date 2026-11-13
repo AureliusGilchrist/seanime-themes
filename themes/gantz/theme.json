@@ -1,5 +1,7 @@
 {
   "id": "gantz",
+  "splashMessages": ["Your lives have ended.", "Go kill the alien.", "Time remaining: 60:00."],
+  "easterEggs": { "notFound": "Teleported elsewhere.", "emptySearch": "No targets on the radar.", "idle": "The black sphere hums.", "logo": "100 points." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "home", "search": "radar", "schedule": "stopwatch", "discover": "map-signs", "lists": "list-ol", "my-profile": "gun", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "globe" },
   "displayName": "Gantz",

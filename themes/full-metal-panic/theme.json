@@ -1,5 +1,7 @@
 ﻿{
   "id": "full-metal-panic",
+  "splashMessages": ["Affirmative.", "Bonta-kun is on patrol.", "A harisen is coming."],
+  "easterEggs": { "notFound": "Area secured. Page not found.", "emptySearch": "No hostiles. Lowering weapon.", "idle": "Fumoffu.", "logo": "Lambda driver." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "school", "search": "radar", "schedule": "calendar-times", "discover": "globe", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

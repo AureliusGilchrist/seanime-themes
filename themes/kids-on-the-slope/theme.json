@@ -1,5 +1,7 @@
 {
   "id": "kids-on-the-slope",
+  "splashMessages": ["Moanin', on the piano.", "The basement is jumping.", "Up the slope to school."],
+  "easterEggs": { "notFound": "Lost the beat.", "emptySearch": "The record shop is closed.", "idle": "A drum solo, faintly.", "logo": "Moanin'." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-alt", "discover": "map-pin", "lists": "music", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "drum", "settings": "music" },
   "displayName": "Kids on the Slope",

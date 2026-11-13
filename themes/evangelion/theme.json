@@ -1,5 +1,7 @@
 {
   "id": "evangelion",
+  "splashMessages": ["I mustn't run away.", "The umbilical cable is attached.", "Congratulations."],
+  "easterEggs": { "notFound": "This page reached an Instrumentality.", "emptySearch": "Pattern: none. Not an Angel.", "idle": "Shinji is listening to track 25. Again.", "logo": "God's in his heaven." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "globe", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "crosshairs", "watch-together": "headphones", "settings": "dna" },
   "sidebarOverrides": {

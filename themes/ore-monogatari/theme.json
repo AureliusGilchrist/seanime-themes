@@ -1,5 +1,7 @@
 {
   "id": "ore-monogatari",
+  "splashMessages": ["Yamato baked cookies again.", "Sunakawa sees everything.", "Takeo is a gentle giant."],
+  "easterEggs": { "notFound": "Takeo picked it up and carried it away.", "emptySearch": "Nothing. Sunakawa nods knowingly.", "idle": "Takeo is lifting something heavy.", "logo": "My love story!!" },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "cookie", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "cookie" },
   "displayName": "My Love Story!!",

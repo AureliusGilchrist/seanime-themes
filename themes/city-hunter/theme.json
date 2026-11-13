@@ -1,5 +1,7 @@
 {
   "id": "city-hunter",
+  "splashMessages": ["XYZ on the station board.", "Get Wild plays somewhere.", "Kaori's hammer is ready."],
+  "easterEggs": { "notFound": "No XYZ for this one.", "emptySearch": "Nobody at the message board.", "idle": "Mokkori…? (100 t hammer incoming)", "logo": "XYZ." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "crosshairs", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "hammer", "watch-together": "user-friends", "settings": "chalkboard" },
   "displayName": "City Hunter",

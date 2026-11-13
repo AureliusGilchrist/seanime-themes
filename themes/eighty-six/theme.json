@@ -1,5 +1,7 @@
 {
   "id": "eighty-six",
+  "splashMessages": ["Para-RAID linked.", "Red spider lilies bloom.", "Carry them with you."],
+  "easterEggs": { "notFound": "Not on any Republic map.", "emptySearch": "No Legion signals.", "idle": "Someone is reading names aloud.", "logo": "A headless skeleton emblem." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "flag", "search": "radar", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "tombstone", "my-profile": "user-ninja", "community": "users", "achievements": "medal", "watch-together": "headphones", "settings": "tank" },
   "sidebarOverrides": {

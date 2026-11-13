@@ -1,5 +1,7 @@
 {
   "id": "whisper-of-the-heart",
+  "splashMessages": ["Country roads, take me home.", "The Baron is waiting in the shop.", "A library card with the same name."],
+  "easterEggs": { "notFound": "Followed a cat and got lost.", "emptySearch": "No books checked out.", "idle": "A cat rides the train.", "logo": "The Baron." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "store", "search": "book-open", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "pencil", "community": "users", "achievements": "cat", "watch-together": "music", "settings": "pencil" },
   "displayName": "Whisper of the Heart",

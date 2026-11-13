@@ -1,5 +1,7 @@
 {
   "id": "lovely-complex",
+  "splashMessages": ["All Hanshin Kyojin.", "Umibozu is on tour.", "Height doesn't matter. Probably."],
+  "easterEggs": { "notFound": "Too short to reach this page.", "emptySearch": "Nothing here but bickering.", "idle": "An Umibozu song plays.", "logo": "Lovely complex." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "music", "my-profile": "ruler", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "microphone" },
   "displayName": "Lovely Complex",

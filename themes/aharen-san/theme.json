@@ -1,5 +1,7 @@
 {
   "id": "aharen-san",
+  "splashMessages": ["Measuring the right distance…", "Raidou is overthinking again.", "Too close? Too far?"],
+  "easterEggs": { "notFound": "This page is just out of reach.", "emptySearch": "Nothing here. Raidou has a theory, though.", "idle": "…(tiny voice)…", "logo": "Exactly the right distance." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "school", "search": "ruler", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "user-friends", "achievements": "star", "watch-together": "heart", "settings": "puzzle-piece" },
   "sidebarOverrides": {

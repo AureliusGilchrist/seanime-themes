@@ -1,5 +1,7 @@
 {
   "id": "cross-game",
+  "splashMessages": ["Four-leaf clover in summer.", "160 km/h, someday.", "Clover café is open."],
+  "easterEggs": { "notFound": "Foul ball.", "emptySearch": "An empty batting cage.", "idle": "A batting machine thuds in the distance.", "logo": "A dream for Wakaba." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "home", "search": "binoculars", "schedule": "calendar-check", "discover": "map-pin", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "sidebarOverrides": {

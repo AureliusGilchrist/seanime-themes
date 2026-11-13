@@ -1,5 +1,7 @@
 {
   "id": "wolf-rain",
+  "splashMessages": ["Follow the scent of lunar flowers.", "Paradise is somewhere.", "The pack moves on."],
+  "easterEggs": { "notFound": "Lost in the snow.", "emptySearch": "No wolves in the city.", "idle": "A lunar flower blooms.", "logo": "Paradise." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "snowflake", "search": "paw", "schedule": "moon", "discover": "route", "lists": "flower", "my-profile": "wolf-head", "community": "users", "achievements": "moon", "watch-together": "campground", "settings": "flower" },
   "displayName": "Wolf's Rain",

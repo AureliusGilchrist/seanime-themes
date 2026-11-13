@@ -1,5 +1,7 @@
 {
   "id": "borgman",
+  "splashMessages": ["Megapolis, 2030.", "Sonic armour, engage.", "Class is in session."],
+  "easterEggs": { "notFound": "This sector is under Youma control.", "emptySearch": "No Youma in range.", "idle": "Sonic waves, faintly humming.", "logo": "Sonic Soldier." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-alt", "discover": "map-marked-alt", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "microchip" },
   "sidebarOverrides": {

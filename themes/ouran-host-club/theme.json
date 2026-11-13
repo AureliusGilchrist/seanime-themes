@@ -1,5 +1,7 @@
 {
   "id": "ouran-host-club",
+  "splashMessages": ["Welcome.", "Commoner's coffee, instant.", "Tamaki is sulking in the corner."],
+  "easterEggs": { "notFound": "This vase cost eight million yen.", "emptySearch": "No guests in Music Room #3.", "idle": "Tamaki is growing mushrooms in the corner.", "logo": "Music Room #3." },
   "playerIconSet": "petal",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "rose", "my-profile": "user", "community": "users", "achievements": "rose", "watch-together": "coffee", "settings": "crown" },
   "displayName": "Ouran High School Host Club",

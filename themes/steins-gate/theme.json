@@ -1,5 +1,7 @@
 {
   "id": "steins-gate",
+  "splashMessages": ["El Psy Kongroo.", "Tutturu~", "The divergence meter reads 1.048596."],
+  "easterEggs": { "notFound": "World line shifted. Page doesn't exist here.", "emptySearch": "The Organisation erased it.", "idle": "Mayuri is making costumes.", "logo": "This is the choice of Steins Gate." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "flask", "search": "search", "schedule": "clock", "discover": "globe", "lists": "list-ol", "my-profile": "user-graduate", "community": "users", "achievements": "infinity", "watch-together": "microchip", "settings": "microchip" },
   "sidebarOverrides": {

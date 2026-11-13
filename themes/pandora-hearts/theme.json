@@ -1,5 +1,7 @@
 {
   "id": "pandora-hearts",
+  "splashMessages": ["The pocket watch plays Lacie.", "Break is eating candy.", "The Abyss is calling."],
+  "easterEggs": { "notFound": "Fell into the Abyss.", "emptySearch": "No chains here.", "idle": "Lacie plays from a pocket watch.", "logo": "A rabbit, black." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "clock", "discover": "key", "lists": "book-open", "my-profile": "crown", "community": "users", "achievements": "rose", "watch-together": "coffee", "settings": "clock" },
   "displayName": "Pandora Hearts",

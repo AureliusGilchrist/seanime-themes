@@ -1,5 +1,7 @@
 {
   "id": "omniscient-reader",
+  "splashMessages": ["The scenario begins.", "Coins: insufficient.", "I am the only reader."],
+  "easterEggs": { "notFound": "This chapter was never published.", "emptySearch": "No constellations are watching.", "idle": "A Dokkaebi is giggling.", "logo": "Three ways to survive." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "book-open", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "coins" },
   "displayName": "Omniscient Reader's Viewpoint",

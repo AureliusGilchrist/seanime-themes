@@ -1,5 +1,7 @@
 {
   "id": "princess-mononoke",
+  "splashMessages": ["See with eyes unclouded by hate.", "The kodama rattle their heads.", "Iron Town's forges burn."],
+  "easterEggs": { "notFound": "Lost in the ancient forest.", "emptySearch": "Only the kodama, watching.", "idle": "*rattle rattle*", "logo": "A spirit's mask." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "tree", "search": "eye", "schedule": "moon", "discover": "map", "lists": "scroll", "my-profile": "wolf-head", "community": "users", "achievements": "leaf", "watch-together": "user-friends", "settings": "bow-arrow" },
   "sidebarOverrides": {

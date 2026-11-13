@@ -1,5 +1,7 @@
 {
   "id": "kengan-ashura",
+  "splashMessages": ["The annihilation tournament begins.", "Niko style, flowing.", "Businesses fight with fists here."],
+  "easterEggs": { "notFound": "Lost in the arena's lower floors.", "emptySearch": "No fighters left.", "idle": "Advance — a technique stirring.", "logo": "Kengan Association." },
   "playerIconSet": "gear",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "briefcase" },
   "displayName": "Kengan Ashura",

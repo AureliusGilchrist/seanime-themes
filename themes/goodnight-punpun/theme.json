@@ -1,5 +1,7 @@
 {
   "id": "goodnight-punpun",
+  "splashMessages": ["Dear God…", "Tinkle tinkle hoy.", "The stars are pretty tonight."],
+  "easterEggs": { "notFound": "Punpun drifted somewhere else.", "emptySearch": "Nothing here. Goodnight.", "idle": "Dear God, dear God, tinkle tinkle hoy.", "logo": "A simple bird." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "book-open", "my-profile": "feather", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "moon" },
   "displayName": "Goodnight Punpun",

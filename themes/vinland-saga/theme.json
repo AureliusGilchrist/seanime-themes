@@ -1,5 +1,7 @@
 {
   "id": "vinland-saga",
+  "splashMessages": ["You have no enemies.", "A land far to the west.", "The farm needs clearing."],
+  "easterEggs": { "notFound": "Washed out to sea.", "emptySearch": "No raiders on the horizon.", "idle": "Someone is chopping wood on the farm.", "logo": "A true warrior needs no sword." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "anchor", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "dagger", "community": "users", "achievements": "crown", "watch-together": "campground", "settings": "leaf" },
   "sidebarOverrides": {

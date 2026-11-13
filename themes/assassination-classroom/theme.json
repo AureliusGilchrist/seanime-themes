@@ -1,5 +1,7 @@
 {
   "id": "assassination-classroom",
+  "splashMessages": ["Nurufufufu…", "Homework graded at Mach 20.", "The moon is a crescent now."],
+  "easterEggs": { "notFound": "Missed. Again.", "emptySearch": "Not a single weak point found.", "idle": "Sensei went to Hawaii for a snack.", "logo": "Kill me if you can." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "school", "search": "crosshairs", "schedule": "calendar-times", "discover": "tree", "lists": "clipboard-check", "my-profile": "graduation-cap", "community": "users", "achievements": "bullseye", "watch-together": "user-friends", "settings": "dagger" },
   "sidebarOverrides": {

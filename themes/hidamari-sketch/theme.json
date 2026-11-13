@@ -1,5 +1,7 @@
 {
   "id": "hidamari-sketch",
+  "splashMessages": ["Room 201 has the lights on.", "Hot pot at Hidamari Apartments.", "Yuno is in the bath, thinking."],
+  "easterEggs": { "notFound": "Erased with a kneaded eraser.", "emptySearch": "A blank sketchbook page.", "idle": "Someone is humming in the bath.", "logo": "Sunny-place sketch." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "palette", "my-profile": "palette-brush", "community": "users", "achievements": "star", "watch-together": "utensils", "settings": "pencil" },
   "displayName": "Hidamari Sketch",

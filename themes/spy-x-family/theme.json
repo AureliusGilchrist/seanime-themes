@@ -1,5 +1,7 @@
 {
   "id": "spy-x-family",
+  "splashMessages": ["Waku waku!", "Operation Strix continues.", "Peanuts, please."],
+  "easterEggs": { "notFound": "Classified. Even from Loid.", "emptySearch": "No secrets found. (Anya knows, though.)", "idle": "Bond is having a vision.", "logo": "Heh." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "home", "search": "user-secret", "schedule": "calendar-check", "discover": "map-signs", "lists": "file-alt", "my-profile": "user-secret", "community": "users", "achievements": "star", "watch-together": "dog", "settings": "key" },
   "sidebarOverrides": {

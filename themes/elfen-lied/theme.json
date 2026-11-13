@@ -1,5 +1,7 @@
 {
   "id": "elfen-lied",
+  "splashMessages": ["A music box plays.", "Nyu?", "Lilium…"],
+  "easterEggs": { "notFound": "Lost in the waves.", "emptySearch": "Only the sound of the sea.", "idle": "A music box tune, faintly.", "logo": "Nyu." },
   "playerIconSet": "thorn",
   "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "water", "lists": "file-medical", "my-profile": "user-slash", "community": "users", "achievements": "music", "watch-together": "heart", "settings": "syringe" },
   "displayName": "Elfen Lied",

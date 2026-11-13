@@ -1,5 +1,7 @@
 ﻿{
   "id": "eyeshield-21",
+  "splashMessages": ["YA-HA!", "4.2 seconds on the 40.", "Hiruma has a notebook on everyone."],
+  "easterEggs": { "notFound": "Fumbled out of bounds.", "emptySearch": "No players on the field. Kekeke.", "idle": "Cerberus is growling.", "logo": "Devil Bat Ghost." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "flag", "search": "binoculars", "schedule": "calendar-check", "discover": "route", "lists": "clipboard-list", "my-profile": "running", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "gun" },
   "sidebarOverrides": {

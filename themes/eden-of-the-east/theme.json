@@ -1,5 +1,7 @@
 {
   "id": "eden-of-the-east",
+  "splashMessages": ["Noblesse oblige.", "Juiz, accept my request.", "Ten billion yen to save the country."],
+  "easterEggs": { "notFound": "Memory wiped. Page too.", "emptySearch": "Juiz has no results.", "idle": "Standing naked in front of the White House…", "logo": "A phone with ten billion yen." },
   "playerIconSet": "hud",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-times", "discover": "globe", "lists": "list-ol", "my-profile": "user-secret", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "network" },
   "sidebarOverrides": {

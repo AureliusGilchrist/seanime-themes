@@ -1,5 +1,7 @@
 {
   "id": "mob-psycho-100",
+  "splashMessages": ["Emotions: 34%.", "Reigen has a special move.", "The Body Improvement Club is jogging."],
+  "easterEggs": { "notFound": "Salt-splashed out of existence.", "emptySearch": "No spirits here. Reigen still charges full price.", "idle": "Dimple is hovering nearby.", "logo": "???%" },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "building", "search": "ghost", "schedule": "calendar-alt", "discover": "map-signs", "lists": "clipboard-list", "my-profile": "brain", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "chart-line" },
   "sidebarOverrides": {

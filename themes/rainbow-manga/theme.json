@@ -1,5 +1,7 @@
 {
   "id": "rainbow-manga",
+  "splashMessages": ["Seven in cell six.", "Anchan says: keep going.", "A harmonica plays at night."],
+  "easterEggs": { "notFound": "Lost after release.", "emptySearch": "Only the cell walls.", "idle": "A harmonica, softly.", "logo": "Seven colours." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "users", "my-profile": "user", "community": "users", "achievements": "rainbow", "watch-together": "user-friends", "settings": "music" },
   "displayName": "Rainbow: Nisha Rokubou no Shichinin",

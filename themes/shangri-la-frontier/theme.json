@@ -1,5 +1,7 @@
 {
   "id": "shangri-la-frontier",
+  "splashMessages": ["A god-tier game, finally.", "Bird-mask equipped.", "Unique monster encountered."],
+  "easterEggs": { "notFound": "Ran into a bug. Shame it's not a trash game.", "emptySearch": "No monsters spawned here.", "idle": "Emul is waiting in Rabituza.", "logo": "Sunraku's mask." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "gamepad", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "list-ol", "my-profile": "user-ninja", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "gamepad" },
   "displayName": "Shangri-La Frontier",

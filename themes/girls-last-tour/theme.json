@@ -1,5 +1,7 @@
 ﻿{
   "id": "girls-last-tour",
+  "splashMessages": ["The Kettenkrad rattles on.", "Rain on a helmet sounds like music.", "Another level up."],
+  "easterEggs": { "notFound": "Lost in the old city.", "emptySearch": "Nothing left to scavenge.", "idle": "Plink, plonk… rain on the pipes.", "logo": "Two girls and a machine." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "tank", "search": "binoculars", "schedule": "calendar-alt", "discover": "route", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "star", "watch-together": "user-friends", "settings": "camera" },
   "sidebarOverrides": {

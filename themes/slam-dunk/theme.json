@@ -1,5 +1,7 @@
 {
   "id": "slam-dunk",
+  "splashMessages": ["Rebounds win games.", "The genius has arrived.", "Coach, I want to play basketball."],
+  "easterEggs": { "notFound": "Rejected. By the rim.", "emptySearch": "No one in the gym. Practice your layup.", "idle": "Sakuragi is practising 20,000 shots.", "logo": "Tensai." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "basketball", "search": "binoculars", "schedule": "calendar-check", "discover": "map-signs", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "whistle" },
   "sidebarOverrides": {

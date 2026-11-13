@@ -1,5 +1,7 @@
 {
   "id": "inuyasha",
+  "splashMessages": ["Sit, boy!", "I sense a jewel shard.", "Ramen from the future."],
+  "easterEggs": { "notFound": "Fell down the well. Wrong era.", "emptySearch": "No shards nearby.", "idle": "Shippo is drawing with crayons.", "logo": "Tessaiga." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "moon", "discover": "map", "lists": "gem", "my-profile": "dog", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "sword" },
   "sidebarOverrides": {

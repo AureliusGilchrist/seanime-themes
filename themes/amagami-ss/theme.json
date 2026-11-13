@@ -1,5 +1,7 @@
 {
   "id": "amagami-ss",
+  "splashMessages": ["Christmas Eve is coming.", "This time, it'll go right.", "A treasure in the closet."],
+  "easterEggs": { "notFound": "Stood up again, two years running.", "emptySearch": "No one here on Christmas Eve.", "idle": "Hiding in the closet, are we?", "logo": "A gentle bite." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "snowflake", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "heart", "watch-together": "heart", "settings": "gift" },
   "sidebarOverrides": {

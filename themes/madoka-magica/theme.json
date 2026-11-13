@@ -1,5 +1,7 @@
 {
   "id": "madoka-magica",
+  "splashMessages": ["Make a contract with me!", "Mami is making tea.", "A soul gem dims."],
+  "easterEggs": { "notFound": "Rewritten by a wish.", "emptySearch": "No witches' kisses here.", "idle": "／人◕ ‿‿ ◕人＼", "logo": "A soul gem." },
   "playerIconSet": "rune",
   "sidebarIcons": { "landing": "school", "search": "gem", "schedule": "calendar-times", "discover": "spider-web", "lists": "gem", "my-profile": "wand-sparkles", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "hourglass" },
   "displayName": "Puella Magi Madoka Magica",

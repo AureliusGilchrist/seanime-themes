@@ -1,5 +1,7 @@
 {
   "id": "shikimori",
+  "splashMessages": ["Cute mode, then cool mode.", "Izumi's luck is bad today.", "She'll protect him."],
+  "easterEggs": { "notFound": "Izumi's bad luck struck again.", "emptySearch": "Nothing here. Shikimori checked twice.", "idle": "Shikimori is looking cool for no reason.", "logo": "Not just a cutie." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "shield-alt", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "flower" },
   "displayName": "Shikimori's Not Just a Cutie",

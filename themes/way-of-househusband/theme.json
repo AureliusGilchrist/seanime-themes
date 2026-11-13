@@ -1,5 +1,7 @@
 {
   "id": "way-of-househusband",
+  "splashMessages": ["Sale at the supermarket. Move.", "A bento with a cute bear.", "The Immortal Dragon is vacuuming."],
+  "easterEggs": { "notFound": "Thrown out with the recycling.", "emptySearch": "Nothing in the cupboards.", "idle": "Gin the cat is judging you.", "logo": "An apron with a shiba." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "store", "lists": "utensils", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "utensils" },
   "displayName": "The Way of the Househusband",

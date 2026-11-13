@@ -1,5 +1,7 @@
 {
   "id": "galaxy-express-999",
+  "splashMessages": ["Next stop, somewhere among the stars.", "Maetel smiles faintly.", "The pass is valid forever."],
+  "easterEggs": { "notFound": "This planet isn't on the line.", "emptySearch": "An empty carriage.", "idle": "The train whistle echoes through space.", "logo": "Three-nine." },
   "playerIconSet": "star",
   "sidebarIcons": { "landing": "planet", "search": "satellite", "schedule": "clock", "discover": "route", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "key" },
   "displayName": "Galaxy Express 999",

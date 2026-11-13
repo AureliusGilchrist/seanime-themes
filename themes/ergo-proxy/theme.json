@@ -1,5 +1,7 @@
 ﻿{
   "id": "ergo-proxy",
+  "splashMessages": ["Cogito ergo sum.", "Pino wants to play.", "The dome is quiet."],
+  "easterEggs": { "notFound": "Outside the dome.", "emptySearch": "Awakened… to nothing.", "idle": "Pino is drawing.", "logo": "Proxy One." },
   "playerIconSet": "moon",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "route", "lists": "file-alt", "my-profile": "mask", "community": "users", "achievements": "robot", "watch-together": "robot", "settings": "microchip" },
   "sidebarOverrides": {

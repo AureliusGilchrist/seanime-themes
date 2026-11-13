@@ -1,5 +1,7 @@
 ﻿{
   "id": "freezing",
+  "splashMessages": ["Freezing field, active.", "The Untouchable Queen.", "Accel turn."],
+  "easterEggs": { "notFound": "Caught in a Nova clash.", "emptySearch": "No Novas detected.", "idle": "Stigmata glowing faintly.", "logo": "Pandora and Limiter." },
   "playerIconSet": "blade",
   "sidebarIcons": { "landing": "school", "search": "radar", "schedule": "calendar-times", "discover": "globe", "lists": "list-ol", "my-profile": "shield", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "snowflake" },
   "sidebarOverrides": {

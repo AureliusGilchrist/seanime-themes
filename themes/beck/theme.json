@@ -1,5 +1,7 @@
 {
   "id": "beck",
+  "splashMessages": ["Tuning up…", "There are bullet holes in this guitar.", "Beck the dog is barking."],
+  "easterEggs": { "notFound": "Off the setlist.", "emptySearch": "No records in the bin.", "idle": "Humming something in Koyuki's key.", "logo": "Mongolian Chop Squad." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "guitar", "search": "headphones", "schedule": "calendar-check", "discover": "globe", "lists": "music", "my-profile": "user", "community": "users", "achievements": "microphone", "watch-together": "drum", "settings": "dog" },
   "sidebarOverrides": {

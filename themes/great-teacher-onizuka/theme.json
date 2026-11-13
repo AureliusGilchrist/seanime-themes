@@ -1,5 +1,7 @@
 {
   "id": "great-teacher-onizuka",
+  "splashMessages": ["Twenty-two, ex-biker, teacher.", "Class 3-4 set a trap again.", "Onizuka is crawling through the vents."],
+  "easterEggs": { "notFound": "Smashed through the wall to get here. Still nothing.", "emptySearch": "No students in the room.", "idle": "Someone is hanging upside down outside the window.", "logo": "GTO." },
   "playerIconSet": "bolt",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-signs", "lists": "clipboard-list", "my-profile": "graduation-cap", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "hammer" },
   "displayName": "Great Teacher Onizuka",

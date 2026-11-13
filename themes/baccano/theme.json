@@ -1,5 +1,7 @@
 {
   "id": "baccano",
+  "splashMessages": ["All aboard the Flying Pussyfoot.", "The story has no single beginning.", "Isaac and Miria are robbing the moon."],
+  "easterEggs": { "notFound": "Told out of order, as usual.", "emptySearch": "Nobody on the train. Suspicious.", "idle": "Somewhere, a train whistle.", "logo": "Ruckus!" },
   "sidebarOverrides": {
     "landing": { "label": "Flying Pussyfoot" },
     "search": { "label": "Daily Days Inquiry" },

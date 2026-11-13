@@ -1,5 +1,7 @@
 {
   "id": "blue-period",
+  "splashMessages": ["Shibuya at dawn looks blue.", "Another sketch before the exam.", "Paint what you actually see."],
+  "easterEggs": { "notFound": "Painted over.", "emptySearch": "A blank canvas.", "idle": "The smell of oil paint…", "logo": "A brush dipped in blue." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "palette", "search": "eye", "schedule": "calendar-check", "discover": "building", "lists": "book-open", "my-profile": "palette-brush", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "pencil" },
   "sidebarOverrides": {

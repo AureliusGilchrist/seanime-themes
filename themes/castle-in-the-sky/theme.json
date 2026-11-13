@@ -1,5 +1,7 @@
 {
   "id": "castle-in-the-sky",
+  "splashMessages": ["The crystal is glowing.", "Pazu's trumpet greets the morning.", "Look up — a castle in the clouds."],
+  "easterEggs": { "notFound": "Lost in the dragon's nest.", "emptySearch": "Only clouds out there.", "idle": "A robot tends the garden.", "logo": "A stone that lets you float." },
   "playerIconSet": "leaf",
   "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "cloud", "lists": "book-open", "my-profile": "gem", "community": "users", "achievements": "crown", "watch-together": "helicopter", "settings": "robot" },
   "displayName": "Castle in the Sky",

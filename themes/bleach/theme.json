@@ -1,5 +1,7 @@
 {
   "id": "bleach",
+  "splashMessages": ["A Hell Butterfly lands on your shoulder.", "Urahara's shop is open. Probably.", "The sky over Karakura is cracking."],
+  "easterEggs": { "notFound": "This soul wandered off before Konso.", "emptySearch": "Not even a trace of reiatsu.", "idle": "Is that… Kon, hiding in the closet?", "logo": "Getsuga…" },
   "playerIconSet": "bleach",
   "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map-marked-alt", "lists": "scroll", "my-profile": "skull", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "katana" },
   "sidebarOverrides": {

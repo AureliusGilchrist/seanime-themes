@@ -1,5 +1,7 @@
 {
   "id": "school-rumble",
+  "splashMessages": ["Tenma has antennae.", "Harima is drawing manga.", "Curry rice, again."],
+  "easterEggs": { "notFound": "Delivered to the wrong person.", "emptySearch": "No letter in the shoe locker.", "idle": "Harima is talking to an animal.", "logo": "Next time, I'll confess." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "School Rumble",

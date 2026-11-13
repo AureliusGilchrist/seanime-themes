@@ -1,5 +1,7 @@
 {
   "id": "hells-paradise",
+  "splashMessages": ["Find the elixir.", "The flowers here are beautiful. Too beautiful.", "Balance the Tao."],
+  "easterEggs": { "notFound": "Bloomed into a flower.", "emptySearch": "No elixir here.", "idle": "Petals fall on the shore.", "logo": "Gabimaru the Hollow." },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "island", "search": "eye", "schedule": "calendar-times", "discover": "flower", "lists": "scroll", "my-profile": "user-ninja", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "katana" },
   "sidebarOverrides": {

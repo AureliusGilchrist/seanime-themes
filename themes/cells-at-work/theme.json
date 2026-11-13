@@ -1,5 +1,7 @@
 {
   "id": "cells-at-work",
+  "splashMessages": ["Oxygen delivery in progress.", "Platelets, assemble!", "Lost again, AE3803?"],
+  "easterEggs": { "notFound": "This vessel took a wrong turn at the heart.", "emptySearch": "No antigens found. The body is healthy.", "idle": "Hai~ (the platelets are waving)", "logo": "A red cap." },
   "playerIconSet": "bubble",
   "sidebarIcons": { "landing": "heart", "search": "microscope", "schedule": "calendar-check", "discover": "route", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "dna" },
   "sidebarOverrides": {

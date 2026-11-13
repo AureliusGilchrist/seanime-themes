@@ -1,5 +1,7 @@
 {
   "id": "domestic-girlfriend",
+  "splashMessages": ["A new chapter, written tonight.", "Family dinner at seven.", "The literature club meets."],
+  "easterEggs": { "notFound": "This chapter was rewritten.", "emptySearch": "A blank manuscript.", "idle": "Pen scratches on paper.", "logo": "A novelist's notebook." },
   "playerIconSet": "heart",
   "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "pencil", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "coffee" },
   "displayName": "Domestic Girlfriend",

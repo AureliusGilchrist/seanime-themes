@@ -1,5 +1,7 @@
 {
   "id": "fire-force",
+  "splashMessages": ["Latom.", "A devil's footprint, igniting.", "Company 8 is mobilising."],
+  "easterEggs": { "notFound": "Burned to ash. Latom.", "emptySearch": "No Infernals sighted.", "idle": "Shinra is grinning nervously.", "logo": "Hero of Company 8." },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "fire", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "fire-flame-curved" },
   "displayName": "Fire Force",

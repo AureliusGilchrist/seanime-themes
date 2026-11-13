@@ -1,5 +1,7 @@
 {
   "id": "no-game-no-life",
+  "splashMessages": ["Aschente.", "『　』never loses.", "Disboard welcomes you."],
+  "easterEggs": { "notFound": "Lost the bet. Lost the page.", "emptySearch": "No opponents. How dull.", "idle": "Shiro is asleep on Sora's lap.", "logo": "Blank." },
   "playerIconSet": "pixel",
   "sidebarIcons": { "landing": "chess-board", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "chess-knight", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "gamepad", "settings": "dice" },
   "displayName": "No Game No Life",

@@ -1,5 +1,7 @@
 ﻿{
   "id": "golden-kamuy",
+  "splashMessages": ["Hinna hinna.", "Osoma.", "Chitatap, chitatap…"],
+  "easterEggs": { "notFound": "Lost in the Hokkaido snow.", "emptySearch": "No tattooed skins here.", "idle": "Asirpa makes a face at the miso.", "logo": "I'm Sugimoto the Immortal!" },
   "playerIconSet": "brush",
   "sidebarIcons": { "landing": "mountain", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "map-marked-alt", "my-profile": "user", "community": "users", "achievements": "coins", "watch-together": "utensils", "settings": "gun" },
   "sidebarOverrides": {

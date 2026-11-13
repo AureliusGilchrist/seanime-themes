@@ -1,5 +1,7 @@
 ﻿{
   "id": "food-wars",
+  "splashMessages": ["Order up!", "A Shokugeki has been called.", "Gochisousama desu."],
+  "easterEggs": { "notFound": "This dish was sent back.", "emptySearch": "An empty plate.", "idle": "Something is sizzling in the pan.", "logo": "Okawari!" },
   "playerIconSet": "flame",
   "sidebarIcons": { "landing": "utensils", "search": "search", "schedule": "calendar-check", "discover": "globe", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "utensils", "settings": "fire" },
   "sidebarOverrides": {
