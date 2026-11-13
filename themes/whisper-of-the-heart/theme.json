@@ -1,5 +1,7 @@
 {
   "id": "whisper-of-the-heart",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "store", "search": "book-open", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "pencil", "community": "users", "achievements": "cat", "watch-together": "music", "settings": "pencil" },
   "displayName": "Whisper of the Heart",
   "description": "Bookworm Shizuku keeps finding books that were checked out by someone named Seiji Amasawa — then they meet, and discover they share the same dreams of becoming creators.",
   "fontFamily": "'Merriweather', serif",
@@ -922,6 +924,12 @@
     "1000": "Whisper of the Heart"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Earth Shop Antiques" },
+    "news": { "label": "Library Cards" },
+    "to-watch": { "label": "Books to Borrow" },
+    "download-tools": { "label": "Violin Workshop" },
+    "my-profile": { "label": "Shizuku" },
+    "watch-together": { "label": "Country Roads Jam" },
     "home": {
       "label": "Cozy Library"
     },

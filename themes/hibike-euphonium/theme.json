@@ -1,5 +1,7 @@
 {
   "id": "hibike-euphonium",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-check", "discover": "mountain", "lists": "music", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "drum" },
   "displayName": "Sound! Euphonium",
   "description": "First-year student Kumiko Oumae reluctantly joins her high school concert band after an awkward middle school incident, but as the demanding conductor pushes the ensemble toward nationals, she rediscovers her passion for music.",
   "fontFamily": "'Noto Serif JP', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Musical"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kitauji Music Room" },
+    "news": { "label": "Band Notices" },
+    "to-watch": { "label": "Pieces to Practise" },
+    "download-tools": { "label": "Instrument Storage" },
+    "my-profile": { "label": "Euphonium" },
+    "watch-together": { "label": "Climb Mt. Daikichi" },
     "home": {
       "label": "Kitauji Band"
     },

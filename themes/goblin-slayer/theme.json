@@ -1,5 +1,7 @@
 {
   "id": "goblin-slayer",
+  "playerIconSet": "blade",
+  "sidebarIcons": { "landing": "campground", "search": "eye", "schedule": "calendar-times", "discover": "map", "lists": "scroll", "my-profile": "shield", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "dagger" },
   "displayName": "Goblin Slayer",
   "description": "A seasoned adventurer slays goblins — and only goblins — with ruthless efficiency. No quest too small, no goblin left alive. This is not glory, this is purpose.",
   "fontFamily": "",
@@ -873,6 +875,12 @@
     "1000": "Goblin Slayer"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Frontier Guild" },
+    "news": { "label": "Guild Girl's Notices" },
+    "to-watch": { "label": "Goblin Quests" },
+    "download-tools": { "label": "Workshop" },
+    "my-profile": { "label": "Silver Rank" },
+    "watch-together": { "label": "The Party" },
     "home": {
       "label": "Guild Hall"
     },

@@ -1,5 +1,7 @@
 {
   "id": "saint-seiya",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "temple", "search": "star", "schedule": "clock", "discover": "map", "lists": "star", "my-profile": "shield", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "gem" },
   "displayName": "Saint Seiya",
   "description": "The Bronze Saints fight for the goddess Athena in divine armor forged from the stars — their Cosmo burns to absolute zero and then beyond, smashing the speed of light.",
   "fontFamily": "'Cinzel Decorative', cursive",
@@ -924,6 +926,12 @@
     "1000": "Eternal Saint"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Sanctuary" },
+    "news": { "label": "Athena's Decree" },
+    "to-watch": { "label": "Twelve Houses" },
+    "download-tools": { "label": "Cloth Box" },
+    "my-profile": { "label": "Bronze Saint" },
+    "watch-together": { "label": "Burn Your Cosmo" },
     "home": {
       "label": "Sanctuary",
       "icon": "temple"

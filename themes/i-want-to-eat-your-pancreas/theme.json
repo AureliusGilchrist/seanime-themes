@@ -1,5 +1,7 @@
 {
   "id": "i-want-to-eat-your-pancreas",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "book-open", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "flower", "watch-together": "heart", "settings": "pencil" },
   "displayName": "I Want to Eat Your Pancreas",
   "description": "A lonely, bookish boy accidentally discovers his popular classmate Sakura's diary — revealing she is secretly dying of a pancreatic disease. He becomes her only confidant, and the two form an unexpected bond.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Bittersweet"
   },
   "sidebarOverrides": {
+    "landing": { "label": "School Library" },
+    "news": { "label": "Classmate Rumours" },
+    "to-watch": { "label": "Bucket List" },
+    "download-tools": { "label": "Living with Dying" },
+    "my-profile": { "label": "Classmate Who Knows" },
+    "watch-together": { "label": "Trip to Fukuoka" },
     "home": {
       "label": "Sakura"
     },

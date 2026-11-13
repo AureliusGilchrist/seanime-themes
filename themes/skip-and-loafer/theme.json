@@ -1,5 +1,7 @@
 {
   "id": "skip-and-loafer",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "pencil" },
   "displayName": "Skip and Loafer",
   "description": "Optimistic small-town girl Mitsumi Iwakura moves to Tokyo to chase her ambitious life plan, and through a stumble on her first day of high school she befriends the effortlessly popular Sousuke Shima, beginning a warm coming-of-age story.",
   "fontFamily": "'Kosugi Maru', sans-serif",
@@ -923,6 +925,12 @@
     "1000": "Life's Beautiful Story"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Tsubame Nishi High" },
+    "news": { "label": "Class Notices" },
+    "to-watch": { "label": "Mitsumi's Life Plan" },
+    "download-tools": { "label": "Pencil Case" },
+    "my-profile": { "label": "Mitsumi" },
+    "watch-together": { "label": "After-School Hangout" },
     "home": {
       "label": "Mitsumi",
       "icon": "user-graduate"

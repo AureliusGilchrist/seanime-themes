@@ -1,5 +1,7 @@
 {
   "id": "nagi-no-asukara",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "water", "search": "search", "schedule": "snowflake", "discover": "wave", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "anchor" },
   "displayName": "Nagi-Asu: A Lull in the Sea",
   "description": "Sea people Hikari and friends are forced to attend school on land when their underwater school closes. Torn between two worlds, they navigate first loves and an ancient conflict as winter threatens to swallow them all.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Shioshishio" },
+    "news": { "label": "Sea God's Will" },
+    "to-watch": { "label": "Ofunehiki Festival" },
+    "download-tools": { "label": "Ena Skin" },
+    "my-profile": { "label": "Sea Dweller" },
+    "watch-together": { "label": "Ofunehiki Preparations" },
     "home": {
       "label": "Shioshishio"
     },

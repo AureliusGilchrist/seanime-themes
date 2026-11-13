@@ -1,5 +1,7 @@
 {
   "id": "lupin-iii",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "gem", "search": "binoculars", "schedule": "calendar-times", "discover": "globe", "lists": "key", "my-profile": "user-secret", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Lupin III",
   "description": "Gentleman thief vibes. Globe-trotting heists with Jigen, Goemon, Fujiko, and Inspector Zenigata always one step behind.",
   "fontFamily": "'Rubik', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Lupin's Hideout" },
+    "news": { "label": "Zenigata's Wanted Posters" },
+    "to-watch": { "label": "Calling Cards" },
+    "download-tools": { "label": "Fiat 500 Boot" },
+    "my-profile": { "label": "Gentleman Thief" },
+    "watch-together": { "label": "The Gang" },
     "home": {
       "label": "Lupin"
     },

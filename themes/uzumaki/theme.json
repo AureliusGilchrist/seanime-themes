@@ -1,5 +1,7 @@
 {
   "id": "uzumaki",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "wave", "lists": "book-dead", "my-profile": "user-slash", "community": "users", "achievements": "infinity", "watch-together": "user-friends", "settings": "infinity" },
   "displayName": "Uzumaki",
   "description": "The spiral curse of Kurôzu-cho consumes all. Kirie, Shuichi, snail people, the lighthouse, and Junji Ito's spiraling horror made manifest.",
   "fontFamily": "'Nosifer', cursive",
@@ -922,6 +924,12 @@
     "1000": "Uzumaki"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kurouzu-cho" },
+    "news": { "label": "Spiral Sightings" },
+    "to-watch": { "label": "Spirals to Avoid" },
+    "download-tools": { "label": "Pottery Kiln" },
+    "my-profile": { "label": "Kirie" },
+    "watch-together": { "label": "Kirie & Shuichi" },
     "home": {
       "label": "Kurôzu-cho"
     },

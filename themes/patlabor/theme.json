@@ -1,5 +1,7 @@
 {
   "id": "patlabor",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-alt", "discover": "map-marked-alt", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Patlabor",
   "description": "In a near-future Tokyo, giant construction robots called Labors have become commonplace — and so has Labor crime. The Special Vehicles Section 2 polices them with their own police Labors.",
   "fontFamily": "'Rajdhani', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Special Vehicles Section 2" },
+    "news": { "label": "Labor Crime Reports" },
+    "to-watch": { "label": "Dispatches" },
+    "download-tools": { "label": "Maintenance Hangar" },
+    "my-profile": { "label": "Ingram Pilot" },
+    "watch-together": { "label": "Division 2 Crew" },
     "home": {
       "label": "SV2 HQ"
     },

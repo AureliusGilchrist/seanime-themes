@@ -1,5 +1,7 @@
 {
   "id": "infinite-stratos",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "school", "search": "radar", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "microchip" },
   "displayName": "Infinite Stratos",
   "description": "IS battle suits can only be piloted by women — except Ichika Orimura, the first and only male pilot. He enrolls in the IS Academy as the sole boy in an all-female school, surrounded by representatives from every nation.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Combat"
   },
   "sidebarOverrides": {
+    "landing": { "label": "IS Academy" },
+    "news": { "label": "Academy Announcements" },
+    "to-watch": { "label": "Class League Matches" },
+    "download-tools": { "label": "IS Hangar" },
+    "my-profile": { "label": "Only Male Pilot" },
+    "watch-together": { "label": "Byakushiki Squad" },
     "home": {
       "label": "IS Academy"
     },

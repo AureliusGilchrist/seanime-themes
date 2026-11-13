@@ -1,5 +1,7 @@
 {
   "id": "kingdom",
+  "playerIconSet": "blade",
+  "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "flag", "my-profile": "sword", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "chess-knight" },
   "displayName": "Kingdom",
   "description": "Forge your path to Great General. Warring States command interface with Qin army discipline, battlefield strategy, and the dream of unification under heaven.",
   "fontFamily": "'Noto Serif SC', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kanyou Palace" },
+    "news": { "label": "War Reports" },
+    "to-watch": { "label": "Campaigns" },
+    "download-tools": { "label": "Armoury" },
+    "my-profile": { "label": "Great General Hopeful" },
+    "watch-together": { "label": "Hi Shin Unit" },
     "home": {
       "label": "Royal Court"
     },

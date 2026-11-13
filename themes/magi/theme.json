@@ -1,5 +1,7 @@
 {
   "id": "magi",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "staff", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "key" },
   "displayName": "Magi: The Labyrinth of Magic",
   "description": "In a world of dungeons containing ancient treasures, young Magi Aladdin and wanderer Alibaba set out to capture the dungeon Amon — and are drawn into a grand conflict over the fate of the world.",
   "fontFamily": "'Cinzel', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Sindria" },
+    "news": { "label": "Kou Empire Edicts" },
+    "to-watch": { "label": "Dungeons to Conquer" },
+    "download-tools": { "label": "Metal Vessels" },
+    "my-profile": { "label": "Magi" },
+    "watch-together": { "label": "Aladdin, Alibaba & Morgiana" },
     "home": {
       "label": "Dungeon Gate"
     },

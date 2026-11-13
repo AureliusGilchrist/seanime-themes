@@ -1,5 +1,7 @@
 {
   "id": "yuri-on-ice",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "snowflake", "search": "search", "schedule": "calendar-check", "discover": "globe", "lists": "music", "my-profile": "skating", "community": "users", "achievements": "medal", "watch-together": "heart", "settings": "skating" },
   "displayName": "Yuri!!! on ICE",
   "description": "After a humiliating defeat, figure skater Yuri Katsuki finds himself coached by his idol Victor Nikiforov. On the ice, they carve a story of love, rivalry, and transcendent performance.",
   "fontFamily": "",
@@ -924,6 +926,12 @@
     "1000": "Yuri on Ice Master"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ice Castle Hasetsu" },
+    "news": { "label": "Skating Federation News" },
+    "to-watch": { "label": "Grand Prix Series" },
+    "download-tools": { "label": "Skate Blades" },
+    "my-profile": { "label": "Yuuri Katsuki" },
+    "watch-together": { "label": "Katsudon Celebration" },
     "home": {
       "label": "Ice Rink",
       "icon": "skating"

@@ -1,5 +1,7 @@
 {
   "id": "mirai-nikki",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "eye", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "book-skull", "my-profile": "user", "community": "users", "achievements": "crown", "watch-together": "heart", "settings": "dagger" },
   "displayName": "Mirai Nikki",
   "description": "The survival game begins. Wield your future diary, outwit the other holders, and claim the throne of Deus Ex Machina — if Yuno lets you.",
   "fontFamily": "'Caveat', cursive",
@@ -873,6 +875,12 @@
     "1000": "Future Diary"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Deus's Domain" },
+    "news": { "label": "Future Diary Entries" },
+    "to-watch": { "label": "Survival Game" },
+    "download-tools": { "label": "Diary Phone" },
+    "my-profile": { "label": "Diary Holder" },
+    "watch-together": { "label": "Yuki & Yuno" },
     "home": {
       "label": "Yukiteru"
     },

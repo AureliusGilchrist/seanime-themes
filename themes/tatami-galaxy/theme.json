@@ -1,5 +1,7 @@
 {
   "id": "tatami-galaxy",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "hourglass", "discover": "infinity", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "moon" },
   "displayName": "The Tatami Galaxy",
   "description": "A nameless college student relives his two-year college experience across parallel realities, each time joining a different club — desperately seeking the 'rose-colored campus life' he keeps squandering.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Four-and-a-Half Tatami Mat Room" },
+    "news": { "label": "Ozu's Schemes" },
+    "to-watch": { "label": "Rose-Coloured Campus Life" },
+    "download-tools": { "label": "Mochiguma Keychain" },
+    "my-profile": { "label": "Watashi" },
+    "watch-together": { "label": "Cat Ramen Stall" },
     "home": {
       "label": "Tatami Room"
     },

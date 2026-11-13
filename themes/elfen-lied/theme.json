@@ -1,5 +1,7 @@
 {
   "id": "elfen-lied",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "water", "lists": "file-medical", "my-profile": "user-slash", "community": "users", "achievements": "music", "watch-together": "heart", "settings": "syringe" },
   "displayName": "Elfen Lied",
   "description": "Lilium echoes through shattered silence. Diclonius vectors carve the dark, horns crowned in tragedy, as Lucy and Nyu drift between innocence and annihilation.",
   "fontFamily": "'Crimson Text', serif",
@@ -873,6 +875,12 @@
     "1000": "Elfen Lied"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Maple House" },
+    "news": { "label": "Research Facility Leaks" },
+    "to-watch": { "label": "Diclonius Files" },
+    "download-tools": { "label": "Vector Lab" },
+    "my-profile": { "label": "Nyu" },
+    "watch-together": { "label": "Music Box" },
     "home": {
       "label": "Maple House"
     },

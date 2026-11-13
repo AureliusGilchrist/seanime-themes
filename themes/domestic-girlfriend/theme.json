@@ -1,5 +1,7 @@
 {
   "id": "domestic-girlfriend",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "pencil", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "coffee" },
   "displayName": "Domestic Girlfriend",
   "description": "Natsuo's teacher and stepsister both have complicated connections to him. Mature romantic drama.",
   "fontFamily": "'Inter', sans-serif",
@@ -156,6 +158,12 @@
     "1000": "Domestic Girlfriend Eternal Master"
   },
   "sidebarOverrides": {
+    "landing": { "label": "The Family Home" },
+    "news": { "label": "Literature Club Notes" },
+    "to-watch": { "label": "Novel Drafts" },
+    "download-tools": { "label": "Writer's Desk" },
+    "my-profile": { "label": "Natsuo" },
+    "watch-together": { "label": "Family Dinner" },
     "home": {
       "label": "Home",
       "icon": "home"

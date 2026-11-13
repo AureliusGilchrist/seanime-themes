@@ -1,5 +1,7 @@
 {
   "id": "blade-of-the-immortal",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "scroll", "my-profile": "infinity", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Blade of the Immortal",
   "description": "A blood-soaked path of vengeance. Manji's cursed immortality, Rin's quest for revenge, and the Itto-ryu's ruthless ambition stain this interface in crimson.",
   "fontFamily": "'Noto Serif JP', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Immortal Stillness"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Edo Outskirts" },
+    "news": { "label": "Itto-ryu Movements" },
+    "to-watch": { "label": "Thousand Evil Men" },
+    "download-tools": { "label": "Manji's Arsenal" },
+    "my-profile": { "label": "The Immortal" },
+    "watch-together": { "label": "Rin's Escort" },
     "home": {
       "label": "Ronin"
     },

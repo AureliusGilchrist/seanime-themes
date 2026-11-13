@@ -1,5 +1,7 @@
 {
   "id": "metallic-rouge",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "planet", "search": "radar", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "crosshairs", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "Metallic Rouge",
   "description": "On a terraformed Mars, Rouge Redstar hunts down rogue artificial humans called Neans who have inherited the godlike power of the Numina codes. A stylish neo-noir sci-fi thriller pulsing with chrome and crimson.",
   "fontFamily": "'Rajdhani', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Mars Colony" },
+    "news": { "label": "Usurper Reports" },
+    "to-watch": { "label": "Immortal Nine Targets" },
+    "download-tools": { "label": "Nectar Supply" },
+    "my-profile": { "label": "Rouge" },
+    "watch-together": { "label": "Rouge & Naomi" },
     "home": {
       "label": "Rouge"
     },

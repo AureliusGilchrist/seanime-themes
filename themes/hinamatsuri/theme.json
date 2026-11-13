@@ -1,5 +1,7 @@
 {
   "id": "hinamatsuri",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "cocktail", "settings": "egg" },
   "displayName": "Hinamatsuri",
   "description": "Yakuza member Nitta finds a girl named Hina with psychic powers literally falling into his home. He grudgingly raises her as her adoptive father while navigating the chaos of her powers and her school life.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Nitta's Apartment" },
+    "news": { "label": "Yakuza Grapevine" },
+    "to-watch": { "label": "Hina's Demands" },
+    "download-tools": { "label": "Vase Collection" },
+    "my-profile": { "label": "Hina" },
+    "watch-together": { "label": "Little Bar Utako" },
     "home": {
       "label": "Nitta"
     },

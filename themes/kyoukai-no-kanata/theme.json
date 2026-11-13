@@ -1,5 +1,7 @@
 {
   "id": "kyoukai-no-kanata",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "gem", "my-profile": "user", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "glasses" },
   "displayName": "Beyond the Boundary",
   "description": "Akihito Kanbara is immortal and half-youmu. He encounters Mirai, a Spirit World Warrior who can manipulate her blood as a sword. Their unlikely pairing pulls them both into a dark conspiracy that threatens everything.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Literary Club Room" },
+    "news": { "label": "Spirit World Warriors" },
+    "to-watch": { "label": "Youmu to Hunt" },
+    "download-tools": { "label": "Blood Sword Kit" },
+    "my-profile": { "label": "Half-Youmu" },
+    "watch-together": { "label": "Akihito & Mirai" },
     "home": {
       "label": "Spirit World"
     },

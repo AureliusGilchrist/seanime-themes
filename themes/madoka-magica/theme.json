@@ -1,5 +1,7 @@
 {
   "id": "madoka-magica",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "school", "search": "gem", "schedule": "calendar-times", "discover": "spider-web", "lists": "gem", "my-profile": "wand-sparkles", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "hourglass" },
   "displayName": "Puella Magi Madoka Magica",
   "description": "Middle schooler Madoka Kaname is offered a single wish by the alien creature Kyubey — in exchange for becoming a magical girl. But the truth behind the wish is far darker than she imagined.",
   "fontFamily": "'Josefin Sans', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Connect"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Mitakihara City" },
+    "news": { "label": "Kyubey's Offers" },
+    "to-watch": { "label": "Witches' Labyrinths" },
+    "download-tools": { "label": "Grief Seeds" },
+    "my-profile": { "label": "Magical Girl" },
+    "watch-together": { "label": "Tea at Mami's" },
     "home": {
       "label": "Mitakihara"
     },

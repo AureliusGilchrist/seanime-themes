@@ -1,5 +1,7 @@
 {
   "id": "world-god-only-knows",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "gamepad", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "gamepad" },
   "displayName": "The World God Only Knows",
   "description": "Keima Katsuragi is the God of Conquest in galge games — and is contractually forced to conquer real girls to drive out demons hidden in their hearts. The only problem: real girls don't follow game logic.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "The World God Only Knows"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Maijima Academy" },
+    "news": { "label": "Hell's Runaway Spirit Alerts" },
+    "to-watch": { "label": "Routes to Conquer" },
+    "download-tools": { "label": "PFP Collection" },
+    "my-profile": { "label": "God of Conquest" },
+    "watch-together": { "label": "Keima & Elsie" },
     "home": {
       "label": "Capture HQ"
     },

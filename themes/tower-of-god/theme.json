@@ -1,5 +1,7 @@
 {
   "id": "tower-of-god",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "key" },
   "displayName": "Tower of God",
   "description": "Enter as an Irregular. Shinsu-infused interface forged through Tower tests, Ranker ambition, and Bam's unwavering ascent toward the summit.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Tower of God"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Floor of Test" },
+    "news": { "label": "Tower Rankers' Notices" },
+    "to-watch": { "label": "Tests to Pass" },
+    "download-tools": { "label": "Pocket Inventory" },
+    "my-profile": { "label": "Irregular" },
+    "watch-together": { "label": "Team Sweet & Sour" },
     "home": {
       "label": "Tower Entrance"
     },

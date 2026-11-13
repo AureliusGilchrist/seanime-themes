@@ -1,5 +1,7 @@
 {
   "id": "soul-eater",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "skull", "my-profile": "skull", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "Soul Eater",
   "description": "At the Death Weapon Meister Academy, meisters and their weapon partners train to fight evil souls. Maka and Soul Eater aim to make Soul a Death Scythe by collecting 99 evil souls and one witch soul.",
   "fontFamily": "'Permanent Marker', cursive",
@@ -951,6 +953,12 @@
     "1000": "Soul Eater"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Death Weapon Meister Academy" },
+    "news": { "label": "Lord Death's Mirror" },
+    "to-watch": { "label": "Kishin Eggs to Hunt" },
+    "download-tools": { "label": "Stein's Lab" },
+    "my-profile": { "label": "Meister" },
+    "watch-together": { "label": "Soul Resonance" },
     "home": {
       "label": "DWMA",
       "icon": "school"

@@ -1,5 +1,7 @@
 {
   "id": "hellsing",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "file-alt", "my-profile": "bat", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Hellsing",
   "description": "The bird of Hermes is my name. Crimson-soaked interface channeling Alucard, the Hellsing Organization, and the eternal war against the undead.",
   "fontFamily": "'Pirata One', cursive",
@@ -873,6 +875,12 @@
     "1000": "Hellsing"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Hellsing Manor" },
+    "news": { "label": "Round Table Conference" },
+    "to-watch": { "label": "Ghoul Outbreaks" },
+    "download-tools": { "label": "Walter's Armoury" },
+    "my-profile": { "label": "No Life King" },
+    "watch-together": { "label": "Integra's Orders" },
     "home": {
       "label": "Hellsing Manor"
     },

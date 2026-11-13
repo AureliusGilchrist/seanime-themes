@@ -1,5 +1,7 @@
 {
   "id": "kill-la-kill",
+  "playerIconSet": "blade",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "tshirt", "my-profile": "tshirt", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "Kill la Kill",
   "description": "Ryuko Matoi transfers to Honnoji Academy seeking her father's killer, wielding a half-scissor blade and a sentient uniform called Senketsu — together they fight the tyrannical student council president Satsuki and uncover the truth of Life Fibers.",
   "fontFamily": "'Black Han Sans', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Kill la Kill"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Honnouji Academy" },
+    "news": { "label": "Elite Four Decrees" },
+    "to-watch": { "label": "Goku Uniforms to Beat" },
+    "download-tools": { "label": "Scissor Blade" },
+    "my-profile": { "label": "Ryuko" },
+    "watch-together": { "label": "Mako's Croquettes" },
     "home": {
       "label": "Honnoji"
     },

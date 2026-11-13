@@ -1,5 +1,7 @@
 {
   "id": "parasyte",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "dna", "my-profile": "user", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "brain" },
   "displayName": "Parasyte",
   "description": "What is it to be human? Shinichi and Migi — one body, two minds — face alien parasites reshaping humanity from within.",
   "fontFamily": "'Share Tech Mono', monospace",
@@ -924,6 +926,12 @@
     "1000": "Parasyte Supreme"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Shinichi's Room" },
+    "news": { "label": "Mincemeat Murders" },
+    "to-watch": { "label": "Parasites Nearby" },
+    "download-tools": { "label": "Migi's Research" },
+    "my-profile": { "label": "Shinichi & Migi" },
+    "watch-together": { "label": "Migi's Night Watch" },
     "home": {
       "label": "Izumi",
       "icon": "user"

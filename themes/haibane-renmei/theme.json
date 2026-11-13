@@ -1,5 +1,7 @@
 {
   "id": "haibane-renmei",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "home", "search": "feather", "schedule": "calendar-alt", "discover": "tree", "lists": "book-open", "my-profile": "feather", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "bell" },
   "displayName": "Haibane Renmei",
   "description": "Rakka is born from a cocoon as a haibane — a being with small grey wings and a halo, living in a walled town with no memory of a past life. A quiet, spiritual story about guilt, forgiveness, and the day of flight.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Quiet"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Old Home" },
+    "news": { "label": "Renmei Notices" },
+    "to-watch": { "label": "Day of Flight" },
+    "download-tools": { "label": "Haibane Notebook" },
+    "my-profile": { "label": "Rakka" },
+    "watch-together": { "label": "Old Home Dinner" },
     "home": {
       "label": "Old Home"
     },

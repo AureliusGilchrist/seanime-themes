@@ -1,5 +1,7 @@
 {
   "id": "eureka-seven",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "cloud", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "flower", "watch-together": "heart", "settings": "compass" },
   "displayName": "Eureka Seven",
   "description": "Teenage Renton Thurston joins the renegade group Gekkostate on the surfing robot LFO Nirvash to fight against the military, inspired by the mysterious pilot Eureka.",
   "fontFamily": "'Raleway', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Planet"
   },
   "sidebarOverrides": {
+    "landing": { "label": "The Gekko" },
+    "news": { "label": "ray=out Magazine" },
+    "to-watch": { "label": "Trapar Waves to Ride" },
+    "download-tools": { "label": "Nirvash Hangar" },
+    "my-profile": { "label": "Renton" },
+    "watch-together": { "label": "Gekkostate" },
     "home": {
       "label": "Gekkostate"
     },

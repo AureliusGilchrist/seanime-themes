@@ -1,5 +1,7 @@
 {
   "id": "fire-force",
+  "playerIconSet": "flame",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "fire", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "fire-flame-curved" },
   "displayName": "Fire Force",
   "description": "Devil's Footprints alight. Shinra Kusakabe walks into the inferno to save humanity from the Infernals and uncover the truth of Adolla.",
   "fontFamily": "'Bebas Neue', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Heat"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Special Fire Force Company 8" },
+    "news": { "label": "Holy Sol Temple Notices" },
+    "to-watch": { "label": "Infernals to Lay to Rest" },
+    "download-tools": { "label": "Vulcan's Workshop" },
+    "my-profile": { "label": "Devil's Footprints" },
+    "watch-together": { "label": "Company 8 Squad" },
     "home": {
       "label": "Company 8 HQ"
     },

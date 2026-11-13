@@ -1,5 +1,7 @@
 {
   "id": "your-lie-in-april",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-alt", "discover": "flower", "lists": "music", "my-profile": "music", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "music" },
   "displayName": "Your Lie in April",
   "description": "Piano prodigy Kousei Arima lost his ability to hear music after his mother's death, until free-spirited violinist Kaori Miyazono crashes into his life and drags him back into the colorful world of music and emotion.",
   "fontFamily": "'Playfair Display', serif",
@@ -873,6 +875,12 @@
     "1000": "Your Lie in April"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Concert Hall" },
+    "news": { "label": "Competition Results" },
+    "to-watch": { "label": "Pieces to Perform" },
+    "download-tools": { "label": "Grand Piano" },
+    "my-profile": { "label": "Kousei" },
+    "watch-together": { "label": "Duet with Kaori" },
     "home": {
       "label": "Music World"
     },

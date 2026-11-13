@@ -1,5 +1,7 @@
 {
   "id": "bocchi-the-rock",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "guitar", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "music", "my-profile": "user-slash", "community": "users", "achievements": "star", "watch-together": "drum", "settings": "headphones" },
   "displayName": "Bocchi the Rock!",
   "description": "From hikikomori to guitar hero. Kessoku Band's hot-pink energy bursts across every stage, with Bocchi's heart-pounding solos and STARRY's spotlight lighting the way.",
   "fontFamily": "'Fredoka One', cursive",
@@ -873,6 +875,12 @@
     "1000": "Rock Legend"
   },
   "sidebarOverrides": {
+    "landing": { "label": "STARRY Live House" },
+    "news": { "label": "Guitarhero's Uploads" },
+    "to-watch": { "label": "Setlist" },
+    "download-tools": { "label": "Mango Box Hideout" },
+    "my-profile": { "label": "Bocchi" },
+    "watch-together": { "label": "Kessoku Band" },
     "home": {
       "label": "STARRY Home Stage"
     },

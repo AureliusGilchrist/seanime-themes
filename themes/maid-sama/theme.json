@@ -1,5 +1,7 @@
 {
   "id": "maid-sama",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "coffee", "search": "eye", "schedule": "calendar-alt", "discover": "map-pin", "lists": "utensils", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "shield-alt" },
   "displayName": "Maid Sama!",
   "description": "Misaki Ayuzawa is the strict student council president of a formerly all-boys school — hiding her secret part-time job at a maid café. When cool Usui Takumi discovers her secret, a charming rivalry blooms.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Seika High" },
+    "news": { "label": "Council President's Orders" },
+    "to-watch": { "label": "Secret Shifts" },
+    "download-tools": { "label": "Maid Uniform" },
+    "my-profile": { "label": "Misaki" },
+    "watch-together": { "label": "Usui's Visit" },
     "home": {
       "label": "Maid Latte"
     },

@@ -1,5 +1,7 @@
 {
   "id": "kenichi",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "scroll", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Kenichi: The Mightiest Disciple",
   "description": "Kenichi Shirahama is a weak boy constantly bullied — until he trains under six eccentric world-class masters at Ryouzanpaku Dojo. Through brutal training and real battles, he becomes the mightiest disciple.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ryozanpaku Dojo" },
+    "news": { "label": "Ragnarok Rumours" },
+    "to-watch": { "label": "Hellish Training" },
+    "download-tools": { "label": "Training Equipment" },
+    "my-profile": { "label": "Mightiest Disciple" },
+    "watch-together": { "label": "Masters' Dinner" },
     "home": {
       "label": "Ryouzanpaku"
     },

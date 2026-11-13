@@ -1,5 +1,7 @@
 {
   "id": "plastic-memories",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "hourglass", "discover": "map-pin", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "microchip" },
   "displayName": "Plastic Memories",
   "description": "In a future where androids called Giftias live among humans, Tsukasa works to retrieve them before their memories expire. Partnered with Giftia Isla, he learns that limited time only deepens love.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Terminal Service One" },
+    "news": { "label": "SAI Corp Notices" },
+    "to-watch": { "label": "Giftia Retrievals" },
+    "download-tools": { "label": "Retrieval Kit" },
+    "my-profile": { "label": "Tsukasa" },
+    "watch-together": { "label": "Ferris Wheel Ride" },
     "home": {
       "label": "Isla"
     },

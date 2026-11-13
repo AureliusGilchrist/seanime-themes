@@ -1,5 +1,7 @@
 {
   "id": "mushoku-tensei",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "staff", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "wand-magic" },
   "displayName": "Mushoku Tensei",
   "description": "Jobless Reincarnation. Magic classes and deep worldbuilding. Earth brown & gold.",
   "fontFamily": "'Lora', serif",
@@ -873,6 +875,12 @@
     "1000": "Mushoku Tensei"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Buena Village" },
+    "news": { "label": "Adventurer Guild Board" },
+    "to-watch": { "label": "Journey Home" },
+    "download-tools": { "label": "Magic Staff Workshop" },
+    "my-profile": { "label": "Rudeus" },
+    "watch-together": { "label": "Dead End Party" },
     "home": {
       "label": "Rudo"
     },

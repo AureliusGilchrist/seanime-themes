@@ -1,5 +1,7 @@
 {
   "id": "macross",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "music", "my-profile": "rocket", "community": "users", "achievements": "microphone", "watch-together": "music", "settings": "satellite" },
   "displayName": "Macross",
   "description": "Giant alien war machines, transforming fighter jets, and idols whose songs reshape the battlefield — Macross is where love songs and dogfights collide across the stars.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "SDF-1 Macross" },
+    "news": { "label": "Minmay Broadcast" },
+    "to-watch": { "label": "Sorties" },
+    "download-tools": { "label": "Valkyrie Hangar" },
+    "my-profile": { "label": "Valkyrie Pilot" },
+    "watch-together": { "label": "Do You Remember Love?" },
     "home": {
       "label": "SDF-1 Macross"
     },

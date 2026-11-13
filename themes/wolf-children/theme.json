@@ -1,5 +1,7 @@
 {
   "id": "wolf-children",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "home", "search": "paw", "schedule": "calendar-alt", "discover": "tree", "lists": "book-open", "my-profile": "wolf-head", "community": "users", "achievements": "leaf", "watch-together": "heart", "settings": "leaf" },
   "displayName": "Wolf Children",
   "description": "A college student falls in love with a wolf-man and bears two children — Ame and Yuki — who can transform between human and wolf form. After their father's death, she raises them alone in the mountains.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Wolf Children"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Countryside Farmhouse" },
+    "news": { "label": "Village Neighbours" },
+    "to-watch": { "label": "Garden Chores" },
+    "download-tools": { "label": "Vegetable Patch" },
+    "my-profile": { "label": "Hana" },
+    "watch-together": { "label": "Snow Day Run" },
     "home": {
       "label": "Mountain Home"
     },

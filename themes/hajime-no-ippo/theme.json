@@ -1,5 +1,7 @@
 {
   "id": "hajime-no-ippo",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Hajime no Ippo",
   "description": "Makunouchi Ippo builds his strength from a bullied fisherman's son to Japan's featherweight champion. Every punch is fueled by dedication, heart, and the desire to know what it means to be strong.",
   "fontFamily": "'Bebas Neue', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kamogawa Gym" },
+    "news": { "label": "Boxing Magazine" },
+    "to-watch": { "label": "Title Bouts" },
+    "download-tools": { "label": "Heavy Bag" },
+    "my-profile": { "label": "Ippo Makunouchi" },
+    "watch-together": { "label": "Ringside with Takamura" },
     "home": {
       "label": "Kamogawa Gym"
     },

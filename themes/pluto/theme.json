@@ -1,5 +1,7 @@
 {
   "id": "pluto",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "building", "search": "search-location", "schedule": "calendar-times", "discover": "globe", "lists": "file-alt", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "Pluto",
   "description": "The world's greatest robots are being destroyed one by one. Steel-blue Europol investigation interface channeling Gesicht's pursuit of truth, the hatred that binds, and the fragile line between machine logic and human heart.",
   "fontFamily": "'IBM Plex Sans', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Europol Office" },
+    "news": { "label": "Robot Law News" },
+    "to-watch": { "label": "Murder Cases" },
+    "download-tools": { "label": "Tenma's Lab" },
+    "my-profile": { "label": "Gesicht" },
+    "watch-together": { "label": "Atom & Uran" },
     "home": {
       "label": "Central Hub"
     },

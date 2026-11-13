@@ -1,5 +1,7 @@
 {
   "id": "nana",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-signs", "lists": "music", "my-profile": "microphone", "community": "users", "achievements": "star", "watch-together": "guitar", "settings": "guitar" },
   "displayName": "NANA",
   "description": "Two Nanas, one destiny. Punk rock attitude meets bittersweet romance in the neon-lit streets of Tokyo, powered by BLAST and Trapnest.",
   "fontFamily": "'Rock Salt', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Apartment 707" },
+    "news": { "label": "Trapnest Tabloids" },
+    "to-watch": { "label": "Black Stones Gigs" },
+    "download-tools": { "label": "Strawberry Glasses" },
+    "my-profile": { "label": "Nana" },
+    "watch-together": { "label": "Two Nanas" },
     "home": {
       "label": "Apartment 707"
     },

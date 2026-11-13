@@ -1,5 +1,7 @@
 {
   "id": "ping-pong-animation",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Ping Pong the Animation",
   "description": "Childhood friends Smile and Peco play table tennis together — one with innate talent he refuses to use, the other with passion that outpaces his skill. Their journeys intersect with rivals who reshape what winning means.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Tamura Table Tennis Dojo" },
+    "news": { "label": "Inter-High Bulletin" },
+    "to-watch": { "label": "Matches to Play" },
+    "download-tools": { "label": "Paddle & Rubber" },
+    "my-profile": { "label": "Smile" },
+    "watch-together": { "label": "The Hero Appears" },
     "home": {
       "label": "Katase Club"
     },

@@ -1,5 +1,7 @@
 {
   "id": "the-eminence-in-shadow",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "users", "my-profile": "mask", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "The Eminence in Shadow",
   "description": "Reincarnated as Cid Kagenou, a boy obsessed with becoming an all-powerful shadowy mastermind, he creates a fictional organisation called Shadow Garden — only to discover it's fighting a real ancient evil.",
   "fontFamily": "'Cinzel', serif",
@@ -923,6 +925,12 @@
     "1000": "Eminence Supreme"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Shadow Garden" },
+    "news": { "label": "Cult of Diablos Intel" },
+    "to-watch": { "label": "Mob Character Duties" },
+    "download-tools": { "label": "Slime Bodysuit" },
+    "my-profile": { "label": "Shadow" },
+    "watch-together": { "label": "The Seven Shadows" },
     "home": {
       "label": "Shadow Garden HQ",
       "icon": "user-ninja"

@@ -1,5 +1,7 @@
 {
   "id": "overlord",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "skull", "my-profile": "skull", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "staff" },
   "displayName": "Overlord",
   "description": "Momonga's unmatched supremacy. Dark overlord black & bone gold.",
   "fontFamily": "'Cinzel', serif",
@@ -873,6 +875,12 @@
     "1000": "Ainz Ooal Gown"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Great Tomb of Nazarick" },
+    "news": { "label": "Floor Guardian Reports" },
+    "to-watch": { "label": "World Conquest Plans" },
+    "download-tools": { "label": "Treasury" },
+    "my-profile": { "label": "Ainz Ooal Gown" },
+    "watch-together": { "label": "Throne Room Audience" },
     "home": {
       "label": "Nazarick"
     },

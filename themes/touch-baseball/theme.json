@@ -1,5 +1,7 @@
 {
   "id": "touch-baseball",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "home", "search": "binoculars", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "stopwatch" },
   "displayName": "Touch",
   "description": "Twins Tatsuya and Kazuya Uesugi are next-door neighbors with Minami, the girl they both love. Kazuya dreams of taking Minami to Koshien — until tragedy forces Tatsuya to carry that dream in his brother's place.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Touch"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Asakura Café" },
+    "news": { "label": "Meisei Baseball News" },
+    "to-watch": { "label": "Road to Koshien" },
+    "download-tools": { "label": "Pitcher's Mound" },
+    "my-profile": { "label": "Tatsuya" },
+    "watch-together": { "label": "Minami's Cheer" },
     "home": {
       "label": "Neighborhood"
     },

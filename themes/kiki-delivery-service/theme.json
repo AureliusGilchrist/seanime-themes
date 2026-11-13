@@ -1,5 +1,7 @@
 {
   "id": "kiki-delivery-service",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "home", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "clipboard-list", "my-profile": "hat-wizard", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "wand-magic" },
   "displayName": "Kiki's Delivery Service",
   "description": "Young witch Kiki sets off alone to prove herself, setting up a delivery service in a seaside city with only her black cat Jiji. A story of growing up and finding your own magic.",
   "fontFamily": "'Patrick Hand', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Gütiokipänjä Bakery" },
+    "news": { "label": "Koriko Gazette" },
+    "to-watch": { "label": "Delivery Orders" },
+    "download-tools": { "label": "Mum's Broom" },
+    "my-profile": { "label": "Little Witch" },
+    "watch-together": { "label": "With Jiji" },
     "home": {
       "label": "Witch"
     },

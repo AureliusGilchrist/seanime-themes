@@ -1,5 +1,7 @@
 {
   "id": "katekyo-hitman-reborn",
+  "playerIconSet": "flame",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "gem", "my-profile": "fire", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Katekyo Hitman Reborn!",
   "description": "Tsuna Sawada is told he's the heir to the Vongola mafia family by Reborn — a baby hitman tutor. Forced into battles with dying will flames, the No-Good Tsuna becomes a true boss.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Sawada Residence" },
+    "news": { "label": "Vongola Dispatch" },
+    "to-watch": { "label": "Reborn's Training" },
+    "download-tools": { "label": "Giannini's Lab" },
+    "my-profile": { "label": "Vongola Decimo" },
+    "watch-together": { "label": "Family Gathering" },
     "home": {
       "label": "Vongola HQ"
     },

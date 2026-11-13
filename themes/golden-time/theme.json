@@ -1,5 +1,7 @@
 {
   "id": "golden-time",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "rose" },
   "displayName": "Golden Time",
   "description": "Law student Banri Tada suffers from amnesia after an accident, and in college he meets the vivacious Kouko Kaga — their college romance unfolds as Banri struggles between his past self and the new life he is building.",
   "fontFamily": "'Raleway', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Law School Campus" },
+    "news": { "label": "Festival Club News" },
+    "to-watch": { "label": "Memories to Make" },
+    "download-tools": { "label": "Koko's Rose Bouquet" },
+    "my-profile": { "label": "Banri" },
+    "watch-together": { "label": "Omaken Festival" },
     "home": {
       "label": "College Life"
     },

@@ -1,5 +1,7 @@
 {
   "id": "lucky-star",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "gamepad", "my-profile": "star", "community": "users", "achievements": "star", "watch-together": "cookie", "settings": "gamepad" },
   "displayName": "Lucky☆Star",
   "description": "Konata Izumi and her friends navigate high school life with moe charm, otaku obsessions, and the eternal question of how to eat a chocolate cornet. Slice of life at its most endearingly absurd.",
   "fontFamily": "'Fredoka One', cursive",
@@ -873,6 +875,12 @@
     "1000": "Lucky Star Eternal"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ryoo High" },
+    "news": { "label": "Lucky Channel" },
+    "to-watch": { "label": "Comiket Shopping List" },
+    "download-tools": { "label": "Konata's Gaming Rig" },
+    "my-profile": { "label": "Otaku Supreme" },
+    "watch-together": { "label": "Choco Cornet Debate" },
     "home": {
       "label": "Ryouou High"
     },

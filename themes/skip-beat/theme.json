@@ -1,5 +1,7 @@
 {
   "id": "skip-beat",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "star", "search": "search", "schedule": "calendar-check", "discover": "film", "lists": "theater-masks", "my-profile": "mask", "community": "users", "achievements": "star", "watch-together": "film", "settings": "tshirt" },
   "displayName": "Skip Beat!",
   "description": "Kyoko Mogami follows her childhood friend Sho to Tokyo to support his music career — only to be discarded and publicly humiliated. Burning with revenge, she enters the entertainment industry to destroy him.",
   "fontFamily": "'Fredoka One', cursive",
@@ -924,6 +926,12 @@
     "1000": "Skip Beat Ultimate"
   },
   "sidebarOverrides": {
+    "landing": { "label": "LME Agency" },
+    "news": { "label": "Showbiz Tabloids" },
+    "to-watch": { "label": "Auditions" },
+    "download-tools": { "label": "Love Me Uniform" },
+    "my-profile": { "label": "Kyoko" },
+    "watch-together": { "label": "Love Me Section" },
     "home": {
       "label": "LME Agency",
       "icon": "building"

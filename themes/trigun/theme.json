@@ -1,5 +1,7 @@
 {
   "id": "trigun",
+  "playerIconSet": "blade",
+  "sidebarIcons": { "landing": "sun", "search": "crosshairs", "schedule": "calendar-alt", "discover": "route", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "coins", "watch-together": "cookie", "settings": "gun" },
   "displayName": "Trigun",
   "description": "Love and Peace! Wander the scorched wastes of No-Man's Land with the $$60 billion outlaw — guns, grit, and a smile that hides the storm.",
   "fontFamily": "'Bebas Neue', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Vash the Stampede"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Gunsmoke Desert" },
+    "news": { "label": "Bernardelli Insurance Reports" },
+    "to-watch": { "label": "$60 Billion Trail" },
+    "download-tools": { "label": "Wolfwood's Cross" },
+    "my-profile": { "label": "Vash the Stampede" },
+    "watch-together": { "label": "Love and Peace!" },
     "home": {
       "label": "No-Man"
     },

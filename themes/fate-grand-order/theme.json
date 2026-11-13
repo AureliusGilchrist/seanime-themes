@@ -1,5 +1,7 @@
 {
   "id": "fate-grand-order",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "snowflake", "search": "radar", "schedule": "calendar-alt", "discover": "globe", "lists": "users", "my-profile": "user-graduate", "community": "users", "achievements": "crown", "watch-together": "shield", "settings": "rune-stone" },
   "displayName": "Fate/Grand Order",
   "description": "Answer the call of Chaldea. Royal command seals, Noble Phantasm radiance, and the Grand Order to preserve humanity's future across Singularities and Lostbelts.",
   "fontFamily": "'Cinzel', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Human"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Chaldea" },
+    "news": { "label": "Da Vinci's Briefing" },
+    "to-watch": { "label": "Singularities" },
+    "download-tools": { "label": "Da Vinci's Workshop" },
+    "my-profile": { "label": "Master" },
+    "watch-together": { "label": "With Mash" },
     "home": {
       "label": "Chaldea Gate"
     },

@@ -1,5 +1,7 @@
 {
   "id": "monogatari",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "bat", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Monogatari Series",
   "description": "Koyomi Araragi encounters apparitions — oddities bound to human emotion. Sharp wit, surreal architecture, and SHAFT's iconic visuals make each story arc a fever dream of words and weight.",
   "fontFamily": "",
@@ -873,6 +875,12 @@
     "1000": "Koyomi"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Naoetsu Private High" },
+    "news": { "label": "Oddity Rumours" },
+    "to-watch": { "label": "Stories to Tell" },
+    "download-tools": { "label": "Doughnut Box" },
+    "my-profile": { "label": "Koyomi" },
+    "watch-together": { "label": "Mister Donut with Shinobi" },
     "home": {
       "label": "Araragi Residence"
     },

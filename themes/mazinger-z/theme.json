@@ -1,5 +1,7 @@
 {
   "id": "mazinger-z",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "map-signs", "lists": "robot", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "gears" },
   "displayName": "Mazinger Z",
   "description": "Pilot the first super robot — iron armor, rocket punches, and photon energy against the armies of Dr. Hell. You are the devil or god — it is your choice.",
   "fontFamily": "'Russo One', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Photon Power Lab" },
+    "news": { "label": "Dr. Hell's Threats" },
+    "to-watch": { "label": "Mechanical Beasts" },
+    "download-tools": { "label": "Hover Pilder Dock" },
+    "my-profile": { "label": "Koji Kabuto" },
+    "watch-together": { "label": "Mazinger & Aphrodite A" },
     "home": {
       "label": "Photon Lab"
     },

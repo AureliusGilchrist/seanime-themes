@@ -1,5 +1,7 @@
 {
   "id": "homunculus",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "brain", "my-profile": "user-secret", "community": "users", "achievements": "mask", "watch-together": "user-friends", "settings": "brain" },
   "displayName": "Homunculus",
   "description": "Peer through the trepanation hole. A fractured interface of sand sculptures, distorted psyches, and Nakoshi's unraveling perception of the homunculi within.",
   "fontFamily": "'Libre Baskerville', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Inner"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Car Between Hotels" },
+    "news": { "label": "Ito's Notes" },
+    "to-watch": { "label": "Homunculi to Observe" },
+    "download-tools": { "label": "Trepanation Kit" },
+    "my-profile": { "label": "Susumu Nakoshi" },
+    "watch-together": { "label": "Observation Sessions" },
     "home": {
       "label": "Inner Psyche"
     },

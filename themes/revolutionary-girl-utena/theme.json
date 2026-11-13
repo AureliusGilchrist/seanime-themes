@@ -1,5 +1,7 @@
 {
   "id": "revolutionary-girl-utena",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "rose", "my-profile": "crown", "community": "users", "achievements": "rose", "watch-together": "rose", "settings": "sword" },
   "displayName": "Revolutionary Girl Utena",
   "description": "Shine forever! Rose Brides, impossible duels, and the enigmatic prince who may never arrive at Ohtori Academy.",
   "fontFamily": "'Cormorant Garamond', serif",
@@ -924,6 +926,12 @@
     "1000": "Revolutionary Girl"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ohtori Academy" },
+    "news": { "label": "Shadow Play Girls" },
+    "to-watch": { "label": "Duels to Win" },
+    "download-tools": { "label": "Sword of Dios" },
+    "my-profile": { "label": "Prince" },
+    "watch-together": { "label": "Rose Bride's Garden" },
     "home": {
       "label": "Ohtori Academy",
       "icon": "school"

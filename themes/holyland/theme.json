@@ -1,5 +1,7 @@
 {
   "id": "holyland",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "moon", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Holyland",
   "description": "Find your Holyland. A gritty street-fighting interface channeling Yuu Kamishiro's midnight brawls, boxing stance precision, and the relentless pursuit of purpose in the neon-lit back alleys.",
   "fontFamily": "'Barlow Condensed', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Inner"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ikebukuro Streets" },
+    "news": { "label": "Street Rumours" },
+    "to-watch": { "label": "Night Fights" },
+    "download-tools": { "label": "Boxing Manuals" },
+    "my-profile": { "label": "Yuu Kamishiro" },
+    "watch-together": { "label": "Street Watch" },
     "home": {
       "label": "Home Turf"
     },

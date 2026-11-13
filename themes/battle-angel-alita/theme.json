@@ -1,5 +1,7 @@
 {
   "id": "battle-angel-alita",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-alt", "discover": "satellite", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "tools" },
   "displayName": "Battle Angel Alita",
   "description": "Born from the Scrapyard, forged in Motorball. A cybernetic interface of Panzer Kunst precision, berserker fury, and the dream of Zalem.",
   "fontFamily": "'Orbitron', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Cybernetic Existence"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Scrapyard" },
+    "news": { "label": "Factory Bulletin" },
+    "to-watch": { "label": "Bounty Board" },
+    "download-tools": { "label": "Ido's Clinic" },
+    "my-profile": { "label": "Berserker Body" },
+    "watch-together": { "label": "Motorball Stands" },
     "home": {
       "label": "Scrapyard"
     },

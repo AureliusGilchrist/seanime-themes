@@ -1,5 +1,7 @@
 {
   "id": "yuyu-hakusho",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-check", "discover": "map", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "crosshairs" },
   "displayName": "Yu Yu Hakusho",
   "description": "Spirit Gun! Underworld aesthetics with spirit detective swagger, Dark Tournament fury, and demon world power.",
   "fontFamily": "'Fredoka One', cursive",
@@ -959,6 +961,12 @@
     "1000": "Yu Yu Hakusho Master"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Spirit World Office" },
+    "news": { "label": "Koenma's Orders" },
+    "to-watch": { "label": "Spirit Detective Cases" },
+    "download-tools": { "label": "Genkai's Temple" },
+    "my-profile": { "label": "Spirit Detective" },
+    "watch-together": { "label": "Team Urameshi" },
     "home": {
       "label": "Urameshi HQ",
       "icon": "home"

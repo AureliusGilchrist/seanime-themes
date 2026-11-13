@@ -1,5 +1,7 @@
 {
   "id": "dorohedoro",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "key", "lists": "mask", "my-profile": "user-secret", "community": "users", "achievements": "skull", "watch-together": "utensils", "settings": "tools" },
   "displayName": "Dorohedoro",
   "description": "Sorcerers and Hole dwellers in a gritty dance of smoke and chaos. Caiman hunts for his identity one head at a time.",
   "fontFamily": "'Bebas Neue', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Dorohedoro"
   },
   "sidebarOverrides": {
+    "landing": { "label": "The Hole" },
+    "news": { "label": "En Family Orders" },
+    "to-watch": { "label": "Sorcerers to Question" },
+    "download-tools": { "label": "Hungry Bug Kitchen" },
+    "my-profile": { "label": "Caiman" },
+    "watch-together": { "label": "Gyoza at Nikaido's" },
     "home": {
       "label": "The Hole"
     },

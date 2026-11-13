@@ -1,5 +1,7 @@
 {
   "id": "amagi-brilliant-park",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-check", "discover": "map", "lists": "clipboard-list", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "gift", "settings": "wand-magic" },
   "displayName": "Amagi Brilliant Park",
   "description": "High school narcissist Seiya is coerced at gunpoint into managing a failing amusement park inhabited by magical beings from a fantasy realm. With 100 days to draw 250,000 visitors, he brings ruthless efficiency to the rescue.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Brilliant Park"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Park Entrance" },
+    "news": { "label": "Park Announcements" },
+    "to-watch": { "label": "Attraction Queue" },
+    "download-tools": { "label": "Maintenance Shed" },
+    "my-profile": { "label": "Acting Manager" },
+    "watch-together": { "label": "Ride Together" },
     "home": {
       "label": "Amagi Park"
     },

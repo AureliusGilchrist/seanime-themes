@@ -1,5 +1,7 @@
 {
   "id": "ef-tale-of-memories",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "ef: A Tale of Memories",
   "description": "Two intertwining love stories unfold in a coastal town — one about a girl who can only retain thirteen hours of memory, the other about a girl who abandoned her dreams for someone who never noticed.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Otowa Church" },
+    "news": { "label": "Town Notices" },
+    "to-watch": { "label": "Pages to Remember" },
+    "download-tools": { "label": "Chihiro's Diary" },
+    "my-profile": { "label": "Thirteen Hours" },
+    "watch-together": { "label": "Station Platform" },
     "home": {
       "label": "Otowa City"
     },

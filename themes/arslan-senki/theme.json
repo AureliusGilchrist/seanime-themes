@@ -1,5 +1,7 @@
 {
   "id": "arslan-senki",
+  "playerIconSet": "blade",
+  "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "flag", "watch-together": "chess-knight", "settings": "sword" },
   "displayName": "The Heroic Legend of Arslan",
   "description": "Young Prince Arslan of Pars watches his kingdom fall to the treacherous Lusitanian army — now a fugitive prince with a small band of loyal retainers, he must rise to reclaim his throne and create a truly just kingdom.",
   "fontFamily": "'Cinzel', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Arslan Senki"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ecbatana" },
+    "news": { "label": "Royal Proclamations" },
+    "to-watch": { "label": "Campaign Plans" },
+    "download-tools": { "label": "Pars Armory" },
+    "my-profile": { "label": "Crown Prince" },
+    "watch-together": { "label": "Arslan's Retainers" },
     "home": {
       "label": "Pars Kingdom"
     },

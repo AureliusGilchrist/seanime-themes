@@ -1,5 +1,7 @@
 {
   "id": "nichijou",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "key" },
   "displayName": "Nichijou",
   "description": "Three high school girls live hilariously mundane lives alongside Nano, a robot who goes to their school, the young Professor who built her, and Sakamoto — a cat who can talk. Daily life has never been so dramatic or absurd.",
   "fontFamily": "'Quicksand', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Shinonome Lab" },
+    "news": { "label": "Tokisadame Rumours" },
+    "to-watch": { "label": "Ordinary Things" },
+    "download-tools": { "label": "Professor's Gadgets" },
+    "my-profile": { "label": "Nano" },
+    "watch-together": { "label": "Sakamoto-san's Nap" },
     "home": {
       "label": "Nano"
     },

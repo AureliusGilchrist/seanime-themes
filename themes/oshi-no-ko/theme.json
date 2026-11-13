@@ -1,5 +1,7 @@
 {
   "id": "oshi-no-ko",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "star", "search": "eye", "schedule": "calendar-check", "discover": "film", "lists": "music", "my-profile": "star", "community": "users", "achievements": "microphone", "watch-together": "film", "settings": "theater-masks" },
   "displayName": "Oshi no Ko",
   "description": "Doctor Gorou Amemiya is reincarnated as the son of his idol Ai Hoshino, entering the brutal world of entertainment and vowing to uncover the dark secrets of the industry that shattered his new family.",
   "fontFamily": "'Noto Serif JP', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Strawberry Productions" },
+    "news": { "label": "Entertainment Tabloids" },
+    "to-watch": { "label": "Auditions" },
+    "download-tools": { "label": "Stage Makeup" },
+    "my-profile": { "label": "Star Eyes" },
+    "watch-together": { "label": "B-Komachi Live" },
     "home": {
       "label": "Idol Stage"
     },

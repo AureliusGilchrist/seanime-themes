@@ -1,5 +1,7 @@
 {
   "id": "junji-ito",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "book-dead", "my-profile": "user-slash", "community": "users", "achievements": "skull", "watch-together": "ghost", "settings": "spider" },
   "displayName": "Junji Ito",
   "description": "Enter the spiral. Tomie whispers, Uzumaki coils tighten, Souichi grins, and the Enigma of Amigara Fault calls your name.",
   "fontFamily": "'Nosifer', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Amigara Fault" },
+    "news": { "label": "Whispers of Tomie" },
+    "to-watch": { "label": "Holes Made for Me" },
+    "download-tools": { "label": "Hanging Balloons" },
+    "my-profile": { "label": "Unwitting Victim" },
+    "watch-together": { "label": "Gyo Gathering" },
     "home": {
       "label": "The Spiral"
     },

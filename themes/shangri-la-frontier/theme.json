@@ -1,5 +1,7 @@
 {
   "id": "shangri-la-frontier",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "gamepad", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "list-ol", "my-profile": "user-ninja", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "gamepad" },
   "displayName": "Shangri-La Frontier",
   "description": "Gamer Rakurou Hizutome specialises in conquering terrible games — but when friends convince him to try the legendary full-dive VR title Shangri-La Frontier, he discovers a massive world with hidden depths no guide can prepare you for.",
   "fontFamily": "'Rajdhani', sans-serif",
@@ -923,6 +925,12 @@
     "1000": "Sunraku's Legacy"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Rabituza Village" },
+    "news": { "label": "Patch Notes" },
+    "to-watch": { "label": "Unique Monsters" },
+    "download-tools": { "label": "Inventory" },
+    "my-profile": { "label": "Sunraku" },
+    "watch-together": { "label": "Raid Party" },
     "home": {
       "label": "Lobby",
       "icon": "gamepad"

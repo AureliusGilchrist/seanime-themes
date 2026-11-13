@@ -1,5 +1,7 @@
 {
   "id": "20th-century-boys",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "eye", "search": "binoculars", "schedule": "calendar-times", "discover": "search-location", "lists": "book-skull", "my-profile": "user-secret", "community": "users", "achievements": "flag", "watch-together": "user-friends", "settings": "biohazard" },
   "displayName": "20th Century Boys",
   "description": "Rock saves the world. Kenji Endo, the Book of Prophecy, a childhood promise against the Friend's cult, and T-Rex echoing through history's darkest conspiracy.",
   "fontFamily": "'Bebas Neue', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Perfect"
   },
   "sidebarOverrides": {
+    "landing": { "label": "The Secret Base" },
+    "news": { "label": "Friend's Broadcast" },
+    "to-watch": { "label": "Book of Prophecy" },
+    "download-tools": { "label": "Kenji's Toolbox" },
+    "my-profile": { "label": "Membership Card" },
+    "watch-together": { "label": "Gather the Gang" },
     "home": {
       "label": "Kenji"
     },

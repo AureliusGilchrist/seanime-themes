@@ -1,5 +1,7 @@
 {
   "id": "fate-zero",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "castle", "search": "crosshairs", "schedule": "moon", "discover": "map", "lists": "users", "my-profile": "gun", "community": "users", "achievements": "crown", "watch-together": "cocktail", "settings": "rune-stone" },
   "displayName": "Fate/Zero",
   "description": "Ten years before the fifth Holy Grail War, the fourth war commences in Fuyuki City — a brutal conflict narrated with moral ambiguity, compelling Servants, and the tragic figure of Kiritsugu Emiya.",
   "fontFamily": "'Cinzel', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Philosophical"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Einzbern Castle" },
+    "news": { "label": "Assassin's Reports" },
+    "to-watch": { "label": "Masters to Eliminate" },
+    "download-tools": { "label": "Origin Bullets" },
+    "my-profile": { "label": "Magus Killer" },
+    "watch-together": { "label": "Banquet of Kings" },
     "home": {
       "label": "Fuyuki City"
     },

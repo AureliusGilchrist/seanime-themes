@@ -1,5 +1,7 @@
 {
   "id": "log-horizon",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "chess-knight", "community": "users", "achievements": "trophy", "watch-together": "utensils", "settings": "gamepad" },
   "displayName": "Log Horizon",
   "description": "When 30,000 Japanese gamers are trapped inside the MMORPG Elder Tale after a major update, strategist Shiroe and his companions must build a civilization and find a way to understand their new reality.",
   "fontFamily": "'Rajdhani', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Log Horizon"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Akiba" },
+    "news": { "label": "Round Table Council" },
+    "to-watch": { "label": "Raid Plans" },
+    "download-tools": { "label": "Crafting Hall" },
+    "my-profile": { "label": "Villain in Glasses" },
+    "watch-together": { "label": "Log Horizon Guild" },
     "home": {
       "label": "Akiba"
     },

@@ -1,5 +1,7 @@
 {
   "id": "dr-slump",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "home", "search": "binoculars", "schedule": "calendar-alt", "discover": "map", "lists": "flask", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Dr. Slump",
   "description": "Norimaki Senbei creates the world's most powerful robot — Arale-chan — and somehow she's an innocent little girl who punches the Earth in half. Penguin Village will never be the same.",
   "fontFamily": "'Fredoka One', cursive",
@@ -873,6 +875,12 @@
     "1000": "Penguin Village God"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Penguin Village" },
+    "news": { "label": "Village Gazette" },
+    "to-watch": { "label": "Arale's Adventures" },
+    "download-tools": { "label": "Senbei's Lab" },
+    "my-profile": { "label": "Arale" },
+    "watch-together": { "label": "Gatchan & Arale" },
     "home": {
       "label": "Penguin Village"
     },

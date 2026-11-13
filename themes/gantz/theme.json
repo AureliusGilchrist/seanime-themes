@@ -1,5 +1,7 @@
 {
   "id": "gantz",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "home", "search": "radar", "schedule": "stopwatch", "discover": "map-signs", "lists": "list-ol", "my-profile": "gun", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "globe" },
   "displayName": "Gantz",
   "description": "You are dead. GANTZ has other plans. Don black combat suits and hunt alien targets before the clock hits zero.",
   "fontFamily": "'Share Tech Mono', monospace",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Gantz Room" },
+    "news": { "label": "The Ball Speaks" },
+    "to-watch": { "label": "Alien Targets" },
+    "download-tools": { "label": "X-Gun Rack" },
+    "my-profile": { "label": "Hunter" },
+    "watch-together": { "label": "Mission Team" },
     "home": {
       "label": "GANTZ Room"
     },

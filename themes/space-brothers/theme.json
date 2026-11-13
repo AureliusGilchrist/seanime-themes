@@ -1,5 +1,7 @@
 {
   "id": "space-brothers",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "rocket", "search": "binoculars", "schedule": "calendar-check", "discover": "moon", "lists": "clipboard-list", "my-profile": "user-graduate", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "satellite" },
   "displayName": "Space Brothers",
   "description": "As children, brothers Mutta and Hibito promised to become astronauts. Hibito makes it to the moon — but Mutta, now 32 and unemployed, must restart his dream from scratch and catch up to his younger brother.",
   "fontFamily": "",
@@ -923,6 +925,12 @@
     "1000": "Cosmic Brothers"
   },
   "sidebarOverrides": {
+    "landing": { "label": "JAXA Tsukuba" },
+    "news": { "label": "NASA Briefing" },
+    "to-watch": { "label": "Selection Tests" },
+    "download-tools": { "label": "Training Module" },
+    "my-profile": { "label": "Mutta" },
+    "watch-together": { "label": "Mutta & Hibito" },
     "home": {
       "label": "JAXA",
       "icon": "rocket"

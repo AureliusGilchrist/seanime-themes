@@ -1,5 +1,7 @@
 {
   "id": "rurouni-kenshin",
+  "playerIconSet": "blade",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "route", "lists": "scroll", "my-profile": "katana", "community": "users", "achievements": "medal", "watch-together": "utensils", "settings": "katana" },
   "displayName": "Rurouni Kenshin",
   "description": "Dedicate the reverse blade to peace. Meiji-era aesthetics with crimson robe precision, sakura serenity, and Battōsai's restrained power.",
   "fontFamily": "'Noto Serif JP', serif",
@@ -873,6 +875,12 @@
     "1000": "Rurouni Kenshin"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kamiya Dojo" },
+    "news": { "label": "Meiji Government Notices" },
+    "to-watch": { "label": "Wanderer's Road" },
+    "download-tools": { "label": "Reverse-Blade Sword" },
+    "my-profile": { "label": "Rurouni" },
+    "watch-together": { "label": "Akabeko Dinner" },
     "home": {
       "label": "Kamiya Dojo"
     },

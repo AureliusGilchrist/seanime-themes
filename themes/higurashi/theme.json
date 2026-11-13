@@ -1,5 +1,7 @@
 {
   "id": "higurashi",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "tree", "lists": "book-dead", "my-profile": "user", "community": "users", "achievements": "dice", "watch-together": "user-friends", "settings": "hammer" },
   "displayName": "Higurashi: When They Cry",
   "description": "Oyashiro-sama is watching. Crimson-drenched interface woven with Hinamizawa's endless summer, cursed loops, and the club's desperate struggle against fate.",
   "fontFamily": "'Creepster', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Hinamizawa" },
+    "news": { "label": "Village Council" },
+    "to-watch": { "label": "Before Watanagashi" },
+    "download-tools": { "label": "Rena's Treasure Pile" },
+    "my-profile": { "label": "Club Member" },
+    "watch-together": { "label": "Club Games" },
     "home": {
       "label": "Hinamizawa"
     },

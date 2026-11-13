@@ -1,5 +1,7 @@
 {
   "id": "kuroko-no-basuke",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "basketball", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user-secret", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "whistle" },
   "displayName": "Kuroko's Basketball",
   "description": "The phantom sixth man of the Generation of Miracles, Tetsuya Kuroko uses his misdirection to help Seirin High defeat his former teammates and claim the top of Japanese high school basketball.",
   "fontFamily": "",
@@ -873,6 +875,12 @@
     "1000": "Kuroko"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Seirin Gym" },
+    "news": { "label": "Monthly Basketball" },
+    "to-watch": { "label": "Generation of Miracles" },
+    "download-tools": { "label": "Riko's Training Menu" },
+    "my-profile": { "label": "Phantom Sixth Man" },
+    "watch-together": { "label": "Maji Burger Hangout" },
     "home": {
       "label": "Seirin Gym"
     },

@@ -1,5 +1,7 @@
 {
   "id": "death-march",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "map", "search": "search-plus", "schedule": "calendar-alt", "discover": "route", "lists": "list-ol", "my-profile": "user-cog", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "cog" },
   "displayName": "Death March to the Parallel World Rhapsody",
   "description": "Overworked programmer Suzuki Ichirou falls asleep and wakes up in a game world, inadvertently maxing out his stats with a meteor shower spell. Now exploring this new world as a tourist with godlike power, enjoying all the simple pleasures of life.",
   "fontFamily": "'Quicksand', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Death March"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Seiryuu City" },
+    "news": { "label": "System Log" },
+    "to-watch": { "label": "Sightseeing Plan" },
+    "download-tools": { "label": "Item Box" },
+    "my-profile": { "label": "Satou (Lv 310)" },
+    "watch-together": { "label": "Satou's Party" },
     "home": {
       "label": "Death March World"
     },

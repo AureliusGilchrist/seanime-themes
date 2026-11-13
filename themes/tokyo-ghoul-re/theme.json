@@ -1,5 +1,7 @@
 {
   "id": "tokyo-ghoul-re",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "coffee", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "mask", "community": "users", "achievements": "skull", "watch-together": "coffee", "settings": "briefcase" },
   "displayName": "Tokyo Ghoul:re",
   "description": "The world of :re awakens. CCG operations, Quinx kagune, and the Dragon's shadow across a teal-blue investigation interface.",
   "fontFamily": "'Sawarabi Gothic', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "One-Eyed Dragon King"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Chateau" },
+    "news": { "label": "CCG Bulletin" },
+    "to-watch": { "label": "Ghoul Investigations" },
+    "download-tools": { "label": "Quinque Lab" },
+    "my-profile": { "label": "Haise Sasaki" },
+    "watch-together": { "label": "Quinx Squad Dinner" },
     "home": {
       "label": "CCG Headquarters"
     },

@@ -1,5 +1,7 @@
 {
   "id": "net-juu-no-susume",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "gamepad", "lists": "scroll", "my-profile": "gamepad", "community": "users", "achievements": "trophy", "watch-together": "heart", "settings": "headphones" },
   "displayName": "Recovery of an MMO Junkie",
   "description": "Unemployed 30-year-old Moriko Morioka becomes a NEET and escapes into an online RPG, where her male avatar forms an unlikely bond with a guild member — unbeknownst to her, a surprising real-world connection lies beneath.",
   "fontFamily": "'Nunito', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Morioka's Apartment" },
+    "news": { "label": "Fruits de Mer Updates" },
+    "to-watch": { "label": "Daily Quests" },
+    "download-tools": { "label": "Gaming PC" },
+    "my-profile": { "label": "Hayashi" },
+    "watch-together": { "label": "Party Up" },
     "home": {
       "label": "MMO World"
     },

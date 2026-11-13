@@ -1,5 +1,7 @@
 {
   "id": "way-of-househusband",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "store", "lists": "utensils", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "utensils" },
   "displayName": "The Way of the Househusband",
   "description": "The legendary yakuza Tatsu, feared as the Immortal Dragon, abruptly retires to become a devoted househusband for his career-driven wife. He applies the same intense yakuza intensity to cooking, cleaning, and shopping.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "The Way of the Househusband"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Tatsu's Home" },
+    "news": { "label": "Neighbourhood Association" },
+    "to-watch": { "label": "Bento Plans" },
+    "download-tools": { "label": "Kitchen Arsenal" },
+    "my-profile": { "label": "Immortal Dragon" },
+    "watch-together": { "label": "Dinner with Miku" },
     "home": {
       "label": "Tatsu"
     },

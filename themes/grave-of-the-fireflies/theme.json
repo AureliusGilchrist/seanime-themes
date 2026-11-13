@@ -1,5 +1,7 @@
 {
   "id": "grave-of-the-fireflies",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "campground", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "cookie", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "moon" },
   "displayName": "Grave of the Fireflies",
   "description": "Seita and Setsuko's journey through wartime Japan. Firefly lanterns, Sakuma drops, and the enduring light of memory in the darkest times.",
   "fontFamily": "'EB Garamond', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Silence"
   },
   "sidebarOverrides": {
+    "landing": { "label": "The Shelter" },
+    "news": { "label": "Air Raid Sirens" },
+    "to-watch": { "label": "Fruit Drops" },
+    "download-tools": { "label": "Sakuma Tin" },
+    "my-profile": { "label": "Seita" },
+    "watch-together": { "label": "Fireflies with Setsuko" },
     "home": {
       "label": "Shelter"
     },

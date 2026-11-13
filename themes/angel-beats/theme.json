@@ -1,5 +1,7 @@
 {
   "id": "angel-beats",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "school", "search": "crosshairs", "schedule": "calendar-alt", "discover": "map", "lists": "music", "my-profile": "user", "community": "users", "achievements": "guitar", "watch-together": "guitar", "settings": "feather" },
   "displayName": "Angel Beats!",
   "description": "Welcome to the afterlife. A school beyond death where the SSS battlefront fights against obliteration, Girls Dead Monster plays on, and every soul finds its song.",
   "fontFamily": "'Comfortaa', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "My Most Precious Treasure"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Afterlife School" },
+    "news": { "label": "SSS Briefing" },
+    "to-watch": { "label": "Operation List" },
+    "download-tools": { "label": "Guild Workshop" },
+    "my-profile": { "label": "SSS Member" },
+    "watch-together": { "label": "Girls Dead Monster Live" },
     "home": {
       "label": "Afterlife School"
     },

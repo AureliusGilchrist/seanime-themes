@@ -1,5 +1,7 @@
 {
   "id": "miss-kobayashis-dragon-maid",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "utensils", "my-profile": "dragon", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "briefcase" },
   "displayName": "Miss Kobayashi's Dragon Maid",
   "description": "Software engineer Kobayashi wakes up to find a dragon at her door — Tohru, who she drunkenly invited to be her maid. A quirky found-family grows as more dragons arrive in suburban Japan.",
   "fontFamily": "'Fredoka One', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kobayashi's Apartment" },
+    "news": { "label": "Dragon Gossip" },
+    "to-watch": { "label": "Tohru's Chores" },
+    "download-tools": { "label": "Tohru's Kitchen" },
+    "my-profile": { "label": "Kobayashi-san" },
+    "watch-together": { "label": "Kanna's Field Trip" },
     "home": {
       "label": "Kobayashi"
     },

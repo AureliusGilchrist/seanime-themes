@@ -1,5 +1,7 @@
 {
   "id": "my-dress-up-darling",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "camera", "lists": "tshirt", "my-profile": "tshirt", "community": "users", "achievements": "camera", "watch-together": "heart", "settings": "tools" },
   "displayName": "My Dress-Up Darling",
   "description": "Shy craftsman Wakana Gojou pours his soul into traditional Hina dolls — until radiant gyaru Marin Kitagawa asks him to bring her beloved anime characters to life through cosplay, launching an unlikely partnership.",
   "fontFamily": "'Nunito', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Gojo's Workroom" },
+    "news": { "label": "Cosplay Event News" },
+    "to-watch": { "label": "Costumes to Make" },
+    "download-tools": { "label": "Sewing Machine" },
+    "my-profile": { "label": "Cosplayer" },
+    "watch-together": { "label": "Photoshoot Day" },
     "home": {
       "label": "Gojou"
     },

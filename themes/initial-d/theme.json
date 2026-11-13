@@ -1,5 +1,7 @@
 {
   "id": "initial-d",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "mountain", "search": "binoculars", "schedule": "stopwatch", "discover": "route", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Initial D",
   "description": "Eurobeat never stops! Mountain pass mastery, drift techniques, and the legend of the Fujiwara Tofu Shop delivery driver.",
   "fontFamily": "'Bebas Neue', cursive",
@@ -873,6 +875,12 @@
     "1000": "The Ghost of Akina"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Mt. Akina" },
+    "news": { "label": "Gas Station Gossip" },
+    "to-watch": { "label": "Upcoming Battles" },
+    "download-tools": { "label": "Fujiwara Tofu Shop" },
+    "my-profile": { "label": "Ghost of Akina" },
+    "watch-together": { "label": "Project D" },
     "home": {
       "label": "Fujiwara Tofu Shop"
     },

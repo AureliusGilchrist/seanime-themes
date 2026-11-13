@@ -1,5 +1,7 @@
 {
   "id": "kaiju-8",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "building", "search": "radar", "schedule": "calendar-times", "discover": "map-marked-alt", "lists": "file-alt", "my-profile": "dragon", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "Kaiju No. 8",
   "description": "Kafka Hibino dreams of joining the Defence Corps to eliminate kaiju — but after a small kaiju burrows into his mouth, he gains the ability to transform into a kaiju himself, becoming Japan's most wanted mystery.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Defense Force Base" },
+    "news": { "label": "Kaiju Forecast" },
+    "to-watch": { "label": "Kaiju to Neutralise" },
+    "download-tools": { "label": "Suit Lab" },
+    "my-profile": { "label": "Kaiju No. 8" },
+    "watch-together": { "label": "3rd Division" },
     "home": {
       "label": "Corps HQ"
     },

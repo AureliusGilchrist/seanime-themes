@@ -1,5 +1,7 @@
 {
   "id": "kimi-ni-todoke",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "flower" },
   "displayName": "Kimi ni Todoke",
   "description": "Misunderstood Sawako Kuronuma, nicknamed Sadako for her resemblance to a horror film ghost, only wants real friends. When popular Shouta Kazehaya speaks to her, her world slowly begins to open.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kitahoro High" },
+    "news": { "label": "Class Rumours" },
+    "to-watch": { "label": "Things to Tell Kazehaya" },
+    "download-tools": { "label": "Sawako's Notes" },
+    "my-profile": { "label": "Sawako" },
+    "watch-together": { "label": "Reaching You" },
     "home": {
       "label": "Sawako"
     },

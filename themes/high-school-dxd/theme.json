@@ -1,5 +1,7 @@
 {
   "id": "high-school-dxd",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "chess-board", "my-profile": "dragon", "community": "users", "achievements": "chess-knight", "watch-together": "heart", "settings": "crown" },
   "displayName": "High School DxD",
   "description": "Pervy high schooler Issei Hyoudou is killed on his first date — then revived as a devil by the beautiful Rias Gremory. Now serving in her household as a piece in the supernatural chess match between angels, devils, and fallen angels.",
   "fontFamily": "'Cinzel Decorative', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Dragon"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Occult Research Club" },
+    "news": { "label": "Underworld News" },
+    "to-watch": { "label": "Rating Games" },
+    "download-tools": { "label": "Sacred Gear Vault" },
+    "my-profile": { "label": "Red Dragon Emperor" },
+    "watch-together": { "label": "Gremory Household" },
     "home": {
       "label": "Gremory Estate"
     },

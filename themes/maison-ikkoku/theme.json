@@ -1,5 +1,7 @@
 {
   "id": "maison-ikkoku",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "cocktail", "settings": "dog" },
   "displayName": "Maison Ikkoku",
   "description": "Ronin student Godai falls for the young widow Kyoko, manager of the chaotic boarding house Maison Ikkoku — a slow-burn romance of missed moments and growing hearts.",
   "fontFamily": "'Noto Serif', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Maison Ikkoku" },
+    "news": { "label": "Tenant Gossip" },
+    "to-watch": { "label": "Exams to Pass" },
+    "download-tools": { "label": "Room 5" },
+    "my-profile": { "label": "Godai" },
+    "watch-together": { "label": "Room 4 Party" },
     "home": {
       "label": "Maison Ikkoku"
     },

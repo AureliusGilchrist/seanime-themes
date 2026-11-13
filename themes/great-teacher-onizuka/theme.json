@@ -1,5 +1,7 @@
 {
   "id": "great-teacher-onizuka",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-signs", "lists": "clipboard-list", "my-profile": "graduation-cap", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "hammer" },
   "displayName": "Great Teacher Onizuka",
   "description": "22 years old. Former bike gang leader turned greatest teacher. Eikichi Onizuka takes on Holy Forest Academy's Class 3-4 with fists, heart, and a motorcycle.",
   "fontFamily": "'Bangers', cursive",
@@ -873,6 +875,12 @@
     "1000": "Great Teacher Onizuka"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Holy Forest Academy" },
+    "news": { "label": "Staff Room Gossip" },
+    "to-watch": { "label": "Students to Save" },
+    "download-tools": { "label": "Onizuka's Bike" },
+    "my-profile": { "label": "Great Teacher" },
+    "watch-together": { "label": "Class 3-4" },
     "home": {
       "label": "Homeroom"
     },

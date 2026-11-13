@@ -1,5 +1,7 @@
 {
   "id": "rainbow-manga",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "users", "my-profile": "user", "community": "users", "achievements": "rainbow", "watch-together": "user-friends", "settings": "music" },
   "displayName": "Rainbow: Nisha Rokubou no Shichinin",
   "description": "Seven young delinquents are locked in a brutal reform school in postwar Japan. They survive through loyalty to each other and their cellmate Rokurouta, building a bond that carries them through unspeakable hardship.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Shonan Special Reformatory" },
+    "news": { "label": "Letters from Outside" },
+    "to-watch": { "label": "Plans After Release" },
+    "download-tools": { "label": "Sakuragi's Harmonica" },
+    "my-profile": { "label": "Cell Six" },
+    "watch-together": { "label": "The Seven" },
     "home": {
       "label": "Cell 6"
     },

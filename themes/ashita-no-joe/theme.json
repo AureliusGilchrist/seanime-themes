@@ -1,5 +1,7 @@
 {
   "id": "ashita-no-joe",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-check", "discover": "route", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Ashita no Joe",
   "description": "Joe Yabuki is a delinquent from the slums whose raw talent for boxing catches trainer Danpei's eye. His meteoric rise through the boxing world burns with fierce passion — and foreshadows a tragic end.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ashita No"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Tange Boxing Gym" },
+    "news": { "label": "Doya Street Rumours" },
+    "to-watch": { "label": "Upcoming Bouts" },
+    "download-tools": { "label": "Gloves & Wraps" },
+    "my-profile": { "label": "Joe Yabuki" },
+    "watch-together": { "label": "Ringside Seats" },
     "home": {
       "label": "Doya Slums"
     },

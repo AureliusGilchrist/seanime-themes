@@ -1,5 +1,7 @@
 {
   "id": "lycoris-recoil",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "coffee", "search": "crosshairs", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "gun", "community": "users", "achievements": "flower", "watch-together": "coffee", "settings": "gun" },
   "displayName": "Lycoris Recoil",
   "description": "Former DA agent Chisato Nishikigi and reserved marksman Takina Inoue run the LycoReco café by day — and protect the city as elite Lycoris operatives by night, in a thrilling action series wrapped in cherry-blossom warmth.",
   "fontFamily": "'Zen Kaku Gothic New', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Lycoris Recoil"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Café LycoReco" },
+    "news": { "label": "DA Directives" },
+    "to-watch": { "label": "Café Requests" },
+    "download-tools": { "label": "Non-Lethal Rounds" },
+    "my-profile": { "label": "Lycoris" },
+    "watch-together": { "label": "Chisato & Takina" },
     "home": {
       "label": "LycoReco Café"
     },

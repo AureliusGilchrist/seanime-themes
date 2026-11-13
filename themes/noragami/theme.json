@@ -1,5 +1,7 @@
 {
   "id": "noragami",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "scroll", "my-profile": "coins", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Noragami",
   "description": "Yato is a minor deity with no shrine who dreams of fame and worshippers, working odd jobs for five-yen coins alongside his human Regalia Yukine and school girl Hiyori, who can slip between the human and spirit realms.",
   "fontFamily": "'Sawarabi Mincho', serif",
@@ -873,6 +875,12 @@
     "1000": "Noragami"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Yato's Shrine" },
+    "news": { "label": "Takamagahara Decrees" },
+    "to-watch": { "label": "Five-Yen Requests" },
+    "download-tools": { "label": "Sekki Arsenal" },
+    "my-profile": { "label": "Stray God" },
+    "watch-together": { "label": "Yato, Hiyori & Yukine" },
     "home": {
       "label": "Far Shore"
     },

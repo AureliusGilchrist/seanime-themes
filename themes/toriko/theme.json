@@ -1,5 +1,7 @@
 {
   "id": "toriko",
+  "playerIconSet": "flame",
+  "sidebarIcons": { "landing": "utensils", "search": "search", "schedule": "calendar-alt", "discover": "globe", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "utensils", "settings": "fire" },
   "displayName": "Toriko",
   "description": "In a world where the best flavours of nature are the ultimate prize, the Gourmet Hunter Toriko ventures into the most dangerous wildernesses to capture legendary ingredients for his ever-growing Full Course Menu.",
   "fontFamily": "'Permanent Marker', cursive",
@@ -922,6 +924,12 @@
     "1000": "Toriko"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Komatsu's Restaurant" },
+    "news": { "label": "IGO Announcements" },
+    "to-watch": { "label": "Full Course Menu" },
+    "download-tools": { "label": "Melk Kitchen Knife" },
+    "my-profile": { "label": "Gourmet Hunter" },
+    "watch-together": { "label": "Itadakimasu!" },
     "home": {
       "label": "Gourmet World"
     },

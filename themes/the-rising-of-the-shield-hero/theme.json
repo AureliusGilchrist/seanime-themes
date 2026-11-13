@@ -1,5 +1,7 @@
 {
   "id": "the-rising-of-the-shield-hero",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "hourglass", "discover": "map", "lists": "shield", "my-profile": "shield", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "shield-alt" },
   "displayName": "The Rising of the Shield Hero",
   "description": "Wrongly accused and betrayed on his first day as a summoned hero, Naofumi Iwatani is left with only his shield and his rage. Rising from disgrace, he forges his own path — building a party, earning trust, and fighting for a world that doubted him.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -923,6 +925,12 @@
     "1000": "Rising of the Shield Hero"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Melromarc" },
+    "news": { "label": "Dragon Hourglass" },
+    "to-watch": { "label": "Waves to Repel" },
+    "download-tools": { "label": "Weapon Shop" },
+    "my-profile": { "label": "Shield Hero" },
+    "watch-together": { "label": "Naofumi's Party" },
     "home": {
       "label": "Shield",
       "icon": "shield-alt"

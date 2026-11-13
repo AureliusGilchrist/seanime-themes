@@ -1,5 +1,7 @@
 {
   "id": "free",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "water", "search": "search", "schedule": "stopwatch", "discover": "wave", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Free! Iwatobi Swim Club",
   "description": "Haruka Nanase lives for the water. Reunited with childhood friends, Iwatobi High Swim Club competes with dreams, bonds, and the pure joy of cutting through clear water.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Team"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Iwatobi Pool" },
+    "news": { "label": "Swim Club Notices" },
+    "to-watch": { "label": "Relay Races" },
+    "download-tools": { "label": "Swim Bag" },
+    "my-profile": { "label": "Free Style" },
+    "watch-together": { "label": "Medley Relay" },
     "home": {
       "label": "Iwatobi Pool"
     },

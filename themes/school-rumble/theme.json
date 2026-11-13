@@ -1,5 +1,7 @@
 {
   "id": "school-rumble",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "School Rumble",
   "description": "Tenma Tsukamoto loves clueless Karasuma, while delinquent Harima loves Tenma who doesn't notice — a chaotic love polygon in the most hilariously eventful high school ever.",
   "fontFamily": "'Comic Neue', cursive",
@@ -924,6 +926,12 @@
     "1000": "School Rumble Legend"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Yagami High" },
+    "news": { "label": "Class 2-C Gossip" },
+    "to-watch": { "label": "Confession Attempts" },
+    "download-tools": { "label": "Harima's Manga Desk" },
+    "my-profile": { "label": "Tenma" },
+    "watch-together": { "label": "Class Trip" },
     "home": {
       "label": "Classroom 2-C",
       "icon": "school"

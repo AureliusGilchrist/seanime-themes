@@ -1,5 +1,7 @@
 {
   "id": "ao-haru-ride",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Ao Haru Ride",
   "description": "Futaba Yoshioka lost her first love Kou when he suddenly moved away. Years later he returns — changed and distant. She reaches out to reclaim their connection, only to find a more complicated truth.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ao"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Summer Festival" },
+    "news": { "label": "Class Gossip" },
+    "to-watch": { "label": "Springtime Plans" },
+    "download-tools": { "label": "Class Rep Kit" },
+    "my-profile": { "label": "Futaba" },
+    "watch-together": { "label": "Rainy Shrine" },
     "home": {
       "label": "Futaba"
     },

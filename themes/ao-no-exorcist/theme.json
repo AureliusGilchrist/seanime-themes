@@ -1,5 +1,7 @@
 {
   "id": "ao-no-exorcist",
+  "playerIconSet": "flame",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "key", "lists": "spellbook", "my-profile": "demon", "community": "users", "achievements": "fire", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Ao no Exorcist",
   "description": "Rin Okumura discovers he is the son of Satan himself — and after his guardian's death, vows to become an exorcist and defeat his own father. Training at True Cross Academy, he must hide his demonic flames.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Blue Exorcist"
   },
   "sidebarOverrides": {
+    "landing": { "label": "True Cross Academy" },
+    "news": { "label": "Order Dispatch" },
+    "to-watch": { "label": "Exwire Assignments" },
+    "download-tools": { "label": "Tamer's Kit" },
+    "my-profile": { "label": "Son of Satan" },
+    "watch-together": { "label": "Cram School Class" },
     "home": {
       "label": "True Cross Academy"
     },

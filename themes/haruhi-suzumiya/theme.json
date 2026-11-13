@@ -1,5 +1,7 @@
 {
   "id": "haruhi-suzumiya",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "school", "search": "ufo", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "coffee" },
   "displayName": "The Melancholy of Haruhi Suzumiya",
   "description": "The SOS Brigade awaits. A radiant yellow interface channeling god-like powers, closed spaces, and the endless eccentricity of Haruhi's world.",
   "fontFamily": "'Quicksand', sans-serif",
@@ -898,6 +900,12 @@
     "1000": "Ultimate Ultimate Perception"
   },
   "sidebarOverrides": {
+    "landing": { "label": "SOS Brigade Clubroom" },
+    "news": { "label": "SOS Brigade Website" },
+    "to-watch": { "label": "Mystery Hunts" },
+    "download-tools": { "label": "Computer Club Spoils" },
+    "my-profile": { "label": "Brigade Member" },
+    "watch-together": { "label": "City Patrol" },
     "home": {
       "label": "Clubroom"
     },

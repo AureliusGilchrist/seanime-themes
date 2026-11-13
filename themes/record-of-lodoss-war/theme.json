@@ -1,5 +1,7 @@
 {
   "id": "record-of-lodoss-war",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "shield", "community": "users", "achievements": "dragon", "watch-together": "campground", "settings": "sword" },
   "displayName": "Record of Lodoss War",
   "description": "The cursed island awaits. Forge your path through ancient ruins, dragon lairs, and dark elf ambushes across the war-torn realm of Lodoss.",
   "fontFamily": "'MedievalSharp', cursive",
@@ -924,6 +926,12 @@
     "1000": "Lodoss War Supreme"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Isle of Lodoss" },
+    "news": { "label": "Grey Witch's Schemes" },
+    "to-watch": { "label": "Quests" },
+    "download-tools": { "label": "Dwarven Forge" },
+    "my-profile": { "label": "Free Knight" },
+    "watch-together": { "label": "Parn's Party" },
     "home": {
       "label": "Castle Valis",
       "icon": "castle"

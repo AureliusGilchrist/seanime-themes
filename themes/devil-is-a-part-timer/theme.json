@@ -1,5 +1,7 @@
 {
   "id": "devil-is-a-part-timer",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "store", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "utensils", "my-profile": "demon", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "bicycle" },
   "displayName": "The Devil Is a Part-Timer!",
   "description": "Demon Lord Satan flees to modern Tokyo with no magic, forced to work at MgRonald's to survive. His hero-turned-coworker Emi tracks him there — as he discovers that conquering the fast-food world may be harder than Ente Isla.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Everyday"
   },
   "sidebarOverrides": {
+    "landing": { "label": "MgRonald's Hatagaya" },
+    "news": { "label": "Ente Isla Report" },
+    "to-watch": { "label": "Shift Tasks" },
+    "download-tools": { "label": "Villa Rosa Sasazuka" },
+    "my-profile": { "label": "Demon King Sadao" },
+    "watch-together": { "label": "Dinner at the Apartment" },
     "home": {
       "label": "MgRonald"
     },

@@ -1,5 +1,7 @@
 {
   "id": "kaguya-sama",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-pin", "lists": "chess-board", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "chess-knight" },
   "displayName": "Kaguya-sama: Love is War",
   "description": "Student council president Miyuki Shirogane and vice-president Kaguya Shinomiya are both deeply in love with each other — but too proud to confess, they scheme endlessly to make the other confess first in this battle of wits and hearts.",
   "fontFamily": "'Sawarabi Gothic', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Love is War"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Student Council Room" },
+    "news": { "label": "Shuchiin Bulletin" },
+    "to-watch": { "label": "Confession Strategies" },
+    "download-tools": { "label": "Hayasaka's Toolkit" },
+    "my-profile": { "label": "Council Member" },
+    "watch-together": { "label": "How Cute~" },
     "home": {
       "label": "Shuchiin Academy"
     },

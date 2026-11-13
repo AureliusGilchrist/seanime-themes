@@ -1,5 +1,7 @@
 {
   "id": "flcl",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "planet", "lists": "guitar", "my-profile": "robot", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "guitar" },
   "displayName": "FLCL",
   "description": "Nothing amazing happens here. Screaming guitars, head-sprouting robots, Vespa-riding chaos, and the raw energy of The Pillows.",
   "fontFamily": "'Bungee', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "FLCL"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Mabase" },
+    "news": { "label": "Medical Mechanica" },
+    "to-watch": { "label": "Things That Come Out of Naota's Head" },
+    "download-tools": { "label": "Rickenbacker 4001" },
+    "my-profile": { "label": "Naota" },
+    "watch-together": { "label": "Haruko's Vespa" },
     "home": {
       "label": "Mabase"
     },

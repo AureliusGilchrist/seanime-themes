@@ -1,5 +1,7 @@
 {
   "id": "ouran-host-club",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "rose", "my-profile": "user", "community": "users", "achievements": "rose", "watch-together": "coffee", "settings": "crown" },
   "displayName": "Ouran High School Host Club",
   "description": "When scholarship student Haruhi breaks an expensive vase, she's forced to join the Host Club — a group of rich, eccentric boys who entertain female clients. A reverse harem comedy with real heart.",
   "fontFamily": "'Playfair Display', serif",
@@ -924,6 +926,12 @@
     "1000": "Ouran Prince"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Music Room #3" },
+    "news": { "label": "Ouran Gazette" },
+    "to-watch": { "label": "Cosplay Themes" },
+    "download-tools": { "label": "Commoner's Coffee" },
+    "my-profile": { "label": "Host" },
+    "watch-together": { "label": "Host Club Event" },
     "home": {
       "label": "Music Room 3",
       "icon": "music"

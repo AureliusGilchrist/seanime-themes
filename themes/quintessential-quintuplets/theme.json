@@ -1,5 +1,7 @@
 {
   "id": "quintessential-quintuplets",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "book-open", "my-profile": "graduation-cap", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "The Quintessential Quintuplets",
   "description": "Genius student Fuutarou Uesugi is hired to tutor five identical quintuplet sisters — the Nakanos — who each resist studying in different ways, yet one of them is destined to become his bride.",
   "fontFamily": "'Nunito', sans-serif",
@@ -924,6 +926,12 @@
     "1000": "Quintessential Supreme"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Nakano Apartment" },
+    "news": { "label": "Sisters' Group Chat" },
+    "to-watch": { "label": "Tutoring Sessions" },
+    "download-tools": { "label": "Study Materials" },
+    "my-profile": { "label": "Tutor" },
+    "watch-together": { "label": "Five Sisters" },
     "home": {
       "label": "Nakano House",
       "icon": "home"

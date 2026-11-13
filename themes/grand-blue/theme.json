@@ -1,5 +1,7 @@
 {
   "id": "grand-blue",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "water", "search": "binoculars", "schedule": "calendar-alt", "discover": "island", "lists": "cocktail", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "cocktail", "settings": "anchor" },
   "displayName": "Grand Blue Dreaming",
   "description": "Iori Kitahara moves to his uncle's dive shop to start college life. His dream of a romantic campus lifestyle dissolves immediately as the Peek-a-Boo diving club drags him into nonstop drinking, nudity, and chaos.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Comedy"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Grand Blue Dive Shop" },
+    "news": { "label": "Peek-a-Boo Bulletin" },
+    "to-watch": { "label": "Dive Spots" },
+    "download-tools": { "label": "Scuba Gear" },
+    "my-profile": { "label": "Iori" },
+    "watch-together": { "label": "Drinking Party" },
     "home": {
       "label": "Peek-a-Boo"
     },

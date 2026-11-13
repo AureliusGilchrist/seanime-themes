@@ -1,5 +1,7 @@
 {
   "id": "my-neighbor-totoro",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "tree", "search": "search", "schedule": "calendar-alt", "discover": "leaf", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "cat", "settings": "home" },
   "displayName": "My Neighbor Totoro",
   "description": "Two sisters move to the countryside and discover the gentle spirit of the forest — the great grey Totoro who only children can see. A tender Miyazaki masterpiece of childhood wonder.",
   "fontFamily": "'Kosugi Maru', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Camphor Tree" },
+    "news": { "label": "Granny's Stories" },
+    "to-watch": { "label": "Acorns to Plant" },
+    "download-tools": { "label": "Umbrella Stand" },
+    "my-profile": { "label": "Satsuki & Mei" },
+    "watch-together": { "label": "Catbus Stop" },
     "home": {
       "label": "Forest Home"
     },

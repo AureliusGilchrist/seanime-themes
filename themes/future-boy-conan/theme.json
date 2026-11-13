@@ -1,5 +1,7 @@
 {
   "id": "future-boy-conan",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "island", "search": "binoculars", "schedule": "calendar-alt", "discover": "water", "lists": "map", "my-profile": "running", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "anchor" },
   "displayName": "Future Boy Conan",
   "description": "In a post-apocalyptic world reclaimed by the sea, a boy of incredible strength fights for Lana and a peaceful future — Miyazaki's first masterpiece of hope and adventure.",
   "fontFamily": "'Nunito', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Earth"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Remnant Island" },
+    "news": { "label": "Industria Broadcast" },
+    "to-watch": { "label": "Rescue Lana" },
+    "download-tools": { "label": "Barracuda's Deck" },
+    "my-profile": { "label": "Conan" },
+    "watch-together": { "label": "Conan & Jimsy" },
     "home": {
       "label": "Remnant Island"
     },

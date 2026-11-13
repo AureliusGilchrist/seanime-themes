@@ -1,5 +1,7 @@
 {
   "id": "suzume",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "key", "search": "search", "schedule": "calendar-alt", "discover": "route", "lists": "key", "my-profile": "user", "community": "users", "achievements": "key", "watch-together": "cat", "settings": "chair" },
   "displayName": "Suzume",
   "description": "Suzume follows a handsome young man through a mysterious door that appears in ruins across Japan. Pulling out a magical key releases disasters — and she must travel the country closing doors before catastrophe strikes.",
   "fontFamily": "",
@@ -873,6 +875,12 @@
     "1000": "Suzume"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ruined Door" },
+    "news": { "label": "Earthquake Alerts" },
+    "to-watch": { "label": "Doors to Close" },
+    "download-tools": { "label": "Three-Legged Chair" },
+    "my-profile": { "label": "Closer" },
+    "watch-together": { "label": "Road Trip with Daijin" },
     "home": {
       "label": "Suzume"
     },

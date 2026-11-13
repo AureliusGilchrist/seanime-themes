@@ -1,5 +1,7 @@
 {
   "id": "space-battleship-yamato",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "hourglass", "discover": "planet", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "anchor" },
   "displayName": "Space Battleship Yamato",
   "description": "The legendary battleship rises from the ocean floor to sail the stars — one year to reach Iscandar, one mission to save a dying Earth. Launch the Wave-Motion Gun.",
   "fontFamily": "'Orbitron', sans-serif",
@@ -923,6 +925,12 @@
     "1000": "Galactic Hero"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Yamato Bridge" },
+    "news": { "label": "Earth Defense Command" },
+    "to-watch": { "label": "Days Until Earth Ends" },
+    "download-tools": { "label": "Wave Motion Engine" },
+    "my-profile": { "label": "Kodai" },
+    "watch-together": { "label": "Bridge Crew" },
     "home": {
       "label": "Bridge of Yamato",
       "icon": "rocket"

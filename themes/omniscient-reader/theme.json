@@ -1,5 +1,7 @@
 {
   "id": "omniscient-reader",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "book-open", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "coins" },
   "displayName": "Omniscient Reader's Viewpoint",
   "description": "Kim Dokja is the only reader of an obscure web novel called Three Ways to Survive the Apocalypse — and when the world begins following the novel's plot exactly, his knowledge of the story becomes humanity's greatest weapon.",
   "fontFamily": "'Crimson Text', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ways of Survival" },
+    "news": { "label": "Dokkaebi Broadcast" },
+    "to-watch": { "label": "Main Scenarios" },
+    "download-tools": { "label": "Dokkaebi Bag" },
+    "my-profile": { "label": "Sole Reader" },
+    "watch-together": { "label": "Kim Dokja Company" },
     "home": {
       "label": "Dokja"
     },

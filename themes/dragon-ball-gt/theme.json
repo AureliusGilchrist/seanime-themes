@@ -1,5 +1,7 @@
 {
   "id": "dragon-ball-gt",
+  "playerIconSet": "flame",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "star", "my-profile": "user", "community": "users", "achievements": "dragon", "watch-together": "user-friends", "settings": "gem" },
   "displayName": "Dragon Ball GT",
   "description": "When Black Star Dragon Balls scatter across the universe, Goku is turned into a child and must retrieve them before the Earth is destroyed — an unofficial but memorable final journey.",
   "fontFamily": "'Bangers', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Dragon"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Capsule Corp" },
+    "news": { "label": "Galactic Reports" },
+    "to-watch": { "label": "Black Star Dragon Balls" },
+    "download-tools": { "label": "Giru's Repairs" },
+    "my-profile": { "label": "Super Saiyan 4" },
+    "watch-together": { "label": "Grand Tour" },
     "home": {
       "label": "GT World"
     },

@@ -1,5 +1,7 @@
 {
   "id": "hanasaku-iroha",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "flower", "watch-together": "utensils", "settings": "coffee" },
   "displayName": "Hanasaku Iroha",
   "description": "City girl Ohana is sent to live with her estranged grandmother who runs a rural hot spring inn. Thrown into inn work, she discovers her own spirit through hard labor, unexpected friendships, and blooming love.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kissuiso Inn" },
+    "news": { "label": "Yunosagi Onsen News" },
+    "to-watch": { "label": "Guest Requests" },
+    "download-tools": { "label": "Inn Kitchen" },
+    "my-profile": { "label": "Ohana" },
+    "watch-together": { "label": "Bonbori Festival" },
     "home": {
       "label": "Kissuiso Inn"
     },

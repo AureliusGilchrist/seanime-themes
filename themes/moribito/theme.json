@@ -1,5 +1,7 @@
 {
   "id": "moribito",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "spear", "community": "users", "achievements": "egg", "watch-together": "campground", "settings": "spear" },
   "displayName": "Moribito: Guardian of the Spirit",
   "description": "Balsa, a female spear-wielder with a vow to protect eight lives, becomes bodyguard to Prince Chagum — a boy who carries a water spirit's egg that the empire wants destroyed.",
   "fontFamily": "'Noto Serif JP', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Aoyumi Woods" },
+    "news": { "label": "Star Readers' Prophecy" },
+    "to-watch": { "label": "Journeys Ahead" },
+    "download-tools": { "label": "Tanda's Herbs" },
+    "my-profile": { "label": "Balsa" },
+    "watch-together": { "label": "Guarding Chagum" },
     "home": {
       "label": "Yogo Kingdom"
     },

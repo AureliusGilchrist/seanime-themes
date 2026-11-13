@@ -1,5 +1,7 @@
 {
   "id": "mahouka",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user-secret", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "The Irregular at Magic High School",
   "description": "In a world where magic is technology, Tatsuya Shiba enrolls as a 'Weed' — a second-course student — despite secretly possessing tactical genius and nearly unlimited power that defies the system's ranking.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "First High School" },
+    "news": { "label": "Ten Master Clans" },
+    "to-watch": { "label": "Nine School Competition" },
+    "download-tools": { "label": "CAD Workshop" },
+    "my-profile": { "label": "Irregular" },
+    "watch-together": { "label": "Tatsuya & Miyuki" },
     "home": {
       "label": "First High"
     },

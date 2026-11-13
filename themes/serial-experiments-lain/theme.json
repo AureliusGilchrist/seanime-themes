@@ -1,5 +1,7 @@
 {
   "id": "serial-experiments-lain",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "network", "search": "search", "schedule": "calendar-times", "discover": "globe", "lists": "server", "my-profile": "user-slash", "community": "users", "achievements": "eye", "watch-together": "network", "settings": "microchip" },
   "displayName": "Serial Experiments Lain",
   "description": "No matter where you go, everyone's connected. Dissolve into the Wired — Protocol 7, identity fragmentation, and the God that lives in the network.",
   "fontFamily": "'Share Tech Mono', monospace",
@@ -873,6 +875,12 @@
     "1000": "Present Everywhere"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Present Day, Present Time" },
+    "news": { "label": "Knights of the Eastern Calculus" },
+    "to-watch": { "label": "Layers" },
+    "download-tools": { "label": "Navi Workstation" },
+    "my-profile": { "label": "Lain of the Wired" },
+    "watch-together": { "label": "Let's All Love Lain" },
     "home": {
       "label": "Wired Terminal"
     },

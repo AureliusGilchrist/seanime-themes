@@ -1,5 +1,7 @@
 {
   "id": "my-next-life-villainess",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "castle", "search": "search", "schedule": "calendar-alt", "discover": "leaf", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "heart", "watch-together": "coffee", "settings": "leaf" },
   "displayName": "My Next Life as a Villainess",
   "description": "Catarina Claes is reincarnated as the villainess of an otome game she played — destined for a bad end. Armed with foreknowledge and zero self-awareness, she accidentally charms everyone around her while trying to escape doom.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Claes Manor" },
+    "news": { "label": "Academy Gossip" },
+    "to-watch": { "label": "Doom Flags to Avoid" },
+    "download-tools": { "label": "Vegetable Garden" },
+    "my-profile": { "label": "Katarina" },
+    "watch-together": { "label": "Brain Council Meeting" },
     "home": {
       "label": "Catarina"
     },

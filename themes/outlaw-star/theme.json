@@ -1,5 +1,7 @@
 {
   "id": "outlaw-star",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "rocket" },
   "displayName": "Outlaw Star",
   "description": "Chart your own course through the Toward Stars universe. Grappler ship combat, Galactic Leyline mysteries, and the outlaw spirit of Gene Starwind's crew.",
   "fontFamily": "'Rajdhani', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Outlaw Star Bridge" },
+    "news": { "label": "Bounty Board" },
+    "to-watch": { "label": "Galactic Leyline Leads" },
+    "download-tools": { "label": "Caster Shells" },
+    "my-profile": { "label": "Gene Starwind" },
+    "watch-together": { "label": "The Crew" },
     "home": {
       "label": "Starwind HQ"
     },

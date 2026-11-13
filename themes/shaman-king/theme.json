@@ -1,5 +1,7 @@
 {
   "id": "shaman-king",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "home", "search": "ghost", "schedule": "calendar-check", "discover": "map", "lists": "ghost", "my-profile": "headphones", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Shaman King",
   "description": "Every 500 years, a tournament selects the Shaman King who can commune with the Great Spirit and reshape the world. Yoh Asakura fights alongside his ancestor Amidamaru to claim the throne.",
   "fontFamily": "'Cinzel', serif",
@@ -923,6 +925,12 @@
     "1000": "Spirit Master"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Funbari Onsen" },
+    "news": { "label": "Oracle Pager" },
+    "to-watch": { "label": "Shaman Fights" },
+    "download-tools": { "label": "Harusame Sword" },
+    "my-profile": { "label": "Yoh Asakura" },
+    "watch-together": { "label": "Team Asakura" },
     "home": {
       "label": "Spirit World",
       "icon": "ghost"

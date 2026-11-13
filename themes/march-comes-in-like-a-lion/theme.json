@@ -1,5 +1,7 @@
 {
   "id": "march-comes-in-like-a-lion",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-check", "discover": "water", "lists": "chess-board", "my-profile": "chess-knight", "community": "users", "achievements": "trophy", "watch-together": "cat", "settings": "chess-board" },
   "displayName": "March Comes in Like a Lion",
   "description": "Rei Kiriyama is a seventeen-year-old professional shogi player living alone, carrying deep loneliness and childhood trauma. The warmth of the Kawamoto family begins to slowly crack his isolation.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Rei's Riverside Flat" },
+    "news": { "label": "Shogi Association" },
+    "to-watch": { "label": "Upcoming Matches" },
+    "download-tools": { "label": "Shogi Board" },
+    "my-profile": { "label": "Rei Kiriyama" },
+    "watch-together": { "label": "Dinner with the Kawamoto Sisters" },
     "home": {
       "label": "Rei"
     },

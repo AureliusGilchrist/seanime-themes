@@ -1,5 +1,7 @@
 {
   "id": "city-hunter",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "building", "search": "crosshairs", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "hammer", "watch-together": "user-friends", "settings": "chalkboard" },
   "displayName": "City Hunter",
   "description": "Ryo Saeba is the City Hunter — Tokyo's best sweeper who'll handle any dangerous job, except his only weakness is beautiful women. Get Ryo Saeba on your side with a chalk message on the board at Shinjuku Station.",
   "fontFamily": "'Oswald', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Urban"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Shinjuku" },
+    "news": { "label": "Station Message Board" },
+    "to-watch": { "label": "XYZ Requests" },
+    "download-tools": { "label": "Ryo's Magnum" },
+    "my-profile": { "label": "City Hunter" },
+    "watch-together": { "label": "Partners" },
     "home": {
       "label": "Shinjuku Station"
     },

@@ -1,5 +1,7 @@
 {
   "id": "trigun-stampede",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "sun", "search": "crosshairs", "schedule": "calendar-alt", "discover": "route", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "coins", "watch-together": "cookie", "settings": "gun" },
   "displayName": "Trigun Stampede",
   "description": "Vash the Stampede wanders a desert wasteland planet with a $$60 billion bounty on his head, spreading love and peace while somehow surviving every catastrophe he attracts. TRIGUN STAMPEDE reimagines this classic with stunning modern animation.",
   "fontFamily": "'Bebas Neue', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Trigun Stampede"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Desert Planet No Man's Land" },
+    "news": { "label": "Bounty Posters" },
+    "to-watch": { "label": "Follow Knives" },
+    "download-tools": { "label": "Plant Chamber" },
+    "my-profile": { "label": "Humanoid Typhoon" },
+    "watch-together": { "label": "Donuts with Vash" },
     "home": {
       "label": "Vash"
     },

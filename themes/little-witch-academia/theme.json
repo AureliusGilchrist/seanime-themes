@@ -1,5 +1,7 @@
 {
   "id": "little-witch-academia",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "castle", "search": "crystal-ball", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "hat-wizard", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "wand-sparkles" },
   "displayName": "Little Witch Academia",
   "description": "Atsuko Kagari enrolls in Luna Nova Magical Academy inspired by legendary witch Shiny Chariot. Despite having no innate magic talent, her boundless enthusiasm and the Shiny Rod carry her toward something extraordinary.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Luna Nova Academy" },
+    "news": { "label": "Academy Notices" },
+    "to-watch": { "label": "Words to Revive" },
+    "download-tools": { "label": "Shiny Rod" },
+    "my-profile": { "label": "Akko" },
+    "watch-together": { "label": "Shiny Chariot Show" },
     "home": {
       "label": "Luna Nova"
     },

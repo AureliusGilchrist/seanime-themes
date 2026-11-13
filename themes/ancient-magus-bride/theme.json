@@ -1,5 +1,7 @@
 {
   "id": "ancient-magus-bride",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "home", "search": "crystal-ball", "schedule": "moon", "discover": "tree", "lists": "spellbook", "my-profile": "hat-wizard", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "staff" },
   "displayName": "The Ancient Magus' Bride",
   "description": "Chise Hatori, an unwanted girl sold at auction, is purchased by the mysterious mage Elias Ainsworth who declares her his apprentice — and bride. In a world of magic and faeries, she learns the value of her own life.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ancient Magus"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Elias's Cottage" },
+    "news": { "label": "Whispers of the Fae" },
+    "to-watch": { "label": "Spells to Learn" },
+    "download-tools": { "label": "Alchemist's Workshop" },
+    "my-profile": { "label": "Sleigh Beggy" },
+    "watch-together": { "label": "Tea by the Hearth" },
     "home": {
       "label": "Elias"
     },

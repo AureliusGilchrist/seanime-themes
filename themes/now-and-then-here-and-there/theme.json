@@ -1,5 +1,7 @@
 {
   "id": "now-and-then-here-and-there",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-times", "discover": "planet", "lists": "users", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "water" },
   "displayName": "Now and Then, Here and There",
   "description": "A cheerful boy is swept into a post-apocalyptic hellscape of sand and war, where children are conscripted as soldiers. One of anime's most unrelenting depictions of human cruelty and the unyielding hope that endures through it.",
   "fontFamily": "'Lora', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Hellywood Fortress" },
+    "news": { "label": "Hamdo's Proclamations" },
+    "to-watch": { "label": "Escape Plans" },
+    "download-tools": { "label": "Lala-Ru's Pendant" },
+    "my-profile": { "label": "Shu" },
+    "watch-together": { "label": "Sunset on the Ridge" },
     "home": {
       "label": "Sand World"
     },

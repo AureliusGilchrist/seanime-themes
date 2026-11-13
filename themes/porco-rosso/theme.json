@@ -1,5 +1,7 @@
 {
   "id": "porco-rosso",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "island", "search": "binoculars", "schedule": "calendar-alt", "discover": "cloud", "lists": "file-alt", "my-profile": "helicopter", "community": "users", "achievements": "medal", "watch-together": "cocktail", "settings": "tools" },
   "displayName": "Porco Rosso",
   "description": "A WWI flying ace cursed with a pig's face roams the Adriatic as a freelance bounty hunter in the 1930s — world-weary, romantic, and absolutely unmatched in the sky.",
   "fontFamily": "'Lora', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Porco's Hidden Cove" },
+    "news": { "label": "Hotel Adriano Radio" },
+    "to-watch": { "label": "Bounty Contracts" },
+    "download-tools": { "label": "Piccolo Workshop" },
+    "my-profile": { "label": "Crimson Pig" },
+    "watch-together": { "label": "Gina's Garden" },
     "home": {
       "label": "Adriatic Base"
     },

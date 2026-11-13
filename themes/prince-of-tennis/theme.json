@@ -1,5 +1,7 @@
 {
   "id": "prince-of-tennis",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "school", "search": "binoculars", "schedule": "calendar-check", "discover": "map-signs", "lists": "clipboard-list", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "The Prince of Tennis",
   "description": "Prodigy Ryoma Echizen transfers to Seishun Academy and immediately dominates the tennis club. With fearless confidence and limitless talent, he faces opponents who push him toward his true potential.",
   "fontFamily": "",
@@ -924,6 +926,12 @@
     "1000": "Tennis Prince Supreme"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Seigaku Courts" },
+    "news": { "label": "Monthly Pro Tennis" },
+    "to-watch": { "label": "Ranking Matches" },
+    "download-tools": { "label": "Inui Juice" },
+    "my-profile": { "label": "Prince of Tennis" },
+    "watch-together": { "label": "Seigaku Regulars" },
     "home": {
       "label": "Seigaku Courts",
       "icon": "home"

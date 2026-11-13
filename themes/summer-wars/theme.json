@@ -1,5 +1,7 @@
 {
   "id": "summer-wars",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "home", "search": "network", "schedule": "calendar-alt", "discover": "globe", "lists": "users", "my-profile": "user", "community": "users", "achievements": "flower", "watch-together": "user-friends", "settings": "microchip" },
   "displayName": "Summer Wars",
   "description": "Math genius Kenji is tricked into attending his classmate Natsuki's grandmother's 90th birthday as her fake fiancé. When a rogue AI threatens to destroy the virtual world OZ — and reality — the whole family must unite.",
   "fontFamily": "",
@@ -923,6 +925,12 @@
     "1000": "Digital Hero"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Jinnouchi Estate" },
+    "news": { "label": "OZ Announcements" },
+    "to-watch": { "label": "Love Machine Counterattack" },
+    "download-tools": { "label": "OZ Avatar Builder" },
+    "my-profile": { "label": "Kenji" },
+    "watch-together": { "label": "Koi-Koi Battle" },
     "home": {
       "label": "OZ World",
       "icon": "globe"

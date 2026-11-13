@@ -1,5 +1,7 @@
 {
   "id": "ranma-12",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "paw" },
   "displayName": "Ranma ½",
   "description": "I don't need your help! Anything-goes martial arts chaos, Jusenkyo curses, and a dojo full of fiancées in Nerima.",
   "fontFamily": "'Fredoka One', cursive",
@@ -924,6 +926,12 @@
     "1000": "Ranma Supreme"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Tendo Dojo" },
+    "news": { "label": "Furinkan Gossip" },
+    "to-watch": { "label": "Cures to Find" },
+    "download-tools": { "label": "Hot Water Kettle" },
+    "my-profile": { "label": "Ranma" },
+    "watch-together": { "label": "Cat Café Chaos" },
     "home": {
       "label": "Tendo Dojo",
       "icon": "home"

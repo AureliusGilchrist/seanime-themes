@@ -1,5 +1,7 @@
 {
   "id": "castle-in-the-sky",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "cloud", "lists": "book-open", "my-profile": "gem", "community": "users", "achievements": "crown", "watch-together": "helicopter", "settings": "robot" },
   "displayName": "Castle in the Sky",
   "description": "A boy and girl with a mysterious crystal flee sky pirates and military forces to find the legendary floating fortress of Laputa — Miyazaki's soaring adventure of wonder.",
   "fontFamily": "'Libre Baskerville', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Castle Sky"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Laputa" },
+    "news": { "label": "Mining Town Bulletin" },
+    "to-watch": { "label": "Flight Plan" },
+    "download-tools": { "label": "Dola's Airship" },
+    "my-profile": { "label": "Volucite Crystal" },
+    "watch-together": { "label": "Pazu & Sheeta" },
     "home": {
       "label": "Laputa"
     },

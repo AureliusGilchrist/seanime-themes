@@ -1,5 +1,7 @@
 {
   "id": "tamako-market",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "store", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "cookie", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "feather", "settings": "cookie" },
   "displayName": "Tamako Market",
   "description": "Tamako Kitashirakawa lives in a shopping district and helps at her family's mochi shop. One day a plump, talking bird named Dera arrives — claiming to be searching for a bride for a prince — and disrupts everything.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Usagiyama Shopping Street" },
+    "news": { "label": "Shopping Street Notices" },
+    "to-watch": { "label": "Mochi Orders" },
+    "download-tools": { "label": "Mochi Pounder" },
+    "my-profile": { "label": "Tamako" },
+    "watch-together": { "label": "Dera Mochimazzi" },
     "home": {
       "label": "Usagiyama Market"
     },

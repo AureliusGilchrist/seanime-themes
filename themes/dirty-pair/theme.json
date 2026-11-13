@@ -1,5 +1,7 @@
 {
   "id": "dirty-pair",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "file-alt", "my-profile": "gun", "community": "users", "achievements": "bomb", "watch-together": "cat", "settings": "rocket" },
   "displayName": "Dirty Pair",
   "description": "The Lovely Angels — Kei and Yuri — are top agents of WWWA who always solve cases with a 100% success rate, but somehow level a city each time. Officially: the Dirty Pair.",
   "fontFamily": "'Audiowide', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Explosive"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Lovely Angel" },
+    "news": { "label": "WWWA Dispatch" },
+    "to-watch": { "label": "Trouble Consultant Cases" },
+    "download-tools": { "label": "Ship's Armoury" },
+    "my-profile": { "label": "Lovely Angel Agent" },
+    "watch-together": { "label": "Kei & Yuri" },
     "home": {
       "label": "WWWA HQ"
     },

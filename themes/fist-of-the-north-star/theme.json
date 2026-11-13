@@ -1,5 +1,7 @@
 {
   "id": "fist-of-the-north-star",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "mountain", "search": "eye", "schedule": "calendar-times", "discover": "route", "lists": "star", "my-profile": "user", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "bullseye" },
   "displayName": "Fist of the North Star",
   "description": "In a nuclear wasteland, Kenshiro wanders seeking Yuria — his fists strike the 708 pressure points of Hokuto Shinken, making enemies explode from the inside. You are already dead.",
   "fontFamily": "'Anton', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Fist"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Post-Apocalyptic Wasteland" },
+    "news": { "label": "Raider Sightings" },
+    "to-watch": { "label": "Warlords to Defeat" },
+    "download-tools": { "label": "Pressure Points" },
+    "my-profile": { "label": "Man with Seven Scars" },
+    "watch-together": { "label": "Bat & Lin" },
     "home": {
       "label": "Nuclear Wasteland"
     },

@@ -1,5 +1,7 @@
 {
   "id": "sakamoto-days",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "store", "search": "crosshairs", "schedule": "calendar-alt", "discover": "map-pin", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "coins", "watch-together": "heart", "settings": "utensils" },
   "displayName": "Sakamoto Days",
   "description": "Former number-one hitman Taro Sakamoto gave up the assassin life when he fell in love and started a family — but his past never stays gone, and now he fights to protect his beloved convenience store and even more beloved family.",
   "fontFamily": "'Oswald', sans-serif",
@@ -923,6 +925,12 @@
     "1000": "Peaceful Life"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Sakamoto Store" },
+    "news": { "label": "Assassin Bounty List" },
+    "to-watch": { "label": "Store Errands" },
+    "download-tools": { "label": "Everyday Weapons" },
+    "my-profile": { "label": "Retired Legend" },
+    "watch-together": { "label": "Family Time" },
     "home": {
       "label": "Sakamoto Store",
       "icon": "store"

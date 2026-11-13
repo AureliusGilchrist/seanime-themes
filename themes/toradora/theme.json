@@ -1,5 +1,7 @@
 {
   "id": "toradora",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "utensils", "my-profile": "tiger", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "utensils" },
   "displayName": "Toradora!",
   "description": "The Palm-top Tiger and the delinquent. Orange & cyan romance.",
   "fontFamily": "'Nunito', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Toradora!"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ryuuji's Kitchen" },
+    "news": { "label": "Class 2-C Gossip" },
+    "to-watch": { "label": "Crush Strategies" },
+    "download-tools": { "label": "Cleaning Supplies" },
+    "my-profile": { "label": "Palmtop Tiger" },
+    "watch-together": { "label": "Dinner Next Door" },
     "home": {
       "label": "Ohashi High"
     },

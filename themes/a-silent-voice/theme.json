@@ -1,5 +1,7 @@
 {
   "id": "a-silent-voice",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "flower", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "user-friends", "achievements": "heart", "watch-together": "users", "settings": "pencil" },
   "displayName": "A Silent Voice",
   "description": "Shoya Ishida bullied deaf classmate Shoko Nishimiya in elementary school. Years later, plagued by guilt and isolation, he seeks her out to make amends — and discovers the true cost of connection.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Silent Voice"
   },
   "sidebarOverrides": {
+    "landing": { "label": "The Carp Bridge" },
+    "news": { "label": "Class Whispers" },
+    "to-watch": { "label": "Friendship Notebook" },
+    "download-tools": { "label": "Sign Language Book" },
+    "my-profile": { "label": "Without the X" },
+    "watch-together": { "label": "Feed the Carp" },
     "home": {
       "label": "Shoko"
     },

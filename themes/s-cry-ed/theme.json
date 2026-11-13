@@ -1,5 +1,7 @@
 {
   "id": "s-cry-ed",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "users", "my-profile": "fire", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "bolt" },
   "displayName": "s-CRY-ed",
   "description": "In the Lost Ground — a region cut off from mainland Japan — people called Alter users manifest physical manifestations of their psyche. Kazuma and Ryuho clash in an explosive battle of wills.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Lost Ground" },
+    "news": { "label": "HOLY Bulletin" },
+    "to-watch": { "label": "Fights to Pick" },
+    "download-tools": { "label": "Alter Forge" },
+    "my-profile": { "label": "Kazuma" },
+    "watch-together": { "label": "Kazuma vs Ryuho" },
     "home": {
       "label": "Lost Ground"
     },

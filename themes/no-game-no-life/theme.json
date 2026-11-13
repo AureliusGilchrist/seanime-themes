@@ -1,5 +1,7 @@
 {
   "id": "no-game-no-life",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "chess-board", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "chess-knight", "my-profile": "crown", "community": "users", "achievements": "trophy", "watch-together": "gamepad", "settings": "dice" },
   "displayName": "No Game No Life",
   "description": "Blank never loses. A vibrant Disboard-inspired interface with game mechanics, Exceed strategies, and the Ten Pledges guiding every move.",
   "fontFamily": "'Press Start 2P', cursive",
@@ -873,6 +875,12 @@
     "1000": "No Game No Life"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Elkia" },
+    "news": { "label": "Ten Covenants" },
+    "to-watch": { "label": "Races to Challenge" },
+    "download-tools": { "label": "Gaming Setup" },
+    "my-profile": { "label": "『　』Blank" },
+    "watch-together": { "label": "Sora & Shiro" },
     "home": {
       "label": "Disboard"
     },

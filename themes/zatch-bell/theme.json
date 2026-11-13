@@ -1,5 +1,7 @@
 {
   "id": "zatch-bell",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "spellbook", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "bolt" },
   "displayName": "Zatch Bell!",
   "description": "Kiyo Takamine is paired with the amnesiac Zatch Bell, a mamodo child who shoots lightning from his mouth. Together they must fight other mamodo-human pairs to determine who will become the King of the Mamodo World.",
   "fontFamily": "'Righteous', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Zatch Bell Champion"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Takamine House" },
+    "news": { "label": "Mamodo Battle Updates" },
+    "to-watch": { "label": "Mamodo to Face" },
+    "download-tools": { "label": "Red Spell Book" },
+    "my-profile": { "label": "Bookkeeper" },
+    "watch-together": { "label": "Zatch & Kiyo" },
     "home": {
       "label": "Spell Book",
       "icon": "book-dead"

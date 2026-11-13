@@ -1,5 +1,7 @@
 {
   "id": "captain-tsubasa",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "flag", "search": "binoculars", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "running", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "whistle" },
   "displayName": "Captain Tsubasa",
   "description": "Tsubasa Ozora's dream is to win the World Cup for Japan. With the ball as his best friend, he overcomes rivals across Japan and the world through tireless effort and breathtaking technique.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Captain Tsubasa"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Nankatsu Pitch" },
+    "news": { "label": "Sports Paper" },
+    "to-watch": { "label": "Upcoming Matches" },
+    "download-tools": { "label": "Kit Room" },
+    "my-profile": { "label": "Ace Striker" },
+    "watch-together": { "label": "Golden Combi" },
     "home": {
       "label": "Nankatsu Field"
     },

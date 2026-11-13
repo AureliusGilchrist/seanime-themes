@@ -1,5 +1,7 @@
 {
   "id": "lovely-complex",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "music", "my-profile": "ruler", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "microphone" },
   "displayName": "Lovely Complex",
   "description": "Risa Koizumi is tall for a girl, Atsushi Otani is short for a boy — constantly mistaken for a comedy duo, their teasing rivalry slowly turns into something neither of them expected.",
   "fontFamily": "'M PLUS Rounded 1c', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Class 3-6" },
+    "news": { "label": "All Hanshin Kyojin Comedy" },
+    "to-watch": { "label": "Umibozu Concerts" },
+    "download-tools": { "label": "Height Measure" },
+    "my-profile": { "label": "Risa" },
+    "watch-together": { "label": "Risa & Otani" },
     "home": {
       "label": "Osaka High"
     },

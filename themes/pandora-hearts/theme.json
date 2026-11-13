@@ -1,5 +1,7 @@
 {
   "id": "pandora-hearts",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "clock", "discover": "key", "lists": "book-open", "my-profile": "crown", "community": "users", "achievements": "rose", "watch-together": "coffee", "settings": "clock" },
   "displayName": "Pandora Hearts",
   "description": "At his coming-of-age ceremony, noble Oz Bezarius is cast into the Abyss — a dark realm of Chains and Will — and contracts with Alice, the Blood-stained Black Rabbit, to escape into a world of dark secrets.",
   "fontFamily": "'Cormorant Garamond', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Pandora Headquarters" },
+    "news": { "label": "Duke Houses' Letters" },
+    "to-watch": { "label": "Chains to Seal" },
+    "download-tools": { "label": "Pocket Watch" },
+    "my-profile": { "label": "Oz Vessalius" },
+    "watch-together": { "label": "Tea Party" },
     "home": {
       "label": "Pandora HQ"
     },

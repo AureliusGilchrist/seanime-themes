@@ -1,5 +1,7 @@
 {
   "id": "hidamari-sketch",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "palette", "my-profile": "palette-brush", "community": "users", "achievements": "star", "watch-together": "utensils", "settings": "pencil" },
   "displayName": "Hidamari Sketch",
   "description": "Yuno enrolls in an art high school and moves into the Hidamari Apartments, where she and her neighbors — Miyako, Hiro, and Sae — share cozy daily life while growing as artists.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Gentle"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Hidamari Apartments" },
+    "news": { "label": "Yamabuki High Notices" },
+    "to-watch": { "label": "Art Assignments" },
+    "download-tools": { "label": "Sketching Kit" },
+    "my-profile": { "label": "Yuno" },
+    "watch-together": { "label": "Hidamari Dinner" },
     "home": {
       "label": "Hidamari Apts"
     },

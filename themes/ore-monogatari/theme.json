@@ -1,5 +1,7 @@
 {
   "id": "ore-monogatari",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "cookie", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "cookie" },
   "displayName": "My Love Story!!",
   "description": "Gentle giant Takeo Gouda is intimidating but kind-hearted — always losing girls to his handsome best friend. When soft-spoken Rinko falls for Takeo himself, he can hardly believe he's actually loved.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Takeo's Home" },
+    "news": { "label": "Sunakawa's Updates" },
+    "to-watch": { "label": "Date Plans" },
+    "download-tools": { "label": "Yamato's Baking" },
+    "my-profile": { "label": "Takeo" },
+    "watch-together": { "label": "Takeo & Yamato" },
     "home": {
       "label": "Takeo"
     },

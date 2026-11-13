@@ -1,5 +1,7 @@
 {
   "id": "takagi-san",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "bicycle", "settings": "pencil" },
   "displayName": "Teasing Master Takagi-san",
   "description": "Middle schooler Nishikata vows to get back at his classmate Takagi, who teases him mercilessly. But she always reads him perfectly — and her gentle teasing hides feelings deeper than either will admit.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Teasing Master Takagi-san"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Neighbouring Desks" },
+    "news": { "label": "Mina, Yukari & Sanae" },
+    "to-watch": { "label": "Revenge Plans" },
+    "download-tools": { "label": "Prank Kit" },
+    "my-profile": { "label": "Nishikata" },
+    "watch-together": { "label": "Bike Ride Home" },
     "home": {
       "label": "Classroom",
       "icon": "school"
@@ -949,11 +957,6 @@
     "debrid": {
       "label": "Secret Vault",
       "icon": "lock"
-    },
-    "settings": {
-      "label": "School Settings",
-      "icon": "cog"
-    }
     },
     "unmatched": {
       "label": "Unread Feelings"

@@ -1,5 +1,7 @@
 {
   "id": "horimiya",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "utensils" },
   "displayName": "Horimiya",
   "description": "Popular student Kyouko Hori and quiet loner Izumi Miyamura each hide secret sides of themselves — when they accidentally discover each other's true faces outside school, an unexpected friendship blossoms into romance.",
   "fontFamily": "'M PLUS 1p', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Hori's House" },
+    "news": { "label": "Class Whispers" },
+    "to-watch": { "label": "Grocery List" },
+    "download-tools": { "label": "Miyamura's Piercings" },
+    "my-profile": { "label": "Miyamura" },
+    "watch-together": { "label": "After School Together" },
     "home": {
       "label": "Katagiri High"
     },

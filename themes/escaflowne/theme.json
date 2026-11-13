@@ -1,5 +1,7 @@
 {
   "id": "escaflowne",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "castle", "search": "crystal-ball", "schedule": "moon", "discover": "planet", "lists": "scroll", "my-profile": "dragon", "community": "users", "achievements": "gem", "watch-together": "heart", "settings": "sword" },
   "displayName": "The Vision of Escaflowne",
   "description": "A girl, a destiny, a world of dragons and guymelefs. Gaean interface forged in fate threads, tarot visions, and Ispano craftsmanship.",
   "fontFamily": "'Cinzel Decorative', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Dual"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Gaea" },
+    "news": { "label": "Tarot Readings" },
+    "to-watch": { "label": "Fate Alteration Plans" },
+    "download-tools": { "label": "Guymelef Hangar" },
+    "my-profile": { "label": "Girl from the Mystic Moon" },
+    "watch-together": { "label": "Van & Hitomi" },
     "home": {
       "label": "Fanelia Throne"
     },

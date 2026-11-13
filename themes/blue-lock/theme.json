@@ -1,5 +1,7 @@
 {
   "id": "blue-lock",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "stopwatch", "discover": "globe", "lists": "list-ol", "my-profile": "running", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "bullseye" },
   "displayName": "Blue Lock",
   "description": "Devour it all. A striker's interface forged in Blue Lock's ego-driven facility — spatial awareness, chemical reactions, and the hunger to become the world's best.",
   "fontFamily": "'Exo 2', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "World's Greatest Egoist"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Blue Lock Facility" },
+    "news": { "label": "Ego's Broadcast" },
+    "to-watch": { "label": "Selection Rounds" },
+    "download-tools": { "label": "Training Room" },
+    "my-profile": { "label": "Striker" },
+    "watch-together": { "label": "Team Z" },
     "home": {
       "label": "Facility Hub"
     },

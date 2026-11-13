@@ -1,5 +1,7 @@
 {
   "id": "91-days",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "cocktail", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "file-alt", "my-profile": "user-secret", "community": "users", "achievements": "coins", "watch-together": "user-friends", "settings": "gun" },
   "displayName": "91 Days",
   "description": "During Prohibition, Angelo Lagusa witnesses his family's murder by the Vanetti mafia. Seven years later, he returns under a false identity to exact revenge — infiltrating the mob that destroyed his life.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate 91"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Lawless Speakeasy" },
+    "news": { "label": "Word on the Street" },
+    "to-watch": { "label": "The Hit List" },
+    "download-tools": { "label": "Bootleg Still" },
+    "my-profile": { "label": "Avilio's Alias" },
+    "watch-together": { "label": "Drink with Nero" },
     "home": {
       "label": "Lawless Town"
     },

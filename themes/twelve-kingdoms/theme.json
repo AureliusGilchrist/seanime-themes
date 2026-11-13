@@ -1,5 +1,7 @@
 {
   "id": "twelve-kingdoms",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "crown", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "The Twelve Kingdoms",
   "description": "Ordinary schoolgirl Yoko is suddenly transported to a mysterious world of twelve kingdoms where she must survive, grow, and eventually become a true ruler worthy of the throne.",
   "fontFamily": "'Noto Serif JP', serif",
@@ -922,6 +924,12 @@
     "1000": "The Twelve Kingdoms"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kingdom of Kei" },
+    "news": { "label": "Heavenly Mandate" },
+    "to-watch": { "label": "Kingdoms to Visit" },
+    "download-tools": { "label": "Suiguutou Sword" },
+    "my-profile": { "label": "Youko" },
+    "watch-together": { "label": "With Rakushun" },
     "home": {
       "label": "Kingdom"
     },

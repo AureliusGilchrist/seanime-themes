@@ -1,5 +1,7 @@
 {
   "id": "samurai-champloo",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "route", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "katana", "community": "users", "achievements": "flower", "watch-together": "utensils", "settings": "headphones" },
   "displayName": "Samurai Champloo",
   "description": "If you don't like the hand that fate's dealt you, fight for a new one. Hip-hop beats, katana clashes, and the endless search for the sunflower samurai across Edo Japan.",
   "fontFamily": "'Permanent Marker', cursive",
@@ -873,6 +875,12 @@
     "1000": "Samurai Champloo"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Road to Nagasaki" },
+    "news": { "label": "Wanted Posters" },
+    "to-watch": { "label": "Samurai Who Smells of Sunflowers" },
+    "download-tools": { "label": "Mugen's Blade" },
+    "my-profile": { "label": "Wandering Samurai" },
+    "watch-together": { "label": "Dumplings with Fuu" },
     "home": {
       "label": "Wayward Inn"
     },

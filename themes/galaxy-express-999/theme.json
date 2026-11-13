@@ -1,5 +1,7 @@
 {
   "id": "galaxy-express-999",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "planet", "search": "satellite", "schedule": "clock", "discover": "route", "lists": "file-alt", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "key" },
   "displayName": "Galaxy Express 999",
   "description": "Board the steam locomotive that crosses the stars — Tetsuro's journey for a mechanical body becomes a philosophical voyage across the galaxy with the mysterious Maetel.",
   "fontFamily": "'Cinzel', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Soul"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Megalopolis Station" },
+    "news": { "label": "Conductor's Announcements" },
+    "to-watch": { "label": "Next Stops" },
+    "download-tools": { "label": "Dining Car" },
+    "my-profile": { "label": "Tetsuro" },
+    "watch-together": { "label": "With Maetel" },
     "home": {
       "label": "Platform 999"
     },

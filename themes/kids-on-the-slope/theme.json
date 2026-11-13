@@ -1,5 +1,7 @@
 {
   "id": "kids-on-the-slope",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "music", "search": "headphones", "schedule": "calendar-alt", "discover": "map-pin", "lists": "music", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "drum", "settings": "music" },
   "displayName": "Kids on the Slope",
   "description": "Introverted classical pianist Kaoru moves to Kyushu in 1966 and befriends wild drummer Sentaro — through jazz, summer and hardship, an unlikely friendship and love story unfolds in postwar Japan.",
   "fontFamily": "'Libre Baskerville', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Record Shop Basement" },
+    "news": { "label": "Sasebo Gossip" },
+    "to-watch": { "label": "Jazz Standards" },
+    "download-tools": { "label": "Piano & Drums" },
+    "my-profile": { "label": "Kaoru" },
+    "watch-together": { "label": "Jam Session" },
     "home": {
       "label": "Kyushu"
     },

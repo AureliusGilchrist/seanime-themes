@@ -1,5 +1,7 @@
 {
   "id": "rent-a-girlfriend",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "film", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "coins" },
   "displayName": "Rent-A-Girlfriend",
   "description": "After being dumped, college student Kazuya Kinoshita discovers rental girlfriend services and hires Chizuru Mizuhara — a stunningly beautiful and professional companion with secrets of her own.",
   "fontFamily": "'M PLUS Rounded 1c', sans-serif",
@@ -924,6 +926,12 @@
     "1000": "Rent-a-Girlfriend Supreme"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Apartment Next Door" },
+    "news": { "label": "Diamond App Reviews" },
+    "to-watch": { "label": "Rental Bookings" },
+    "download-tools": { "label": "Film Set" },
+    "my-profile": { "label": "Kazuya" },
+    "watch-together": { "label": "Rental Date" },
     "home": {
       "label": "Date HQ",
       "icon": "heart"

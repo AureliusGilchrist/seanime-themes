@@ -1,5 +1,7 @@
 {
   "id": "greatest-demon-lord",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "spellbook", "my-profile": "crown", "community": "users", "achievements": "gem", "watch-together": "user-friends", "settings": "staff" },
   "displayName": "The Greatest Demon Lord is Reborn as a Typical Nobody",
   "description": "Varvatos, the greatest Demon Lord in history, chooses to reincarnate as an ordinary person to experience friendship and connection. But his godlike power still leaks out, making a normal school life completely impossible.",
   "fontFamily": "'Cinzel', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Royal Academy of Magic" },
+    "news": { "label": "Academy Rumours" },
+    "to-watch": { "label": "A Normal Life Plan" },
+    "download-tools": { "label": "Demon Lord's Armory" },
+    "my-profile": { "label": "Ard Meteor" },
+    "watch-together": { "label": "Friends at Last" },
     "home": {
       "label": "Demon Lord"
     },

@@ -1,5 +1,7 @@
 {
   "id": "to-your-eternity",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "snowflake", "search": "eye", "schedule": "hourglass", "discover": "route", "lists": "users", "my-profile": "wolf-head", "community": "users", "achievements": "infinity", "watch-together": "campground", "settings": "feather" },
   "displayName": "To Your Eternity",
   "description": "An immortal being cast upon the Earth takes the form of a rock, then moss, then a dying wolf, and finally a lonely boy — beginning an eternal journey of loss, love, and the search for what it means to be alive.",
   "fontFamily": "'Lora', serif",
@@ -923,6 +925,12 @@
     "1000": "To Your Eternity"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Frozen Tundra" },
+    "news": { "label": "The Beholder's Words" },
+    "to-watch": { "label": "Lands to Wander" },
+    "download-tools": { "label": "Vessel Forms" },
+    "my-profile": { "label": "Fushi" },
+    "watch-together": { "label": "Gugu's Kitchen" },
     "home": {
       "label": "Fushi",
       "icon": "infinity"

@@ -1,5 +1,7 @@
 {
   "id": "fate-stay-night",
+  "playerIconSet": "rune",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "moon", "discover": "map", "lists": "users", "my-profile": "sword", "community": "users", "achievements": "crown", "watch-together": "utensils", "settings": "rune-stone" },
   "displayName": "Fate/stay night",
   "description": "Shirou Emiya is thrust into the fifth Holy Grail War — a secret battle where seven Masters summon heroic Servants to fight for the omnipotent wish-granting relic known as the Holy Grail.",
   "fontFamily": "'Libre Baskerville', serif",
@@ -873,6 +875,12 @@
     "1000": "This is the Only Path"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Emiya Residence" },
+    "news": { "label": "Church Overseer" },
+    "to-watch": { "label": "Masters to Face" },
+    "download-tools": { "label": "Unlimited Blade Works" },
+    "my-profile": { "label": "Master of Saber" },
+    "watch-together": { "label": "Dinner at the Emiyas'" },
     "home": {
       "label": "Fuyuki City"
     },

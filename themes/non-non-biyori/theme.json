@@ -1,5 +1,7 @@
 {
   "id": "non-non-biyori",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "tree", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "leaf" },
   "displayName": "Non Non Biyori",
   "description": "City girl Hotaru moves to a tiny rural village with only five students at the local branch school. The slow-paced days of countryside living unfold with the gentle warmth of nature and the innocence of childhood.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Asahigaoka Branch School" },
+    "news": { "label": "Village Bulletin" },
+    "to-watch": { "label": "Summer Plans" },
+    "download-tools": { "label": "Candy Shop" },
+    "my-profile": { "label": "Nyanpasu~" },
+    "watch-together": { "label": "Countryside Walk" },
     "home": {
       "label": "Asahigaoka"
     },

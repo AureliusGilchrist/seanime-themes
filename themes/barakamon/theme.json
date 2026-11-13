@@ -1,5 +1,7 @@
 {
   "id": "barakamon",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "island", "search": "search", "schedule": "calendar-alt", "discover": "water", "lists": "scroll", "my-profile": "palette-brush", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "feather" },
   "displayName": "Barakamon",
   "description": "Calligrapher Seishuu Handa, criticized for being too textbook-perfect, punches a curator and is exiled to the Goto Islands. The island's warm villagers — especially a mischievous girl named Naru — teach him what real art means.",
   "fontFamily": "",
@@ -873,6 +875,12 @@
     "1000": "Barakamon"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Goto Island" },
+    "news": { "label": "Village Gossip" },
+    "to-watch": { "label": "Calligraphy Practice" },
+    "download-tools": { "label": "Brush & Ink Stone" },
+    "my-profile": { "label": "Handa-sensei" },
+    "watch-together": { "label": "Naru's Visit" },
     "home": {
       "label": "Goto Islands"
     },

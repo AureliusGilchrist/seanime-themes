@@ -1,5 +1,7 @@
 {
   "id": "yuru-camp",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "campground", "search": "search", "schedule": "calendar-alt", "discover": "mountain", "lists": "map", "my-profile": "user", "community": "users", "achievements": "star", "watch-together": "campground", "settings": "fire" },
   "displayName": "Laid-Back Camp",
   "description": "Rin Shima loves solo camping under Mount Fuji's glow. When she meets the enthusiastic Nadeshiko, their peaceful camp nights spark an unlikely club and a journey through Japan's beautiful wilderness.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Laid-Back Camp"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Lake Motosu Campsite" },
+    "news": { "label": "Outdoor Club Chat" },
+    "to-watch": { "label": "Campsites to Visit" },
+    "download-tools": { "label": "Camping Gear" },
+    "my-profile": { "label": "Rin" },
+    "watch-together": { "label": "Hot Pot by the Fire" },
     "home": {
       "label": "Rin",
       "icon": "campground"

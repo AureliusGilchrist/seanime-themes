@@ -1,5 +1,7 @@
 {
   "id": "gundam",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-times", "discover": "planet", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "medal", "watch-together": "user-friends", "settings": "satellite" },
   "displayName": "Mobile Suit Gundam",
   "description": "The One Year War rages between Earth Federation and Zeon — aboard White Base, young Amuro Ray pilots the RX-78-2 and discovers that war is not about heroes, only people.",
   "fontFamily": "'Rajdhani', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Human"
   },
   "sidebarOverrides": {
+    "landing": { "label": "White Base" },
+    "news": { "label": "Zeon Broadcast" },
+    "to-watch": { "label": "Sortie Orders" },
+    "download-tools": { "label": "RX-78 Hangar" },
+    "my-profile": { "label": "Amuro Ray" },
+    "watch-together": { "label": "White Base Crew" },
     "home": {
       "label": "White Base"
     },

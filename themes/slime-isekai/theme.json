@@ -1,5 +1,7 @@
 {
   "id": "slime-isekai",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "users", "my-profile": "dragon", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "brain" },
   "displayName": "That Time I Got Reincarnated as a Slime",
   "description": "Rimuru's nation-building. Benevolent Demon Lord in teal & blue slime.",
   "fontFamily": "'Quicksand', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "The One Who Transcended"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Tempest" },
+    "news": { "label": "Great Sage Report" },
+    "to-watch": { "label": "Nation Projects" },
+    "download-tools": { "label": "Kaijin's Workshop" },
+    "my-profile": { "label": "Rimuru" },
+    "watch-together": { "label": "Tempest Festival" },
     "home": {
       "label": "Tempest Kingdom"
     },

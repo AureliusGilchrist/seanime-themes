@@ -1,5 +1,7 @@
 {
   "id": "kare-kano",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "mask", "community": "users", "achievements": "medal", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Kare Kano",
   "description": "Two model students — the perfect-looking Yukino and the cool Arima — discover each other's true selves, then fall deeply in love. Hideaki Anno's intimate romance masterpiece.",
   "fontFamily": "'Nunito', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Hokuei High" },
+    "news": { "label": "Class Rankings" },
+    "to-watch": { "label": "Study Schedule" },
+    "download-tools": { "label": "Model Student Mask" },
+    "my-profile": { "label": "Yukino" },
+    "watch-together": { "label": "Yukino & Arima" },
     "home": {
       "label": "True Self"
     },

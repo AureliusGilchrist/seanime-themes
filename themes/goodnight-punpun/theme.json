@@ -1,5 +1,7 @@
 {
   "id": "goodnight-punpun",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "book-open", "my-profile": "feather", "community": "users", "achievements": "star", "watch-together": "heart", "settings": "moon" },
   "displayName": "Goodnight Punpun",
   "description": "Oyasumi Punpun. A bird-boy grows up in silence and sorrow — existential dread, first love, and the god who never answers.",
   "fontFamily": "'Noto Serif JP', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Existential"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Punpun's Room" },
+    "news": { "label": "Pegasus Group Transmissions" },
+    "to-watch": { "label": "Promises to Aiko" },
+    "download-tools": { "label": "Manga Desk" },
+    "my-profile": { "label": "Punpun" },
+    "watch-together": { "label": "Stargazing with Aiko" },
     "home": {
       "label": "Punpun"
     },

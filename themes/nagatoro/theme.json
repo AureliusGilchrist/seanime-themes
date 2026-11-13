@@ -1,5 +1,7 @@
 {
   "id": "nagatoro",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "palette", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "palette-brush", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "pencil" },
   "displayName": "Don't Toy with Me, Miss Nagatoro",
   "description": "Antisocial art-club loner Naoto gets teased relentlessly by the energetic, sadistic Nagatoro — yet she keeps coming back. Beneath her taunting is genuine affection that slowly draws him out of his shell.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Art Club Room" },
+    "news": { "label": "Nagatoro's Friends" },
+    "to-watch": { "label": "Paintings to Finish" },
+    "download-tools": { "label": "Senpai's Sketchbook" },
+    "my-profile": { "label": "Senpai" },
+    "watch-together": { "label": "Teasing Time" },
     "home": {
       "label": "Art Club Room"
     },

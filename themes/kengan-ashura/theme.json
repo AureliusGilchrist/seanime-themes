@@ -1,5 +1,7 @@
 {
   "id": "kengan-ashura",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-check", "discover": "map-signs", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "briefcase" },
   "displayName": "Kengan Ashura",
   "description": "In a secret world where business disputes are settled by hired fighters, ordinary man Ohma Tokita joins the Kengan matches for reasons of his own — devastating opponents with a unique fighting style called Niko Style.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Kengan Arena" },
+    "news": { "label": "Kengan Association" },
+    "to-watch": { "label": "Annihilation Matches" },
+    "download-tools": { "label": "Nogi Group Gym" },
+    "my-profile": { "label": "The Ashura" },
+    "watch-together": { "label": "VIP Box" },
     "home": {
       "label": "Kengan Arena"
     },

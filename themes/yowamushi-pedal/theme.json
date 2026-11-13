@@ -1,5 +1,7 @@
 {
   "id": "yowamushi-pedal",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "bicycle", "search": "binoculars", "schedule": "stopwatch", "discover": "route", "lists": "list-ol", "my-profile": "bicycle", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "tools" },
   "displayName": "Yowamushi Pedal",
   "description": "Otaku Sakamichi Onoda commutes 45km to school on a mamachari to get to Akihabara. Discovered by cycling enthusiasts, he joins the road racing club and his incredible natural climbing ability astounds everyone.",
   "fontFamily": "",
@@ -923,6 +925,12 @@
     "1000": "Yowamushi Pedal Champion"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Sohoku Cycling Club" },
+    "news": { "label": "Inter-High Race News" },
+    "to-watch": { "label": "Climbs Ahead" },
+    "download-tools": { "label": "Bike Workshop" },
+    "my-profile": { "label": "Onoda" },
+    "watch-together": { "label": "Akihabara Ride" },
     "home": {
       "label": "Sohoku High",
       "icon": "school"

@@ -1,5 +1,7 @@
 {
   "id": "kamisama-kiss",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "temple", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "fox", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "flower" },
   "displayName": "Kamisama Kiss",
   "description": "Homeless high-schooler Nanami is accidentally made a land god by a stranger. She inherits his shrine and his reluctant fox familiar Tomoe — who is proud, powerful, and slowly, unavoidably falling for her.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Mikage Shrine" },
+    "news": { "label": "Izumo Gathering" },
+    "to-watch": { "label": "Prayers to Answer" },
+    "download-tools": { "label": "Shrine Charms" },
+    "my-profile": { "label": "Land God" },
+    "watch-together": { "label": "Tomoe & Nanami" },
     "home": {
       "label": "Mikage Shrine"
     },

@@ -1,5 +1,7 @@
 {
   "id": "wotakoi",
+  "playerIconSet": "pixel",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "gamepad", "my-profile": "user", "community": "users", "achievements": "heart", "watch-together": "gamepad", "settings": "gamepad" },
   "displayName": "Wotakoi: Love is Hard for Otaku",
   "description": "Office worker Narumi Momose is a closeted fujoshi who reunites with childhood friend and hardcore gamer Hirotaka Nifuji — they decide to date despite both being otaku, leading to an endearingly awkward workplace romance.",
   "fontFamily": "'Kosugi Maru', sans-serif",
@@ -924,6 +926,12 @@
     "1000": "Wotakoi Master"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Office Break Room" },
+    "news": { "label": "Comiket Announcements" },
+    "to-watch": { "label": "Backlog" },
+    "download-tools": { "label": "Gaming Setup" },
+    "my-profile": { "label": "Closet Otaku" },
+    "watch-together": { "label": "Co-op Night" },
     "home": {
       "label": "Office Floor",
       "icon": "building"

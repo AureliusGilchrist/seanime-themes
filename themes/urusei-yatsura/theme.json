@@ -1,5 +1,7 @@
 {
   "id": "urusei-yatsura",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "ufo", "lists": "users", "my-profile": "user", "community": "users", "achievements": "bolt", "watch-together": "heart", "settings": "bolt" },
   "displayName": "Urusei Yatsura",
   "description": "The world's unluckiest lecher Ataru Moroboshi must now live with Lum, the adorable horned alien oni who fell in love with him — zapping him is her love language.",
   "fontFamily": "'M PLUS Rounded 1c', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Urusei Yatsura"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Moroboshi House" },
+    "news": { "label": "Tomobiki High Gossip" },
+    "to-watch": { "label": "Ataru's Schemes" },
+    "download-tools": { "label": "Oni Tech" },
+    "my-profile": { "label": "Darling" },
+    "watch-together": { "label": "Lum's Visit" },
     "home": {
       "label": "Tomobiki Town"
     },

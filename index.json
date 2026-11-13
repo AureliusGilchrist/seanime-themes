@@ -1047,6 +1047,24 @@
                        "createdAt":  "2025-01-01"
                    },
                    {
+                       "id":  "bleach-tybw",
+                       "name":  "Bleach: Thousand-Year Blood War",
+                       "description":  "The Quincy of the Wandenreich invade Soul Society to settle a thousand-year-old grudge, and Ichigo learns the truth behind his Zanpakutō.",
+                       "author":  "seanime",
+                       "tags":  [
+
+                                ],
+                       "previewColors":  {
+                                             "bg":  "#07080b",
+                                             "primary":  "#d3243a",
+                                             "secondary":  "#dce6f0",
+                                             "accent":  "#7fd4ff"
+                                         },
+                       "themeRef":  "themes/bleach-tybw/theme.json",
+                       "backgroundImageUrl":  "",
+                       "createdAt":  "2026-11-13"
+                   },
+                   {
                        "id":  "blue-box",
                        "name":  "Blue Box",
                        "description":  "Taiki Inomaki, a badminton player, falls for upperclassman and basketball star Chinatsu Kano. When they unexpectedly become housemates, their awkward coexistence slowly blossoms into an earnest romantic story.",

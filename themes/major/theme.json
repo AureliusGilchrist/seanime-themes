@@ -1,5 +1,7 @@
 {
   "id": "major",
+  "playerIconSet": "gear",
+  "sidebarIcons": { "landing": "flag", "search": "binoculars", "schedule": "calendar-check", "discover": "globe", "lists": "list-ol", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "stopwatch" },
   "displayName": "Major",
   "description": "Goro Honda loses his father to baseball but inherits his passionate love for the sport. From childhood to the major leagues, Goro's relentless drive carries him through injury, loss, and an unbreakable will to pitch.",
   "fontFamily": "",
@@ -873,6 +875,12 @@
     "1000": "The Major Dream"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Mifune Dolphins Field" },
+    "news": { "label": "Scouting Reports" },
+    "to-watch": { "label": "Games Ahead" },
+    "download-tools": { "label": "Bullpen" },
+    "my-profile": { "label": "Goro" },
+    "watch-together": { "label": "Catch with Toshi" },
     "home": {
       "label": "Mound"
     },

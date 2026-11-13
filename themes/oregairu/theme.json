@@ -1,5 +1,7 @@
 {
   "id": "oregairu",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "user-slash", "community": "users", "achievements": "medal", "watch-together": "coffee", "settings": "coffee" },
   "displayName": "My Teen Romantic Comedy SNAFU",
   "description": "Hachiman Hikigaya, a cynical loner, joins the Service Club with the radiant Yukino Yukinoshita and sunny Yui Yuigahama. Beneath witty banter lies a genuine search for authentic connections.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Service Club Room" },
+    "news": { "label": "Hiratsuka-sensei's Assignments" },
+    "to-watch": { "label": "Club Requests" },
+    "download-tools": { "label": "MAX Coffee" },
+    "my-profile": { "label": "Hachiman" },
+    "watch-together": { "label": "Service Club" },
     "home": {
       "label": "Service Club"
     },

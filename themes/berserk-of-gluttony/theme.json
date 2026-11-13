@@ -1,5 +1,7 @@
 {
   "id": "berserk-of-gluttony",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "castle", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "sword", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "utensils" },
   "displayName": "Berserk of Gluttony",
   "description": "Devour to grow stronger. A dark interface channeling Fate Graphite's insatiable Gluttony skill, soul absorption, and the hunger that consumes all.",
   "fontFamily": "'Philosopher', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Perfect"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Gate Guard Post" },
+    "news": { "label": "Holy Knight Decrees" },
+    "to-watch": { "label": "Souls to Devour" },
+    "download-tools": { "label": "Greed's Armory" },
+    "my-profile": { "label": "Fate Graphite" },
+    "watch-together": { "label": "With Roxy" },
     "home": {
       "label": "Hollow Den"
     },

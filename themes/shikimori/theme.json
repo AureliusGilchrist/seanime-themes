@@ -1,5 +1,7 @@
 {
   "id": "shikimori",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "shield-alt", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "flower" },
   "displayName": "Shikimori's Not Just a Cutie",
   "description": "Izumi is accident-prone and unlucky, but his girlfriend Shikimori is a perfect beauty who transforms into something dazzling when protecting him. Their sweet relationship proves that cool and cute go together.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "School Gate" },
+    "news": { "label": "Friends' Chatter" },
+    "to-watch": { "label": "Date Ideas" },
+    "download-tools": { "label": "Izumi's Bad-Luck Kit" },
+    "my-profile": { "label": "Cool Mode" },
+    "watch-together": { "label": "Shikimori & Izumi" },
     "home": {
       "label": "Shikimori"
     },

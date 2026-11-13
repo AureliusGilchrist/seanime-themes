@@ -1,5 +1,7 @@
 {
   "id": "welcome-to-nhk",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-times", "discover": "map-signs", "lists": "gamepad", "my-profile": "user-slash", "community": "users", "achievements": "star", "watch-together": "user-friends", "settings": "lock" },
   "displayName": "Welcome to the NHK",
   "description": "Tatsuhiro Satou is a hikikomori convinced a conspiracy called NHK is ruining his life. When a mysterious girl named Misaki knocks on his door offering help, his shut-in existence is slowly, painfully dismantled.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Welcome to the N.H.K."
   },
   "sidebarOverrides": {
+    "landing": { "label": "Satou's Apartment" },
+    "news": { "label": "NHK Conspiracy" },
+    "to-watch": { "label": "Misaki's Project" },
+    "download-tools": { "label": "Eroge Studio" },
+    "my-profile": { "label": "Hikikomori" },
+    "watch-together": { "label": "Counselling Session" },
     "home": {
       "label": "Satou"
     },

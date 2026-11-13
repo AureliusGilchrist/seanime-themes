@@ -1,5 +1,7 @@
 {
   "id": "wind-breaker",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "users", "my-profile": "user", "community": "users", "achievements": "trophy", "watch-together": "user-friends", "settings": "shield-alt" },
   "displayName": "Wind Breaker",
   "description": "Loner Haruka Sakura transfers to Furin High — a school of delinquents who secretly protect their town from outside threats, clashing with gangs and building bonds through street brawls and unbreakable loyalty.",
   "fontFamily": "'Bebas Neue', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Wind Breaker"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Furin High" },
+    "news": { "label": "Makochi Street Notices" },
+    "to-watch": { "label": "Patrol Routes" },
+    "download-tools": { "label": "Pothos Café" },
+    "my-profile": { "label": "Sakura" },
+    "watch-together": { "label": "Bofurin Patrol" },
     "home": {
       "label": "Furin HQ"
     },

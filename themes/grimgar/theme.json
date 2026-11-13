@@ -1,5 +1,7 @@
 {
   "id": "grimgar",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-alt", "discover": "map", "lists": "scroll", "my-profile": "user", "community": "users", "achievements": "coins", "watch-together": "campground", "settings": "bow-arrow" },
   "displayName": "Grimgar of Fantasy and Ash",
   "description": "A group of strangers wake in the fantasy world of Grimgar with no memories. With no special powers or easy answers, they form a weak party and struggle to survive, learning the true cost of taking a life.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Fragile"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Altana" },
+    "news": { "label": "Crimson Moon Notices" },
+    "to-watch": { "label": "Hunting Grounds" },
+    "download-tools": { "label": "Market Stalls" },
+    "my-profile": { "label": "Volunteer Soldier" },
+    "watch-together": { "label": "Haruhiro's Party" },
     "home": {
       "label": "Grimgar"
     },

@@ -1,5 +1,7 @@
 {
   "id": "hyouka",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "school", "search": "search-location", "schedule": "calendar-alt", "discover": "map-signs", "lists": "book-open", "my-profile": "user", "community": "users", "achievements": "puzzle-piece", "watch-together": "user-friends", "settings": "coffee" },
   "displayName": "Hyouka",
   "description": "The energy-conserving Houtarou Oreki joins the Classics Club to save his sister the trouble. Alongside the curious Chitanda Eru, every mundane mystery becomes a window into the human heart.",
   "fontFamily": "",
@@ -873,6 +875,12 @@
     "1000": "Hyouka"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Classics Club Room" },
+    "news": { "label": "Kan'ya Festival Bulletin" },
+    "to-watch": { "label": "I'm Curious!" },
+    "download-tools": { "label": "Club Anthology" },
+    "my-profile": { "label": "Energy-Conserving Oreki" },
+    "watch-together": { "label": "Classics Club Meeting" },
     "home": {
       "label": "Classics Club"
     },

@@ -1,5 +1,7 @@
 {
   "id": "owari-no-seraph",
+  "playerIconSet": "thorn",
+  "sidebarIcons": { "landing": "building", "search": "eye", "schedule": "calendar-times", "discover": "map-signs", "lists": "bat", "my-profile": "demon", "community": "users", "achievements": "skull", "watch-together": "user-friends", "settings": "sword" },
   "displayName": "Seraph of the End",
   "description": "After a mysterious virus wipes out most of humanity, vampires emerge to enslave the survivors — orphan Yuichiro Hyakuya escapes and joins the Japanese Imperial Demon Army's Moon Demon Company to take revenge on the vampires.",
   "fontFamily": "'Cinzel Decorative', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Moon Demon Company" },
+    "news": { "label": "JIDA Orders" },
+    "to-watch": { "label": "Vampire Nobles" },
+    "download-tools": { "label": "Cursed Gear" },
+    "my-profile": { "label": "Yu" },
+    "watch-together": { "label": "Shinoa Squad" },
     "home": {
       "label": "Shinoa Squad"
     },

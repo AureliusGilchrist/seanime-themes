@@ -1,5 +1,7 @@
 {
   "id": "fruits-basket",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "calendar-alt", "discover": "leaf", "lists": "paw", "my-profile": "cat", "community": "users", "achievements": "heart", "watch-together": "utensils", "settings": "flower" },
   "displayName": "Fruits Basket",
   "description": "Orphaned Tohru Honda moves into the Soma family estate and discovers their secret — members of the zodiac are cursed to transform when hugged by the opposite sex. A healing story of love and broken curses.",
   "fontFamily": "'Dancing Script', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Harmony"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Shigure's House" },
+    "news": { "label": "Sohma Family News" },
+    "to-watch": { "label": "Secret Base Garden" },
+    "download-tools": { "label": "Leek Patch" },
+    "my-profile": { "label": "Tohru" },
+    "watch-together": { "label": "Sohma Banquet" },
     "home": {
       "label": "Soma Estate"
     },

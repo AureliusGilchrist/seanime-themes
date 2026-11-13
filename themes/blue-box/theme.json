@@ -1,5 +1,7 @@
 {
   "id": "blue-box",
+  "playerIconSet": "petal",
+  "sidebarIcons": { "landing": "school", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "clipboard-list", "my-profile": "user", "community": "users", "achievements": "medal", "watch-together": "heart", "settings": "basketball" },
   "displayName": "Blue Box",
   "description": "Taiki Inomaki, a badminton player, falls for upperclassman and basketball star Chinatsu Kano. When they unexpectedly become housemates, their awkward coexistence slowly blossoms into an earnest romantic story.",
   "fontFamily": "'Nunito', sans-serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Slice Youth"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Morning Gym" },
+    "news": { "label": "Club Notices" },
+    "to-watch": { "label": "Practice Goals" },
+    "download-tools": { "label": "Badminton Racket" },
+    "my-profile": { "label": "Taiki" },
+    "watch-together": { "label": "Under One Roof" },
     "home": {
       "label": "Sports Club"
     },

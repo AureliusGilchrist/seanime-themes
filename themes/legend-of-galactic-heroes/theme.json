@@ -1,5 +1,7 @@
 {
   "id": "legend-of-galactic-heroes",
+  "playerIconSet": "star",
+  "sidebarIcons": { "landing": "spaceship", "search": "radar", "schedule": "calendar-alt", "discover": "planet", "lists": "chess-board", "my-profile": "crown", "community": "users", "achievements": "medal", "watch-together": "coffee", "settings": "chess-knight" },
   "displayName": "Legend of the Galactic Heroes",
   "description": "An epic struggle between the Galactic Empire and the Free Planets Alliance, told through two military geniuses on opposing sides — Yang Wenli and Reinhard von Lohengramm.",
   "fontFamily": "'IM Fell English', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Iserlohn Fortress" },
+    "news": { "label": "Imperial Gazette" },
+    "to-watch": { "label": "Fleet Engagements" },
+    "download-tools": { "label": "Brünhild Bridge" },
+    "my-profile": { "label": "Admiral" },
+    "watch-together": { "label": "Tea with Yang" },
     "home": {
       "label": "Imperial Palace"
     },

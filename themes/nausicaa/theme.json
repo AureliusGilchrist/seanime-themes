@@ -1,5 +1,7 @@
 {
   "id": "nausicaa",
+  "playerIconSet": "leaf",
+  "sidebarIcons": { "landing": "castle", "search": "binoculars", "schedule": "calendar-alt", "discover": "tree", "lists": "spider", "my-profile": "feather", "community": "users", "achievements": "leaf", "watch-together": "user-friends", "settings": "wind" },
   "displayName": "Nausicaä of the Valley of the Wind",
   "description": "In a world consumed by the toxic Sea of Decay, Nausicaä rides the winds and seeks understanding between humanity and the giant insects — Miyazaki's ecological manifesto.",
   "fontFamily": "'Cormorant Garamond', serif",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Valley of the Wind" },
+    "news": { "label": "Tolmekian Movements" },
+    "to-watch": { "label": "Toxic Jungle Samples" },
+    "download-tools": { "label": "Mehve Glider" },
+    "my-profile": { "label": "Princess of the Valley" },
+    "watch-together": { "label": "With Teto" },
     "home": {
       "label": "Valley of the Wind"
     },

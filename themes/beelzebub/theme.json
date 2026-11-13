@@ -1,5 +1,7 @@
 {
   "id": "beelzebub",
+  "playerIconSet": "bolt",
+  "sidebarIcons": { "landing": "school", "search": "eye", "schedule": "calendar-alt", "discover": "map-signs", "lists": "list-ol", "my-profile": "demon", "community": "users", "achievements": "crown", "watch-together": "user-friends", "settings": "bolt" },
   "displayName": "Beelzebub",
   "description": "Delinquent Tatsumi Oga finds a baby floating down a river — who turns out to be the infant son of the Great Demon Lord, making Oga his chosen human parent. Now he must raise the future King of Demons while navigating high school brawls.",
   "fontFamily": "'Boogaloo', cursive",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Absolute"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Ishiyama High" },
+    "news": { "label": "Delinquent Grapevine" },
+    "to-watch": { "label": "Fights to Pick" },
+    "download-tools": { "label": "Demon Nursery" },
+    "my-profile": { "label": "Oga, the Parent" },
+    "watch-together": { "label": "Baby Beel's Nap" },
     "home": {
       "label": "Baby Beel"
     },

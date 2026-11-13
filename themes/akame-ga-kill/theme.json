@@ -1,5 +1,7 @@
 {
   "id": "akame-ga-kill",
+  "playerIconSet": "blade",
+  "sidebarIcons": { "landing": "castle", "search": "crosshairs", "schedule": "calendar-times", "discover": "map", "lists": "skull", "my-profile": "user-ninja", "community": "users", "achievements": "tombstone", "watch-together": "user-friends", "settings": "katana" },
   "displayName": "Akame ga Kill!",
   "description": "Country boy Tatsumi arrives in the capital seeking fortune and is recruited by Night Raid, a group of elite assassins using legendary weapons called Teigu to fight against the empire's ruthless corruption.",
   "fontFamily": "'Josefin Sans', sans-serif",
@@ -873,6 +875,12 @@
     "1000": "Akame's Legacy"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Night Raid Hideout" },
+    "news": { "label": "Capital Wanted Posters" },
+    "to-watch": { "label": "Assassination Targets" },
+    "download-tools": { "label": "Teigu Armory" },
+    "my-profile": { "label": "Night Raid Member" },
+    "watch-together": { "label": "Team Mission" },
     "home": {
       "label": "The Empire"
     },

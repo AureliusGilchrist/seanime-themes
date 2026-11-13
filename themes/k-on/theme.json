@@ -1,5 +1,7 @@
 {
   "id": "k-on",
+  "playerIconSet": "bubble",
+  "sidebarIcons": { "landing": "music", "search": "search", "schedule": "calendar-check", "discover": "map-pin", "lists": "music", "my-profile": "guitar", "community": "users", "achievements": "star", "watch-together": "coffee", "settings": "cookie" },
   "displayName": "K-On!",
   "description": "Four girls with zero musical experience stumble into forming the Light Music Club. Tea, cake, and guitar solos carry them from school concerts to the Budokan — in their dreams and hearts.",
   "fontFamily": "'Fredoka One', cursive",
@@ -873,6 +875,12 @@
     "1000": "Houkago Tea Time"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Light Music Club Room" },
+    "news": { "label": "School Festival Notice" },
+    "to-watch": { "label": "Practice (After Tea)" },
+    "download-tools": { "label": "Gitah's Case" },
+    "my-profile": { "label": "Ho-kago Member" },
+    "watch-together": { "label": "Ho-kago Tea Time" },
     "home": {
       "label": "Light Music Club"
     },

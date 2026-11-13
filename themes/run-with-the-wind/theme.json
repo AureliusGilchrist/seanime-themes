@@ -1,5 +1,7 @@
 {
   "id": "run-with-the-wind",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "home", "search": "search", "schedule": "stopwatch", "discover": "route", "lists": "list-ol", "my-profile": "running", "community": "users", "achievements": "medal", "watch-together": "utensils", "settings": "stopwatch" },
   "displayName": "Run with the Wind",
   "description": "Kakeru, a former track star, is recruited by the oddly charismatic Haiji who needs ten residents of Chikusei-so to form an Hakone Ekiden relay team. Together, ten unlikely runners chase an impossible dream.",
   "fontFamily": "",
@@ -923,6 +925,12 @@
     "1000": "Running Forever"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Chikusei-so" },
+    "news": { "label": "Hakone Ekiden News" },
+    "to-watch": { "label": "Training Runs" },
+    "download-tools": { "label": "Running Shoes" },
+    "my-profile": { "label": "Kakeru" },
+    "watch-together": { "label": "Dorm Dinner" },
     "home": {
       "label": "Chikusei-so",
       "icon": "home"

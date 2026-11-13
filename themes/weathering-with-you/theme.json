@@ -1,5 +1,7 @@
 {
   "id": "weathering-with-you",
+  "playerIconSet": "wave",
+  "sidebarIcons": { "landing": "building", "search": "search", "schedule": "cloud", "discover": "sun", "lists": "clipboard-list", "my-profile": "sun", "community": "users", "achievements": "sun", "watch-together": "heart", "settings": "cloud" },
   "displayName": "Weathering with You",
   "description": "Runaway Hodaka arrives in a rain-drenched Tokyo and meets Hina, a girl who can stop the rain and bring sunshine. As they build a life together, he must choose between the girl he loves and the world's weather.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Weathering with You"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Rooftop Shrine" },
+    "news": { "label": "Weather Forecast" },
+    "to-watch": { "label": "Sunshine Requests" },
+    "download-tools": { "label": "Sunshine Girl Service" },
+    "my-profile": { "label": "Sunshine Girl" },
+    "watch-together": { "label": "Hodaka & Hina" },
     "home": {
       "label": "Rainy Tokyo"
     },

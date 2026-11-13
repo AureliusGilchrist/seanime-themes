@@ -1,5 +1,7 @@
 {
   "id": "perfect-blue",
+  "playerIconSet": "moon",
+  "sidebarIcons": { "landing": "home", "search": "eye", "schedule": "calendar-times", "discover": "film", "lists": "film", "my-profile": "user-slash", "community": "users", "achievements": "star", "watch-together": "film", "settings": "mask" },
   "displayName": "Perfect Blue",
   "description": "Who are you? A fractured psychological thriller interface inspired by Mima Kirigoe's descent — shattered mirrors, stolen identities, and Satoshi Kon's masterpiece of paranoia.",
   "fontFamily": "'Lora', serif",
@@ -873,6 +875,12 @@
     "1000": "Perfect Blue"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Mima's Room" },
+    "news": { "label": "Mima's Room (the Website)" },
+    "to-watch": { "label": "Double Bind Shoots" },
+    "download-tools": { "label": "Fish Tank" },
+    "my-profile": { "label": "Who Are You?" },
+    "watch-together": { "label": "Screening Room" },
     "home": {
       "label": "Reflection"
     },

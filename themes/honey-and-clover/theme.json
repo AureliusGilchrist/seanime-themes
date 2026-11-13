@@ -1,5 +1,7 @@
 {
   "id": "honey-and-clover",
+  "playerIconSet": "brush",
+  "sidebarIcons": { "landing": "palette", "search": "search", "schedule": "calendar-alt", "discover": "bicycle", "lists": "book-open", "my-profile": "palette-brush", "community": "users", "achievements": "leaf", "watch-together": "user-friends", "settings": "pencil" },
   "displayName": "Honey and Clover",
   "description": "Five art-school students navigate the messy tangle of love, friendship, and creative ambition. Unrequited feelings and uncertain futures weave through their college years in this tender, bittersweet story.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Ultimate Bittersweet"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Hamami Art College" },
+    "news": { "label": "Campus Gossip" },
+    "to-watch": { "label": "Art Projects" },
+    "download-tools": { "label": "Studio Easel" },
+    "my-profile": { "label": "Art Student" },
+    "watch-together": { "label": "Hagu's Sketch Session" },
     "home": {
       "label": "Art School"
     },

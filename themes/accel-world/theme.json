@@ -1,5 +1,7 @@
 {
   "id": "accel-world",
+  "playerIconSet": "hud",
+  "sidebarIcons": { "landing": "network", "search": "radar", "schedule": "stopwatch", "discover": "globe", "lists": "list-ol", "my-profile": "robot", "community": "users", "achievements": "trophy", "watch-together": "link", "settings": "microchip" },
   "displayName": "Accel World",
   "description": "Bullied middle schooler Haruyuki is recruited by the beautiful student council vice president Kuroyukihime into Brain Burst — a secret game that accelerates time. His avatar Black Lotus hides surprising power.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Silver Crow"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Burst Link" },
+    "news": { "label": "Neurolinker Feed" },
+    "to-watch": { "label": "Duel Queue" },
+    "download-tools": { "label": "Enhanced Armament" },
+    "my-profile": { "label": "Silver Crow" },
+    "watch-together": { "label": "Direct Cable" },
     "home": {
       "label": "Brain Burst"
     },

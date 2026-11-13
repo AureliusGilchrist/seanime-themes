@@ -1,5 +1,7 @@
 {
   "id": "nisekoi",
+  "playerIconSet": "heart",
+  "sidebarIcons": { "landing": "school", "search": "key", "schedule": "calendar-alt", "discover": "map-pin", "lists": "book-open", "my-profile": "lock", "community": "users", "achievements": "heart", "watch-together": "heart", "settings": "key" },
   "displayName": "Nisekoi: False Love",
   "description": "Raku Ichijo made a childhood promise with a girl, holding half a pendant as proof. Years later, gang leader's daughter Chitoge enters his life — and they must fake dating to prevent a gang war.",
   "fontFamily": "",
@@ -922,6 +924,12 @@
     "1000": "Ultimate Generic Rank"
   },
   "sidebarOverrides": {
+    "landing": { "label": "Bonyari High" },
+    "news": { "label": "Gang Truce Updates" },
+    "to-watch": { "label": "Keys to Try" },
+    "download-tools": { "label": "Locket Pendant" },
+    "my-profile": { "label": "Raku" },
+    "watch-together": { "label": "Fake Date" },
     "home": {
       "label": "Raku"
     },
